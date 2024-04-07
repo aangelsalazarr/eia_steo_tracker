@@ -1,0 +1,625 @@
+period,seriesId,seriesDescription,value,unit,forecast_period
+2025-12-01,PAPR_WORLD,Total World Petroleum Production,104.5487931,million barrels per day,2024-03-01
+2025-11-01,PAPR_WORLD,Total World Petroleum Production,104.84030498,million barrels per day,2024-03-01
+2025-10-01,PAPR_WORLD,Total World Petroleum Production,104.78861228,million barrels per day,2024-03-01
+2025-09-01,PAPR_WORLD,Total World Petroleum Production,104.59010309,million barrels per day,2024-03-01
+2025-08-01,PAPR_WORLD,Total World Petroleum Production,104.55698036,million barrels per day,2024-03-01
+2025-07-01,PAPR_WORLD,Total World Petroleum Production,104.8055329,million barrels per day,2024-03-01
+2025-06-01,PAPR_WORLD,Total World Petroleum Production,104.44639713,million barrels per day,2024-03-01
+2025-05-01,PAPR_WORLD,Total World Petroleum Production,103.88385242,million barrels per day,2024-03-01
+2025-04-01,PAPR_WORLD,Total World Petroleum Production,103.73779719,million barrels per day,2024-03-01
+2025-03-01,PAPR_WORLD,Total World Petroleum Production,103.43705129,million barrels per day,2024-03-01
+2025-02-01,PAPR_WORLD,Total World Petroleum Production,103.18490771,million barrels per day,2024-03-01
+2025-01-01,PAPR_WORLD,Total World Petroleum Production,103.17613038,million barrels per day,2024-03-01
+2024-12-01,PAPR_WORLD,Total World Petroleum Production,102.82983847,million barrels per day,2024-03-01
+2024-11-01,PAPR_WORLD,Total World Petroleum Production,103.07389552,million barrels per day,2024-03-01
+2024-10-01,PAPR_WORLD,Total World Petroleum Production,102.97338034,million barrels per day,2024-03-01
+2024-09-01,PAPR_WORLD,Total World Petroleum Production,102.68087032,million barrels per day,2024-03-01
+2024-08-01,PAPR_WORLD,Total World Petroleum Production,102.92101131,million barrels per day,2024-03-01
+2024-07-01,PAPR_WORLD,Total World Petroleum Production,102.86243107,million barrels per day,2024-03-01
+2024-06-01,PAPR_WORLD,Total World Petroleum Production,101.65893625,million barrels per day,2024-03-01
+2024-05-01,PAPR_WORLD,Total World Petroleum Production,101.32603086,million barrels per day,2024-03-01
+2024-04-01,PAPR_WORLD,Total World Petroleum Production,101.05501628,million barrels per day,2024-03-01
+2024-03-01,PAPR_WORLD,Total World Petroleum Production,101.02927954,million barrels per day,2024-03-01
+2024-02-01,PAPR_WORLD,Total World Petroleum Production,101.82090784,million barrels per day,2024-03-01
+2024-01-01,PAPR_WORLD,Total World Petroleum Production,101.73595276,million barrels per day,2024-03-01
+2023-12-01,PAPR_WORLD,Total World Petroleum Production,103.03965219,million barrels per day,2024-03-01
+2023-11-01,PAPR_WORLD,Total World Petroleum Production,103.15427558,million barrels per day,2024-03-01
+2023-10-01,PAPR_WORLD,Total World Petroleum Production,102.39132762,million barrels per day,2024-03-01
+2023-09-01,PAPR_WORLD,Total World Petroleum Production,102.29422743,million barrels per day,2024-03-01
+2023-08-01,PAPR_WORLD,Total World Petroleum Production,101.24641325,million barrels per day,2024-03-01
+2023-07-01,PAPR_WORLD,Total World Petroleum Production,101.54638778,million barrels per day,2024-03-01
+2023-06-01,PAPR_WORLD,Total World Petroleum Production,102.19196888,million barrels per day,2024-03-01
+2023-05-01,PAPR_WORLD,Total World Petroleum Production,100.77660012,million barrels per day,2024-03-01
+2023-04-01,PAPR_WORLD,Total World Petroleum Production,101.48972862,million barrels per day,2024-03-01
+2023-03-01,PAPR_WORLD,Total World Petroleum Production,101.47716838,million barrels per day,2024-03-01
+2023-02-01,PAPR_WORLD,Total World Petroleum Production,101.17900622,million barrels per day,2024-03-01
+2023-01-01,PAPR_WORLD,Total World Petroleum Production,100.66751305,million barrels per day,2024-03-01
+2022-12-01,PAPR_WORLD,Total World Petroleum Production,100.51463786,million barrels per day,2024-03-01
+2022-11-01,PAPR_WORLD,Total World Petroleum Production,101.58114151,million barrels per day,2024-03-01
+2022-10-01,PAPR_WORLD,Total World Petroleum Production,101.50485284,million barrels per day,2024-03-01
+2022-09-01,PAPR_WORLD,Total World Petroleum Production,101.36208893,million barrels per day,2024-03-01
+2022-08-01,PAPR_WORLD,Total World Petroleum Production,100.96725783,million barrels per day,2024-03-01
+2022-07-01,PAPR_WORLD,Total World Petroleum Production,100.34061402,million barrels per day,2024-03-01
+2022-06-01,PAPR_WORLD,Total World Petroleum Production,99.117913502,million barrels per day,2024-03-01
+2022-05-01,PAPR_WORLD,Total World Petroleum Production,98.701925546,million barrels per day,2024-03-01
+2022-04-01,PAPR_WORLD,Total World Petroleum Production,98.778320656,million barrels per day,2024-03-01
+2022-03-01,PAPR_WORLD,Total World Petroleum Production,99.638258886,million barrels per day,2024-03-01
+2022-02-01,PAPR_WORLD,Total World Petroleum Production,98.992537951,million barrels per day,2024-03-01
+2022-01-01,PAPR_WORLD,Total World Petroleum Production,98.264802224,million barrels per day,2024-03-01
+2021-12-01,PAPR_WORLD,Total World Petroleum Production,98.253913459,million barrels per day,2024-03-01
+2021-11-01,PAPR_WORLD,Total World Petroleum Production,98.705980513,million barrels per day,2024-03-01
+2021-10-01,PAPR_WORLD,Total World Petroleum Production,98.071893937,million barrels per day,2024-03-01
+2021-09-01,PAPR_WORLD,Total World Petroleum Production,96.72520697,million barrels per day,2024-03-01
+2021-08-01,PAPR_WORLD,Total World Petroleum Production,96.488930401,million barrels per day,2024-03-01
+2021-07-01,PAPR_WORLD,Total World Petroleum Production,97.049190673,million barrels per day,2024-03-01
+2021-06-01,PAPR_WORLD,Total World Petroleum Production,95.528358242,million barrels per day,2024-03-01
+2021-05-01,PAPR_WORLD,Total World Petroleum Production,94.976313362,million barrels per day,2024-03-01
+2021-04-01,PAPR_WORLD,Total World Petroleum Production,94.001810516,million barrels per day,2024-03-01
+2021-03-01,PAPR_WORLD,Total World Petroleum Production,93.828458318,million barrels per day,2024-03-01
+2021-02-01,PAPR_WORLD,Total World Petroleum Production,90.510238603,million barrels per day,2024-03-01
+2021-01-01,PAPR_WORLD,Total World Petroleum Production,93.879817101,million barrels per day,2024-03-01
+2020-12-01,PAPR_WORLD,Total World Petroleum Production,93.080515642,million barrels per day,2024-03-01
+2020-11-01,PAPR_WORLD,Total World Petroleum Production,93.116325034,million barrels per day,2024-03-01
+2020-10-01,PAPR_WORLD,Total World Petroleum Production,91.448389643,million barrels per day,2024-03-01
+2020-09-01,PAPR_WORLD,Total World Petroleum Production,91.18378477,million barrels per day,2024-03-01
+2020-08-01,PAPR_WORLD,Total World Petroleum Production,91.091452986,million barrels per day,2024-03-01
+2020-07-01,PAPR_WORLD,Total World Petroleum Production,90.142905271,million barrels per day,2024-03-01
+2020-06-01,PAPR_WORLD,Total World Petroleum Production,88.285058884,million barrels per day,2024-03-01
+2020-05-01,PAPR_WORLD,Total World Petroleum Production,88.153888638,million barrels per day,2024-03-01
+2020-04-01,PAPR_WORLD,Total World Petroleum Production,99.44004298,million barrels per day,2024-03-01
+2020-03-01,PAPR_WORLD,Total World Petroleum Production,100.05847937,million barrels per day,2024-03-01
+2020-02-01,PAPR_WORLD,Total World Petroleum Production,99.812086549,million barrels per day,2024-03-01
+2020-01-01,PAPR_WORLD,Total World Petroleum Production,101.00411098,million barrels per day,2024-03-01
+2019-12-01,PAPR_WORLD,Total World Petroleum Production,101.45095978,million barrels per day,2024-03-01
+2019-11-01,PAPR_WORLD,Total World Petroleum Production,101.73006733,million barrels per day,2024-03-01
+2019-10-01,PAPR_WORLD,Total World Petroleum Production,101.07484903,million barrels per day,2024-03-01
+2019-09-01,PAPR_WORLD,Total World Petroleum Production,99.212569423,million barrels per day,2024-03-01
+2019-08-01,PAPR_WORLD,Total World Petroleum Production,100.87405319,million barrels per day,2024-03-01
+2019-07-01,PAPR_WORLD,Total World Petroleum Production,99.74899845,million barrels per day,2024-03-01
+2019-06-01,PAPR_WORLD,Total World Petroleum Production,100.26721766,million barrels per day,2024-03-01
+2019-05-01,PAPR_WORLD,Total World Petroleum Production,99.854106896,million barrels per day,2024-03-01
+2019-04-01,PAPR_WORLD,Total World Petroleum Production,100.05340462,million barrels per day,2024-03-01
+2019-03-01,PAPR_WORLD,Total World Petroleum Production,99.713578861,million barrels per day,2024-03-01
+2019-02-01,PAPR_WORLD,Total World Petroleum Production,99.676585175,million barrels per day,2024-03-01
+2019-01-01,PAPR_WORLD,Total World Petroleum Production,99.866899759,million barrels per day,2024-03-01
+2018-12-01,PAPR_WORLD,Total World Petroleum Production,101.59762615,million barrels per day,2024-03-01
+2018-11-01,PAPR_WORLD,Total World Petroleum Production,102.21188843,million barrels per day,2024-03-01
+2018-10-01,PAPR_WORLD,Total World Petroleum Production,102.11545748,million barrels per day,2024-03-01
+2018-09-01,PAPR_WORLD,Total World Petroleum Production,101.23501887,million barrels per day,2024-03-01
+2018-08-01,PAPR_WORLD,Total World Petroleum Production,101.5054462,million barrels per day,2024-03-01
+2018-07-01,PAPR_WORLD,Total World Petroleum Production,100.9450264,million barrels per day,2024-03-01
+2018-06-01,PAPR_WORLD,Total World Petroleum Production,100.14478815,million barrels per day,2024-03-01
+2018-05-01,PAPR_WORLD,Total World Petroleum Production,99.450366501,million barrels per day,2024-03-01
+2018-04-01,PAPR_WORLD,Total World Petroleum Production,99.450802418,million barrels per day,2024-03-01
+2018-03-01,PAPR_WORLD,Total World Petroleum Production,99.286429396,million barrels per day,2024-03-01
+2018-02-01,PAPR_WORLD,Total World Petroleum Production,98.947663018,million barrels per day,2024-03-01
+2018-01-01,PAPR_WORLD,Total World Petroleum Production,98.712950457,million barrels per day,2024-03-01
+2017-12-01,PAPR_WORLD,Total World Petroleum Production,98.211140956,million barrels per day,2024-03-01
+2017-11-01,PAPR_WORLD,Total World Petroleum Production,99.143466983,million barrels per day,2024-03-01
+2017-10-01,PAPR_WORLD,Total World Petroleum Production,98.66827418,million barrels per day,2024-03-01
+2017-09-01,PAPR_WORLD,Total World Petroleum Production,98.075246432,million barrels per day,2024-03-01
+2017-08-01,PAPR_WORLD,Total World Petroleum Production,98.044348482,million barrels per day,2024-03-01
+2017-07-01,PAPR_WORLD,Total World Petroleum Production,98.707957879,million barrels per day,2024-03-01
+2017-06-01,PAPR_WORLD,Total World Petroleum Production,98.068850408,million barrels per day,2024-03-01
+2017-05-01,PAPR_WORLD,Total World Petroleum Production,97.400173347,million barrels per day,2024-03-01
+2017-04-01,PAPR_WORLD,Total World Petroleum Production,96.417143968,million barrels per day,2024-03-01
+2017-03-01,PAPR_WORLD,Total World Petroleum Production,96.655513507,million barrels per day,2024-03-01
+2017-02-01,PAPR_WORLD,Total World Petroleum Production,96.941218641,million barrels per day,2024-03-01
+2017-01-01,PAPR_WORLD,Total World Petroleum Production,97.014126352,million barrels per day,2024-03-01
+2016-12-01,PAPR_WORLD,Total World Petroleum Production,97.936648063,million barrels per day,2024-03-01
+2016-11-01,PAPR_WORLD,Total World Petroleum Production,99.086973009,million barrels per day,2024-03-01
+2016-10-01,PAPR_WORLD,Total World Petroleum Production,97.941363579,million barrels per day,2024-03-01
+2016-09-01,PAPR_WORLD,Total World Petroleum Production,96.729216009,million barrels per day,2024-03-01
+2016-08-01,PAPR_WORLD,Total World Petroleum Production,96.574082353,million barrels per day,2024-03-01
+2016-07-01,PAPR_WORLD,Total World Petroleum Production,97.574782224,million barrels per day,2024-03-01
+2016-06-01,PAPR_WORLD,Total World Petroleum Production,96.523190676,million barrels per day,2024-03-01
+2016-05-01,PAPR_WORLD,Total World Petroleum Production,95.999508773,million barrels per day,2024-03-01
+2016-04-01,PAPR_WORLD,Total World Petroleum Production,96.438775343,million barrels per day,2024-03-01
+2016-03-01,PAPR_WORLD,Total World Petroleum Production,96.599902805,million barrels per day,2024-03-01
+2016-02-01,PAPR_WORLD,Total World Petroleum Production,96.565148055,million barrels per day,2024-03-01
+2016-01-01,PAPR_WORLD,Total World Petroleum Production,97.355515386,million barrels per day,2024-03-01
+2015-12-01,PAPR_WORLD,Total World Petroleum Production,97.632851046,million barrels per day,2024-03-01
+2015-11-01,PAPR_WORLD,Total World Petroleum Production,97.642118074,million barrels per day,2024-03-01
+2015-10-01,PAPR_WORLD,Total World Petroleum Production,97.209970224,million barrels per day,2024-03-01
+2015-09-01,PAPR_WORLD,Total World Petroleum Production,97.044907117,million barrels per day,2024-03-01
+2015-08-01,PAPR_WORLD,Total World Petroleum Production,97.357579815,million barrels per day,2024-03-01
+2015-07-01,PAPR_WORLD,Total World Petroleum Production,97.416329311,million barrels per day,2024-03-01
+2015-06-01,PAPR_WORLD,Total World Petroleum Production,96.888397038,million barrels per day,2024-03-01
+2015-05-01,PAPR_WORLD,Total World Petroleum Production,96.198284405,million barrels per day,2024-03-01
+2015-04-01,PAPR_WORLD,Total World Petroleum Production,96.051910517,million barrels per day,2024-03-01
+2015-03-01,PAPR_WORLD,Total World Petroleum Production,95.9432953,million barrels per day,2024-03-01
+2015-02-01,PAPR_WORLD,Total World Petroleum Production,94.915743243,million barrels per day,2024-03-01
+2015-01-01,PAPR_WORLD,Total World Petroleum Production,95.049631539,million barrels per day,2024-03-01
+2014-12-01,PAPR_WORLD,Total World Petroleum Production,96.262302844,million barrels per day,2024-03-01
+2014-11-01,PAPR_WORLD,Total World Petroleum Production,95.588214742,million barrels per day,2024-03-01
+2014-10-01,PAPR_WORLD,Total World Petroleum Production,96.048373392,million barrels per day,2024-03-01
+2014-09-01,PAPR_WORLD,Total World Petroleum Production,94.794923618,million barrels per day,2024-03-01
+2014-08-01,PAPR_WORLD,Total World Petroleum Production,94.306690651,million barrels per day,2024-03-01
+2014-07-01,PAPR_WORLD,Total World Petroleum Production,93.857575995,million barrels per day,2024-03-01
+2014-06-01,PAPR_WORLD,Total World Petroleum Production,93.588530618,million barrels per day,2024-03-01
+2014-05-01,PAPR_WORLD,Total World Petroleum Production,92.832706167,million barrels per day,2024-03-01
+2014-04-01,PAPR_WORLD,Total World Petroleum Production,92.403568618,million barrels per day,2024-03-01
+2014-03-01,PAPR_WORLD,Total World Petroleum Production,92.088341134,million barrels per day,2024-03-01
+2014-02-01,PAPR_WORLD,Total World Petroleum Production,92.747714761,million barrels per day,2024-03-01
+2014-01-01,PAPR_WORLD,Total World Petroleum Production,92.206483747,million barrels per day,2024-03-01
+2013-12-01,PAPR_WORLD,Total World Petroleum Production,92.149689768,million barrels per day,2024-03-01
+2013-11-01,PAPR_WORLD,Total World Petroleum Production,92.016409585,million barrels per day,2024-03-01
+2013-10-01,PAPR_WORLD,Total World Petroleum Production,91.68707538,million barrels per day,2024-03-01
+2013-09-01,PAPR_WORLD,Total World Petroleum Production,91.430141251,million barrels per day,2024-03-01
+2013-08-01,PAPR_WORLD,Total World Petroleum Production,92.0555218,million barrels per day,2024-03-01
+2013-07-01,PAPR_WORLD,Total World Petroleum Production,92.213361058,million barrels per day,2024-03-01
+2013-06-01,PAPR_WORLD,Total World Petroleum Production,91.339410798,million barrels per day,2024-03-01
+2013-05-01,PAPR_WORLD,Total World Petroleum Production,91.203967477,million barrels per day,2024-03-01
+2013-04-01,PAPR_WORLD,Total World Petroleum Production,91.064245585,million barrels per day,2024-03-01
+2013-03-01,PAPR_WORLD,Total World Petroleum Production,90.232513348,million barrels per day,2024-03-01
+2013-02-01,PAPR_WORLD,Total World Petroleum Production,89.973879966,million barrels per day,2024-03-01
+2013-01-01,PAPR_WORLD,Total World Petroleum Production,90.211574638,million barrels per day,2024-03-01
+2012-12-01,PAPR_WORLD,Total World Petroleum Production,91.042043099,million barrels per day,2024-03-01
+2012-11-01,PAPR_WORLD,Total World Petroleum Production,91.365020762,million barrels per day,2024-03-01
+2012-10-01,PAPR_WORLD,Total World Petroleum Production,90.872126924,million barrels per day,2024-03-01
+2012-09-01,PAPR_WORLD,Total World Petroleum Production,90.170069096,million barrels per day,2024-03-01
+2012-08-01,PAPR_WORLD,Total World Petroleum Production,90.882038762,million barrels per day,2024-03-01
+2012-07-01,PAPR_WORLD,Total World Petroleum Production,90.793795214,million barrels per day,2024-03-01
+2012-06-01,PAPR_WORLD,Total World Petroleum Production,90.340712429,million barrels per day,2024-03-01
+2012-05-01,PAPR_WORLD,Total World Petroleum Production,90.617266311,million barrels per day,2024-03-01
+2012-04-01,PAPR_WORLD,Total World Petroleum Production,91.019455429,million barrels per day,2024-03-01
+2012-03-01,PAPR_WORLD,Total World Petroleum Production,90.619085246,million barrels per day,2024-03-01
+2012-02-01,PAPR_WORLD,Total World Petroleum Production,90.8838659,million barrels per day,2024-03-01
+2012-01-01,PAPR_WORLD,Total World Petroleum Production,90.571652924,million barrels per day,2024-03-01
+2011-12-01,PAPR_WORLD,Total World Petroleum Production,90.198758152,million barrels per day,2024-03-01
+2011-11-01,PAPR_WORLD,Total World Petroleum Production,89.816224324,million barrels per day,2024-03-01
+2011-10-01,PAPR_WORLD,Total World Petroleum Production,88.804866862,million barrels per day,2024-03-01
+2011-09-01,PAPR_WORLD,Total World Petroleum Production,88.326257324,million barrels per day,2024-03-01
+2011-08-01,PAPR_WORLD,Total World Petroleum Production,89.050758507,million barrels per day,2024-03-01
+2011-07-01,PAPR_WORLD,Total World Petroleum Production,88.550830862,million barrels per day,2024-03-01
+2011-06-01,PAPR_WORLD,Total World Petroleum Production,88.041493888,million barrels per day,2024-03-01
+2011-05-01,PAPR_WORLD,Total World Petroleum Production,87.124198058,million barrels per day,2024-03-01
+2011-04-01,PAPR_WORLD,Total World Petroleum Production,87.283312201,million barrels per day,2024-03-01
+2011-03-01,PAPR_WORLD,Total World Petroleum Production,87.299282051,million barrels per day,2024-03-01
+2011-02-01,PAPR_WORLD,Total World Petroleum Production,88.193841924,million barrels per day,2024-03-01
+2011-01-01,PAPR_WORLD,Total World Petroleum Production,88.934677281,million barrels per day,2024-03-01
+2010-12-01,PAPR_WORLD,Total World Petroleum Production,88.077295433,million barrels per day,2024-03-01
+2010-11-01,PAPR_WORLD,Total World Petroleum Production,88.066245851,million barrels per day,2024-03-01
+2010-10-01,PAPR_WORLD,Total World Petroleum Production,87.745844729,million barrels per day,2024-03-01
+2010-09-01,PAPR_WORLD,Total World Petroleum Production,87.456091242,million barrels per day,2024-03-01
+2010-08-01,PAPR_WORLD,Total World Petroleum Production,87.316668669,million barrels per day,2024-03-01
+2010-07-01,PAPR_WORLD,Total World Petroleum Production,87.401474935,million barrels per day,2024-03-01
+2010-06-01,PAPR_WORLD,Total World Petroleum Production,87.076734744,million barrels per day,2024-03-01
+2010-05-01,PAPR_WORLD,Total World Petroleum Production,87.405358256,million barrels per day,2024-03-01
+2010-04-01,PAPR_WORLD,Total World Petroleum Production,87.117259479,million barrels per day,2024-03-01
+2010-03-01,PAPR_WORLD,Total World Petroleum Production,86.966163949,million barrels per day,2024-03-01
+2010-02-01,PAPR_WORLD,Total World Petroleum Production,86.702150985,million barrels per day,2024-03-01
+2010-01-01,PAPR_WORLD,Total World Petroleum Production,86.262364892,million barrels per day,2024-03-01
+2009-12-01,PAPR_WORLD,Total World Petroleum Production,86.585860641,million barrels per day,2024-03-01
+2009-11-01,PAPR_WORLD,Total World Petroleum Production,87.05886741,million barrels per day,2024-03-01
+2009-10-01,PAPR_WORLD,Total World Petroleum Production,86.91969571,million barrels per day,2024-03-01
+2009-09-01,PAPR_WORLD,Total World Petroleum Production,86.470088087,million barrels per day,2024-03-01
+2009-08-01,PAPR_WORLD,Total World Petroleum Production,86.056904286,million barrels per day,2024-03-01
+2009-07-01,PAPR_WORLD,Total World Petroleum Production,86.393366279,million barrels per day,2024-03-01
+2009-06-01,PAPR_WORLD,Total World Petroleum Production,85.567855333,million barrels per day,2024-03-01
+2009-05-01,PAPR_WORLD,Total World Petroleum Production,85.275981603,million barrels per day,2024-03-01
+2009-04-01,PAPR_WORLD,Total World Petroleum Production,85.325646497,million barrels per day,2024-03-01
+2009-03-01,PAPR_WORLD,Total World Petroleum Production,84.934406979,million barrels per day,2024-03-01
+2009-02-01,PAPR_WORLD,Total World Petroleum Production,85.089592426,million barrels per day,2024-03-01
+2009-01-01,PAPR_WORLD,Total World Petroleum Production,84.426311039,million barrels per day,2024-03-01
+2008-12-01,PAPR_WORLD,Total World Petroleum Production,85.464146296,million barrels per day,2024-03-01
+2008-11-01,PAPR_WORLD,Total World Petroleum Production,86.757668543,million barrels per day,2024-03-01
+2008-10-01,PAPR_WORLD,Total World Petroleum Production,87.018156803,million barrels per day,2024-03-01
+2008-09-01,PAPR_WORLD,Total World Petroleum Production,85.429594243,million barrels per day,2024-03-01
+2008-08-01,PAPR_WORLD,Total World Petroleum Production,87.075613624,million barrels per day,2024-03-01
+2008-07-01,PAPR_WORLD,Total World Petroleum Production,88.012734132,million barrels per day,2024-03-01
+2008-06-01,PAPR_WORLD,Total World Petroleum Production,87.023762933,million barrels per day,2024-03-01
+2008-05-01,PAPR_WORLD,Total World Petroleum Production,87.069906669,million barrels per day,2024-03-01
+2008-04-01,PAPR_WORLD,Total World Petroleum Production,86.333276567,million barrels per day,2024-03-01
+2008-03-01,PAPR_WORLD,Total World Petroleum Production,86.809189447,million barrels per day,2024-03-01
+2008-02-01,PAPR_WORLD,Total World Petroleum Production,86.585843998,million barrels per day,2024-03-01
+2008-01-01,PAPR_WORLD,Total World Petroleum Production,86.509614233,million barrels per day,2024-03-01
+2007-12-01,PAPR_WORLD,Total World Petroleum Production,86.472988935,million barrels per day,2024-03-01
+2007-11-01,PAPR_WORLD,Total World Petroleum Production,85.941101333,million barrels per day,2024-03-01
+2007-10-01,PAPR_WORLD,Total World Petroleum Production,86.178913677,million barrels per day,2024-03-01
+2007-09-01,PAPR_WORLD,Total World Petroleum Production,85.432735,million barrels per day,2024-03-01
+2007-08-01,PAPR_WORLD,Total World Petroleum Production,84.593968323,million barrels per day,2024-03-01
+2007-07-01,PAPR_WORLD,Total World Petroleum Production,85.406605161,million barrels per day,2024-03-01
+2007-06-01,PAPR_WORLD,Total World Petroleum Production,84.925938667,million barrels per day,2024-03-01
+2007-05-01,PAPR_WORLD,Total World Petroleum Production,84.937230097,million barrels per day,2024-03-01
+2007-04-01,PAPR_WORLD,Total World Petroleum Production,85.281539667,million barrels per day,2024-03-01
+2007-03-01,PAPR_WORLD,Total World Petroleum Production,84.858717226,million barrels per day,2024-03-01
+2007-02-01,PAPR_WORLD,Total World Petroleum Production,84.981768143,million barrels per day,2024-03-01
+2007-01-01,PAPR_WORLD,Total World Petroleum Production,84.714321548,million barrels per day,2024-03-01
+2006-12-01,PAPR_WORLD,Total World Petroleum Production,84.93611129,million barrels per day,2024-03-01
+2006-11-01,PAPR_WORLD,Total World Petroleum Production,85.185280333,million barrels per day,2024-03-01
+2006-10-01,PAPR_WORLD,Total World Petroleum Production,85.720233097,million barrels per day,2024-03-01
+2006-09-01,PAPR_WORLD,Total World Petroleum Production,85.463473667,million barrels per day,2024-03-01
+2006-08-01,PAPR_WORLD,Total World Petroleum Production,85.977409452,million barrels per day,2024-03-01
+2006-07-01,PAPR_WORLD,Total World Petroleum Production,86.168398677,million barrels per day,2024-03-01
+2006-06-01,PAPR_WORLD,Total World Petroleum Production,84.834329667,million barrels per day,2024-03-01
+2006-05-01,PAPR_WORLD,Total World Petroleum Production,84.842670871,million barrels per day,2024-03-01
+2006-04-01,PAPR_WORLD,Total World Petroleum Production,85.048583333,million barrels per day,2024-03-01
+2006-03-01,PAPR_WORLD,Total World Petroleum Production,84.727199774,million barrels per day,2024-03-01
+2006-02-01,PAPR_WORLD,Total World Petroleum Production,85.130809571,million barrels per day,2024-03-01
+2006-01-01,PAPR_WORLD,Total World Petroleum Production,85.070154097,million barrels per day,2024-03-01
+2005-12-01,PAPR_WORLD,Total World Petroleum Production,85.12415271,million barrels per day,2024-03-01
+2005-11-01,PAPR_WORLD,Total World Petroleum Production,85.411773667,million barrels per day,2024-03-01
+2005-10-01,PAPR_WORLD,Total World Petroleum Production,84.561751903,million barrels per day,2024-03-01
+2005-09-01,PAPR_WORLD,Total World Petroleum Production,84.614570333,million barrels per day,2024-03-01
+2005-08-01,PAPR_WORLD,Total World Petroleum Production,85.304933323,million barrels per day,2024-03-01
+2005-07-01,PAPR_WORLD,Total World Petroleum Production,85.054784742,million barrels per day,2024-03-01
+2005-06-01,PAPR_WORLD,Total World Petroleum Production,85.390622333,million barrels per day,2024-03-01
+2005-05-01,PAPR_WORLD,Total World Petroleum Production,85.881121903,million barrels per day,2024-03-01
+2005-04-01,PAPR_WORLD,Total World Petroleum Production,85.591060333,million barrels per day,2024-03-01
+2005-03-01,PAPR_WORLD,Total World Petroleum Production,85.130906581,million barrels per day,2024-03-01
+2005-02-01,PAPR_WORLD,Total World Petroleum Production,85.006621143,million barrels per day,2024-03-01
+2005-01-01,PAPR_WORLD,Total World Petroleum Production,84.610883935,million barrels per day,2024-03-01
+2004-12-01,PAPR_WORLD,Total World Petroleum Production,84.294575452,million barrels per day,2024-03-01
+2004-11-01,PAPR_WORLD,Total World Petroleum Production,84.635215,million barrels per day,2024-03-01
+2004-10-01,PAPR_WORLD,Total World Petroleum Production,84.786281,million barrels per day,2024-03-01
+2004-09-01,PAPR_WORLD,Total World Petroleum Production,83.88915,million barrels per day,2024-03-01
+2004-08-01,PAPR_WORLD,Total World Petroleum Production,83.336425194,million barrels per day,2024-03-01
+2004-07-01,PAPR_WORLD,Total World Petroleum Production,84.391243226,million barrels per day,2024-03-01
+2004-06-01,PAPR_WORLD,Total World Petroleum Production,83.774987,million barrels per day,2024-03-01
+2004-05-01,PAPR_WORLD,Total World Petroleum Production,82.130470097,million barrels per day,2024-03-01
+2004-04-01,PAPR_WORLD,Total World Petroleum Production,82.551167,million barrels per day,2024-03-01
+2004-03-01,PAPR_WORLD,Total World Petroleum Production,82.674564129,million barrels per day,2024-03-01
+2004-02-01,PAPR_WORLD,Total World Petroleum Production,82.77212031,million barrels per day,2024-03-01
+2004-01-01,PAPR_WORLD,Total World Petroleum Production,82.758566097,million barrels per day,2024-03-01
+2003-12-01,PAPR_WORLD,Total World Petroleum Production,82.81938173,million barrels per day,2024-03-01
+2003-11-01,PAPR_WORLD,Total World Petroleum Production,81.477257415,million barrels per day,2024-03-01
+2003-10-01,PAPR_WORLD,Total World Petroleum Production,81.111265151,million barrels per day,2024-03-01
+2003-09-01,PAPR_WORLD,Total World Petroleum Production,80.067136979,million barrels per day,2024-03-01
+2003-08-01,PAPR_WORLD,Total World Petroleum Production,79.280418381,million barrels per day,2024-03-01
+2003-07-01,PAPR_WORLD,Total World Petroleum Production,78.724208233,million barrels per day,2024-03-01
+2003-06-01,PAPR_WORLD,Total World Petroleum Production,77.889303429,million barrels per day,2024-03-01
+2003-05-01,PAPR_WORLD,Total World Petroleum Production,78.597786336,million barrels per day,2024-03-01
+2003-04-01,PAPR_WORLD,Total World Petroleum Production,78.645748957,million barrels per day,2024-03-01
+2003-03-01,PAPR_WORLD,Total World Petroleum Production,79.783613953,million barrels per day,2024-03-01
+2003-02-01,PAPR_WORLD,Total World Petroleum Production,79.30746518,million barrels per day,2024-03-01
+2003-01-01,PAPR_WORLD,Total World Petroleum Production,77.515616942,million barrels per day,2024-03-01
+2002-12-01,PAPR_WORLD,Total World Petroleum Production,77.065732126,million barrels per day,2024-03-01
+2002-11-01,PAPR_WORLD,Total World Petroleum Production,79.010242622,million barrels per day,2024-03-01
+2002-10-01,PAPR_WORLD,Total World Petroleum Production,78.721789083,million barrels per day,2024-03-01
+2002-09-01,PAPR_WORLD,Total World Petroleum Production,77.267912681,million barrels per day,2024-03-01
+2002-08-01,PAPR_WORLD,Total World Petroleum Production,76.710917031,million barrels per day,2024-03-01
+2002-07-01,PAPR_WORLD,Total World Petroleum Production,76.876798971,million barrels per day,2024-03-01
+2002-06-01,PAPR_WORLD,Total World Petroleum Production,76.442642952,million barrels per day,2024-03-01
+2002-05-01,PAPR_WORLD,Total World Petroleum Production,76.765415902,million barrels per day,2024-03-01
+2002-04-01,PAPR_WORLD,Total World Petroleum Production,76.107781563,million barrels per day,2024-03-01
+2002-03-01,PAPR_WORLD,Total World Petroleum Production,76.601535645,million barrels per day,2024-03-01
+2002-02-01,PAPR_WORLD,Total World Petroleum Production,76.805545477,million barrels per day,2024-03-01
+2002-01-01,PAPR_WORLD,Total World Petroleum Production,76.67937571,million barrels per day,2024-03-01
+2001-12-01,PAPR_WORLD,Total World Petroleum Production,77.195599187,million barrels per day,2024-03-01
+2001-11-01,PAPR_WORLD,Total World Petroleum Production,77.937895268,million barrels per day,2024-03-01
+2001-10-01,PAPR_WORLD,Total World Petroleum Production,77.427532767,million barrels per day,2024-03-01
+2001-09-01,PAPR_WORLD,Total World Petroleum Production,77.427391816,million barrels per day,2024-03-01
+2001-08-01,PAPR_WORLD,Total World Petroleum Production,77.86316175,million barrels per day,2024-03-01
+2001-07-01,PAPR_WORLD,Total World Petroleum Production,77.700934504,million barrels per day,2024-03-01
+2001-06-01,PAPR_WORLD,Total World Petroleum Production,75.716910623,million barrels per day,2024-03-01
+2001-05-01,PAPR_WORLD,Total World Petroleum Production,77.286574689,million barrels per day,2024-03-01
+2001-04-01,PAPR_WORLD,Total World Petroleum Production,77.914096629,million barrels per day,2024-03-01
+2001-03-01,PAPR_WORLD,Total World Petroleum Production,78.92450124,million barrels per day,2024-03-01
+2001-02-01,PAPR_WORLD,Total World Petroleum Production,78.197758198,million barrels per day,2024-03-01
+2001-01-01,PAPR_WORLD,Total World Petroleum Production,78.317550807,million barrels per day,2024-03-01
+2000-12-01,PAPR_WORLD,Total World Petroleum Production,78.27239709,million barrels per day,2024-03-01
+2000-11-01,PAPR_WORLD,Total World Petroleum Production,79.917602201,million barrels per day,2024-03-01
+2000-10-01,PAPR_WORLD,Total World Petroleum Production,79.228879113,million barrels per day,2024-03-01
+2000-09-01,PAPR_WORLD,Total World Petroleum Production,78.86412713,million barrels per day,2024-03-01
+2000-08-01,PAPR_WORLD,Total World Petroleum Production,78.668464482,million barrels per day,2024-03-01
+2000-07-01,PAPR_WORLD,Total World Petroleum Production,77.768079367,million barrels per day,2024-03-01
+2000-06-01,PAPR_WORLD,Total World Petroleum Production,77.215592694,million barrels per day,2024-03-01
+2000-05-01,PAPR_WORLD,Total World Petroleum Production,77.465356572,million barrels per day,2024-03-01
+2000-04-01,PAPR_WORLD,Total World Petroleum Production,76.920922558,million barrels per day,2024-03-01
+2000-03-01,PAPR_WORLD,Total World Petroleum Production,76.302573696,million barrels per day,2024-03-01
+2000-02-01,PAPR_WORLD,Total World Petroleum Production,76.253409669,million barrels per day,2024-03-01
+2000-01-01,PAPR_WORLD,Total World Petroleum Production,75.670286255,million barrels per day,2024-03-01
+2025-12-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",105.67987985,million barrels per day,2024-03-01
+2025-11-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",103.93315456,million barrels per day,2024-03-01
+2025-10-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",103.03810638,million barrels per day,2024-03-01
+2025-09-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",104.36387424,million barrels per day,2024-03-01
+2025-08-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",104.01517082,million barrels per day,2024-03-01
+2025-07-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",104.10455643,million barrels per day,2024-03-01
+2025-06-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",104.71594704,million barrels per day,2024-03-01
+2025-05-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",103.02564,million barrels per day,2024-03-01
+2025-04-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",102.88269556,million barrels per day,2024-03-01
+2025-03-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",103.53035939,million barrels per day,2024-03-01
+2025-02-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",104.75999893,million barrels per day,2024-03-01
+2025-01-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",101.84198981,million barrels per day,2024-03-01
+2024-12-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",104.2907955,million barrels per day,2024-03-01
+2024-11-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",102.69867668,million barrels per day,2024-03-01
+2024-10-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",101.78164864,million barrels per day,2024-03-01
+2024-09-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",103.02763575,million barrels per day,2024-03-01
+2024-08-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",102.84718065,million barrels per day,2024-03-01
+2024-07-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",102.75636439,million barrels per day,2024-03-01
+2024-06-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",103.33383445,million barrels per day,2024-03-01
+2024-05-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",101.71487636,million barrels per day,2024-03-01
+2024-04-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",101.607116,million barrels per day,2024-03-01
+2024-03-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",101.90859948,million barrels per day,2024-03-01
+2024-02-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",102.92538508,million barrels per day,2024-03-01
+2024-01-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",100.3565141,million barrels per day,2024-03-01
+2023-12-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",103.23531495,million barrels per day,2024-03-01
+2023-11-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",102.11599898,million barrels per day,2024-03-01
+2023-10-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",100.30097496,million barrels per day,2024-03-01
+2023-09-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",101.42060787,million barrels per day,2024-03-01
+2023-08-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",101.49777979,million barrels per day,2024-03-01
+2023-07-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",101.01661289,million barrels per day,2024-03-01
+2023-06-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",102.35363262,million barrels per day,2024-03-01
+2023-05-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",101.02535453,million barrels per day,2024-03-01
+2023-04-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",99.26858859,million barrels per day,2024-03-01
+2023-03-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",100.73334073,million barrels per day,2024-03-01
+2023-02-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",101.4284401,million barrels per day,2024-03-01
+2023-01-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",97.733831569,million barrels per day,2024-03-01
+2022-12-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",100.74469834,million barrels per day,2024-03-01
+2022-11-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",99.818095954,million barrels per day,2024-03-01
+2022-10-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",98.039863343,million barrels per day,2024-03-01
+2022-09-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",100.4289804,million barrels per day,2024-03-01
+2022-08-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",100.14292345,million barrels per day,2024-03-01
+2022-07-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",99.472036326,million barrels per day,2024-03-01
+2022-06-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",100.27811257,million barrels per day,2024-03-01
+2022-05-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",98.335850369,million barrels per day,2024-03-01
+2022-04-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",97.147393918,million barrels per day,2024-03-01
+2022-03-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",98.657874484,million barrels per day,2024-03-01
+2022-02-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",100.01619778,million barrels per day,2024-03-01
+2022-01-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",96.828203418,million barrels per day,2024-03-01
+2021-12-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",100.80429354,million barrels per day,2024-03-01
+2021-11-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",99.282857913,million barrels per day,2024-03-01
+2021-10-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",97.992992208,million barrels per day,2024-03-01
+2021-09-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",99.055912805,million barrels per day,2024-03-01
+2021-08-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",98.08995527,million barrels per day,2024-03-01
+2021-07-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",98.284027359,million barrels per day,2024-03-01
+2021-06-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",98.685250918,million barrels per day,2024-03-01
+2021-05-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",95.893989623,million barrels per day,2024-03-01
+2021-04-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",95.485861398,million barrels per day,2024-03-01
+2021-03-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",95.513207701,million barrels per day,2024-03-01
+2021-02-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",93.905750999,million barrels per day,2024-03-01
+2021-01-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",92.502857855,million barrels per day,2024-03-01
+2020-12-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",94.097776297,million barrels per day,2024-03-01
+2020-11-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",93.207208046,million barrels per day,2024-03-01
+2020-10-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",92.425867269,million barrels per day,2024-03-01
+2020-09-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",93.334618045,million barrels per day,2024-03-01
+2020-08-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",91.867472765,million barrels per day,2024-03-01
+2020-07-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",92.240752934,million barrels per day,2024-03-01
+2020-06-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",90.195992245,million barrels per day,2024-03-01
+2020-05-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",86.526219435,million barrels per day,2024-03-01
+2020-04-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",83.797163233,million barrels per day,2024-03-01
+2020-03-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",91.379126333,million barrels per day,2024-03-01
+2020-02-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",95.606311211,million barrels per day,2024-03-01
+2020-01-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",94.311442905,million barrels per day,2024-03-01
+2019-12-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",101.7577682,million barrels per day,2024-03-01
+2019-11-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",101.3308745,million barrels per day,2024-03-01
+2019-10-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",100.54910358,million barrels per day,2024-03-01
+2019-09-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",101.01184252,million barrels per day,2024-03-01
+2019-08-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",102.24712864,million barrels per day,2024-03-01
+2019-07-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",102.29971778,million barrels per day,2024-03-01
+2019-06-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",101.21016993,million barrels per day,2024-03-01
+2019-05-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",100.22637269,million barrels per day,2024-03-01
+2019-04-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",100.41865237,million barrels per day,2024-03-01
+2019-03-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",99.470282579,million barrels per day,2024-03-01
+2019-02-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",100.61978653,million barrels per day,2024-03-01
+2019-01-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",99.587124031,million barrels per day,2024-03-01
+2018-12-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",100.20235802,million barrels per day,2024-03-01
+2018-11-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",100.47351149,million barrels per day,2024-03-01
+2018-10-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",100.11653569,million barrels per day,2024-03-01
+2018-09-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",100.16533404,million barrels per day,2024-03-01
+2018-08-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",101.45368714,million barrels per day,2024-03-01
+2018-07-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",101.09367682,million barrels per day,2024-03-01
+2018-06-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",100.67667648,million barrels per day,2024-03-01
+2018-05-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",99.668763779,million barrels per day,2024-03-01
+2018-04-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",98.952708534,million barrels per day,2024-03-01
+2018-03-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",99.942432312,million barrels per day,2024-03-01
+2018-02-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",99.745006929,million barrels per day,2024-03-01
+2018-01-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",98.134068284,million barrels per day,2024-03-01
+2017-12-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",99.831887754,million barrels per day,2024-03-01
+2017-11-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",101.40143431,million barrels per day,2024-03-01
+2017-10-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",98.758583479,million barrels per day,2024-03-01
+2017-09-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",100.38808252,million barrels per day,2024-03-01
+2017-08-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",99.467242766,million barrels per day,2024-03-01
+2017-07-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",99.199799748,million barrels per day,2024-03-01
+2017-06-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",101.23980708,million barrels per day,2024-03-01
+2017-05-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",99.447440391,million barrels per day,2024-03-01
+2017-04-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",96.97115804,million barrels per day,2024-03-01
+2017-03-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",99.197752904,million barrels per day,2024-03-01
+2017-02-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",97.223192867,million barrels per day,2024-03-01
+2017-01-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",95.497070724,million barrels per day,2024-03-01
+2016-12-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",99.204867928,million barrels per day,2024-03-01
+2016-11-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",97.795274753,million barrels per day,2024-03-01
+2016-10-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",95.774567973,million barrels per day,2024-03-01
+2016-09-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",97.164848397,million barrels per day,2024-03-01
+2016-08-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",99.360643497,million barrels per day,2024-03-01
+2016-07-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",96.163540302,million barrels per day,2024-03-01
+2016-06-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",96.8921344,million barrels per day,2024-03-01
+2016-05-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",96.140916951,million barrels per day,2024-03-01
+2016-04-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",96.717865548,million barrels per day,2024-03-01
+2016-03-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",97.152856235,million barrels per day,2024-03-01
+2016-02-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",98.118338074,million barrels per day,2024-03-01
+2016-01-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",93.134993086,million barrels per day,2024-03-01
+2015-12-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",98.381387582,million barrels per day,2024-03-01
+2015-11-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",94.639931366,million barrels per day,2024-03-01
+2015-10-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",95.197102141,million barrels per day,2024-03-01
+2015-09-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",97.012095483,million barrels per day,2024-03-01
+2015-08-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",95.746934796,million barrels per day,2024-03-01
+2015-07-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",97.297311178,million barrels per day,2024-03-01
+2015-06-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",97.280872916,million barrels per day,2024-03-01
+2015-05-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",92.63516715,million barrels per day,2024-03-01
+2015-04-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",95.20494618,million barrels per day,2024-03-01
+2015-03-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",93.430529293,million barrels per day,2024-03-01
+2015-02-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",96.230375696,million barrels per day,2024-03-01
+2015-01-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",93.051955299,million barrels per day,2024-03-01
+2014-12-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",96.68613714,million barrels per day,2024-03-01
+2014-11-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",93.637622934,million barrels per day,2024-03-01
+2014-10-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",93.738010849,million barrels per day,2024-03-01
+2014-09-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",95.181618749,million barrels per day,2024-03-01
+2014-08-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",93.667489334,million barrels per day,2024-03-01
+2014-07-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",93.818806835,million barrels per day,2024-03-01
+2014-06-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",93.442581893,million barrels per day,2024-03-01
+2014-05-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",92.578361064,million barrels per day,2024-03-01
+2014-04-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",93.33042999,million barrels per day,2024-03-01
+2014-03-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",91.514504347,million barrels per day,2024-03-01
+2014-02-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",94.053370336,million barrels per day,2024-03-01
+2014-01-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",92.786489122,million barrels per day,2024-03-01
+2013-12-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",93.500952739,million barrels per day,2024-03-01
+2013-11-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",93.657120822,million barrels per day,2024-03-01
+2013-10-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",92.072222288,million barrels per day,2024-03-01
+2013-09-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",92.109292466,million barrels per day,2024-03-01
+2013-08-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",91.879079893,million barrels per day,2024-03-01
+2013-07-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",93.926188698,million barrels per day,2024-03-01
+2013-06-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",91.954369519,million barrels per day,2024-03-01
+2013-05-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",91.487321912,million barrels per day,2024-03-01
+2013-04-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",91.185381385,million barrels per day,2024-03-01
+2013-03-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",90.457503445,million barrels per day,2024-03-01
+2013-02-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",91.768215768,million barrels per day,2024-03-01
+2013-01-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",91.708393383,million barrels per day,2024-03-01
+2012-12-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",91.45751194,million barrels per day,2024-03-01
+2012-11-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",92.490462919,million barrels per day,2024-03-01
+2012-10-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",92.628854786,million barrels per day,2024-03-01
+2012-09-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",89.95020394,million barrels per day,2024-03-01
+2012-08-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",91.415429518,million barrels per day,2024-03-01
+2012-07-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",91.518003936,million barrels per day,2024-03-01
+2012-06-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",90.669443544,million barrels per day,2024-03-01
+2012-05-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",90.297780419,million barrels per day,2024-03-01
+2012-04-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",88.174136156,million barrels per day,2024-03-01
+2012-03-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",89.82116644,million barrels per day,2024-03-01
+2012-02-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",91.774903115,million barrels per day,2024-03-01
+2012-01-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",87.635587015,million barrels per day,2024-03-01
+2011-12-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",90.816578303,million barrels per day,2024-03-01
+2011-11-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",91.1643906,million barrels per day,2024-03-01
+2011-10-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",89.201467525,million barrels per day,2024-03-01
+2011-09-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",90.145024085,million barrels per day,2024-03-01
+2011-08-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",90.987772683,million barrels per day,2024-03-01
+2011-07-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",89.168072515,million barrels per day,2024-03-01
+2011-06-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",89.468912392,million barrels per day,2024-03-01
+2011-05-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",87.524518275,million barrels per day,2024-03-01
+2011-04-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",87.316818089,million barrels per day,2024-03-01
+2011-03-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",88.90789976,million barrels per day,2024-03-01
+2011-02-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",90.323522461,million barrels per day,2024-03-01
+2011-01-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",87.738428841,million barrels per day,2024-03-01
+2010-12-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",92.098414064,million barrels per day,2024-03-01
+2010-11-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",90.536463827,million barrels per day,2024-03-01
+2010-10-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",88.264836018,million barrels per day,2024-03-01
+2010-09-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",90.894101129,million barrels per day,2024-03-01
+2010-08-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",89.69973668,million barrels per day,2024-03-01
+2010-07-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",88.394754418,million barrels per day,2024-03-01
+2010-06-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",90.382720362,million barrels per day,2024-03-01
+2010-05-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",86.108591871,million barrels per day,2024-03-01
+2010-04-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",87.662183469,million barrels per day,2024-03-01
+2010-03-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",88.568126901,million barrels per day,2024-03-01
+2010-02-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",88.891908943,million barrels per day,2024-03-01
+2010-01-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",84.143002757,million barrels per day,2024-03-01
+2009-12-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",88.65310026,million barrels per day,2024-03-01
+2009-11-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",85.547409829,million barrels per day,2024-03-01
+2009-10-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",86.91892474,million barrels per day,2024-03-01
+2009-09-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",86.761620494,million barrels per day,2024-03-01
+2009-08-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",85.777481361,million barrels per day,2024-03-01
+2009-07-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",86.989817336,million barrels per day,2024-03-01
+2009-06-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",86.833159279,million barrels per day,2024-03-01
+2009-05-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",84.042416876,million barrels per day,2024-03-01
+2009-04-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",84.998251152,million barrels per day,2024-03-01
+2009-03-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",85.827887883,million barrels per day,2024-03-01
+2009-02-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",85.613771356,million barrels per day,2024-03-01
+2009-01-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",84.212394797,million barrels per day,2024-03-01
+2008-12-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",85.756508982,million barrels per day,2024-03-01
+2008-11-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",84.092881164,million barrels per day,2024-03-01
+2008-10-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",87.142622139,million barrels per day,2024-03-01
+2008-09-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",86.335304535,million barrels per day,2024-03-01
+2008-08-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",86.040096055,million barrels per day,2024-03-01
+2008-07-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",87.175059737,million barrels per day,2024-03-01
+2008-06-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",86.276647177,million barrels per day,2024-03-01
+2008-05-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",87.0540035,million barrels per day,2024-03-01
+2008-04-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",88.104668161,million barrels per day,2024-03-01
+2008-03-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",88.152106585,million barrels per day,2024-03-01
+2008-02-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",88.330383506,million barrels per day,2024-03-01
+2008-01-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",87.72760845,million barrels per day,2024-03-01
+2007-12-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",89.026661684,million barrels per day,2024-03-01
+2007-11-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",88.529910891,million barrels per day,2024-03-01
+2007-10-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",88.423718615,million barrels per day,2024-03-01
+2007-09-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",87.154034603,million barrels per day,2024-03-01
+2007-08-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",87.161630442,million barrels per day,2024-03-01
+2007-07-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",87.501540752,million barrels per day,2024-03-01
+2007-06-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",87.480250576,million barrels per day,2024-03-01
+2007-05-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",86.213914365,million barrels per day,2024-03-01
+2007-04-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",85.528965145,million barrels per day,2024-03-01
+2007-03-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",87.631830817,million barrels per day,2024-03-01
+2007-02-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",88.197094074,million barrels per day,2024-03-01
+2007-01-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",86.498881997,million barrels per day,2024-03-01
+2006-12-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",86.434631885,million barrels per day,2024-03-01
+2006-11-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",87.049641568,million barrels per day,2024-03-01
+2006-10-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",86.354849166,million barrels per day,2024-03-01
+2006-09-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",85.997327274,million barrels per day,2024-03-01
+2006-08-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",86.632682238,million barrels per day,2024-03-01
+2006-07-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",84.699212713,million barrels per day,2024-03-01
+2006-06-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",85.858965679,million barrels per day,2024-03-01
+2006-05-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",84.142086696,million barrels per day,2024-03-01
+2006-04-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",83.26779124,million barrels per day,2024-03-01
+2006-03-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",86.775650378,million barrels per day,2024-03-01
+2006-02-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",87.510537543,million barrels per day,2024-03-01
+2006-01-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",84.690154093,million barrels per day,2024-03-01
+2005-12-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",87.065774379,million barrels per day,2024-03-01
+2005-11-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",84.992652235,million barrels per day,2024-03-01
+2005-10-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",82.186953608,million barrels per day,2024-03-01
+2005-09-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",84.227855117,million barrels per day,2024-03-01
+2005-08-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",85.587241072,million barrels per day,2024-03-01
+2005-07-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",83.679949146,million barrels per day,2024-03-01
+2005-06-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",85.717741418,million barrels per day,2024-03-01
+2005-05-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",82.341580556,million barrels per day,2024-03-01
+2005-04-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",83.14969355,million barrels per day,2024-03-01
+2005-03-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",86.101852958,million barrels per day,2024-03-01
+2005-02-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",86.576114314,million barrels per day,2024-03-01
+2005-01-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",84.417091901,million barrels per day,2024-03-01
+2004-12-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",86.628380594,million barrels per day,2024-03-01
+2004-11-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",84.94461131,million barrels per day,2024-03-01
+2004-10-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",83.677186603,million barrels per day,2024-03-01
+2004-09-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",83.547328601,million barrels per day,2024-03-01
+2004-08-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",83.276136633,million barrels per day,2024-03-01
+2004-07-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",83.117852074,million barrels per day,2024-03-01
+2004-06-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",83.499225639,million barrels per day,2024-03-01
+2004-05-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",80.363076754,million barrels per day,2024-03-01
+2004-04-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",82.58807684,million barrels per day,2024-03-01
+2004-03-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",84.027434192,million barrels per day,2024-03-01
+2004-02-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",83.676126478,million barrels per day,2024-03-01
+2004-01-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",82.024443404,million barrels per day,2024-03-01
+2003-12-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",83.642508042,million barrels per day,2024-03-01
+2003-11-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",80.673371745,million barrels per day,2024-03-01
+2003-10-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",81.61150309,million barrels per day,2024-03-01
+2003-09-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",80.446303988,million barrels per day,2024-03-01
+2003-08-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",79.392646608,million barrels per day,2024-03-01
+2003-07-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",79.944428049,million barrels per day,2024-03-01
+2003-06-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",78.946863371,million barrels per day,2024-03-01
+2003-05-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",77.941391642,million barrels per day,2024-03-01
+2003-04-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",78.3267475,million barrels per day,2024-03-01
+2003-03-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",79.63874064,million barrels per day,2024-03-01
+2003-02-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",82.542420417,million barrels per day,2024-03-01
+2003-01-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",80.368236674,million barrels per day,2024-03-01
+2002-12-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",81.002498742,million barrels per day,2024-03-01
+2002-11-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",80.279846477,million barrels per day,2024-03-01
+2002-10-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",79.606325969,million barrels per day,2024-03-01
+2002-09-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",78.052455813,million barrels per day,2024-03-01
+2002-08-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",78.335738993,million barrels per day,2024-03-01
+2002-07-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",78.769447611,million barrels per day,2024-03-01
+2002-06-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",77.492654918,million barrels per day,2024-03-01
+2002-05-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",76.624541467,million barrels per day,2024-03-01
+2002-04-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",77.546295828,million barrels per day,2024-03-01
+2002-03-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",78.307896417,million barrels per day,2024-03-01
+2002-02-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",79.119818575,million barrels per day,2024-03-01
+2002-01-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",78.594656502,million barrels per day,2024-03-01
+2001-12-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",78.442239854,million barrels per day,2024-03-01
+2001-11-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",78.66040223,million barrels per day,2024-03-01
+2001-10-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",77.877268686,million barrels per day,2024-03-01
+2001-09-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",76.658782103,million barrels per day,2024-03-01
+2001-08-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",78.003090919,million barrels per day,2024-03-01
+2001-07-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",77.05134708,million barrels per day,2024-03-01
+2001-06-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",76.915287609,million barrels per day,2024-03-01
+2001-05-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",76.716571642,million barrels per day,2024-03-01
+2001-04-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",76.562983912,million barrels per day,2024-03-01
+2001-03-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",78.592918415,million barrels per day,2024-03-01
+2001-02-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",78.834339124,million barrels per day,2024-03-01
+2001-01-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",78.878343541,million barrels per day,2024-03-01
+2000-12-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",79.288168265,million barrels per day,2024-03-01
+2000-11-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",77.717654696,million barrels per day,2024-03-01
+2000-10-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",76.960391079,million barrels per day,2024-03-01
+2000-09-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",77.777438857,million barrels per day,2024-03-01
+2000-08-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",78.533454984,million barrels per day,2024-03-01
+2000-07-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",75.788048681,million barrels per day,2024-03-01
+2000-06-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",76.226815151,million barrels per day,2024-03-01
+2000-05-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",75.555656648,million barrels per day,2024-03-01
+2000-04-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",74.41863116,million barrels per day,2024-03-01
+2000-03-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",77.886629927,million barrels per day,2024-03-01
+2000-02-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",79.000020223,million barrels per day,2024-03-01
+2000-01-01,PATC_WORLD,"Liquid Fuels Consumption, Total World",75.512894445,million barrels per day,2024-03-01

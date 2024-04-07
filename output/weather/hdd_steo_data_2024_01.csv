@@ -1,0 +1,1729 @@
+period,seriesId,seriesDescription,value,unit,forecast_period
+2025-12-01,ZWHD_ENC,Heating Degree Days E. N. Central,1047.991196,total degree days,2024-01-01
+2025-11-01,ZWHD_ENC,Heating Degree Days E. N. Central,717.8643741,total degree days,2024-01-01
+2025-10-01,ZWHD_ENC,Heating Degree Days E. N. Central,384.4475779,total degree days,2024-01-01
+2025-09-01,ZWHD_ENC,Heating Degree Days E. N. Central,93.71557288,total degree days,2024-01-01
+2025-08-01,ZWHD_ENC,Heating Degree Days E. N. Central,19.49545396,total degree days,2024-01-01
+2025-07-01,ZWHD_ENC,Heating Degree Days E. N. Central,8.491475578,total degree days,2024-01-01
+2025-06-01,ZWHD_ENC,Heating Degree Days E. N. Central,34.53720635,total degree days,2024-01-01
+2025-05-01,ZWHD_ENC,Heating Degree Days E. N. Central,207.9079403,total degree days,2024-01-01
+2025-04-01,ZWHD_ENC,Heating Degree Days E. N. Central,465.7743568,total degree days,2024-01-01
+2025-03-01,ZWHD_ENC,Heating Degree Days E. N. Central,821.5952274,total degree days,2024-01-01
+2025-02-01,ZWHD_ENC,Heating Degree Days E. N. Central,1002.916923,total degree days,2024-01-01
+2025-01-01,ZWHD_ENC,Heating Degree Days E. N. Central,1206.697586,total degree days,2024-01-01
+2024-12-01,ZWHD_ENC,Heating Degree Days E. N. Central,1050.254787,total degree days,2024-01-01
+2024-11-01,ZWHD_ENC,Heating Degree Days E. N. Central,719.4050899,total degree days,2024-01-01
+2024-10-01,ZWHD_ENC,Heating Degree Days E. N. Central,385.2571052,total degree days,2024-01-01
+2024-09-01,ZWHD_ENC,Heating Degree Days E. N. Central,93.89680083,total degree days,2024-01-01
+2024-08-01,ZWHD_ENC,Heating Degree Days E. N. Central,19.53116135,total degree days,2024-01-01
+2024-07-01,ZWHD_ENC,Heating Degree Days E. N. Central,8.504220472,total degree days,2024-01-01
+2024-06-01,ZWHD_ENC,Heating Degree Days E. N. Central,34.60110895,total degree days,2024-01-01
+2024-05-01,ZWHD_ENC,Heating Degree Days E. N. Central,208.3373018,total degree days,2024-01-01
+2024-04-01,ZWHD_ENC,Heating Degree Days E. N. Central,466.7562579,total degree days,2024-01-01
+2024-03-01,ZWHD_ENC,Heating Degree Days E. N. Central,823.3445582,total degree days,2024-01-01
+2024-02-01,ZWHD_ENC,Heating Degree Days E. N. Central,1005.0792,total degree days,2024-01-01
+2024-01-01,ZWHD_ENC,Heating Degree Days E. N. Central,1188.133845,total degree days,2024-01-01
+2023-12-01,ZWHD_ENC,Heating Degree Days E. N. Central,867.8454144,total degree days,2024-01-01
+2023-11-01,ZWHD_ENC,Heating Degree Days E. N. Central,735.0297565,total degree days,2024-01-01
+2023-10-01,ZWHD_ENC,Heating Degree Days E. N. Central,337.9912077,total degree days,2024-01-01
+2023-09-01,ZWHD_ENC,Heating Degree Days E. N. Central,67.56749888,total degree days,2024-01-01
+2023-08-01,ZWHD_ENC,Heating Degree Days E. N. Central,21.58157088,total degree days,2024-01-01
+2023-07-01,ZWHD_ENC,Heating Degree Days E. N. Central,6.600627789,total degree days,2024-01-01
+2023-06-01,ZWHD_ENC,Heating Degree Days E. N. Central,43.21123273,total degree days,2024-01-01
+2023-05-01,ZWHD_ENC,Heating Degree Days E. N. Central,214.2120984,total degree days,2024-01-01
+2023-04-01,ZWHD_ENC,Heating Degree Days E. N. Central,440.7441249,total degree days,2024-01-01
+2023-03-01,ZWHD_ENC,Heating Degree Days E. N. Central,848.5076924,total degree days,2024-01-01
+2023-02-01,ZWHD_ENC,Heating Degree Days E. N. Central,880.1192276,total degree days,2024-01-01
+2023-01-01,ZWHD_ENC,Heating Degree Days E. N. Central,996.1698229,total degree days,2024-01-01
+2022-12-01,ZWHD_ENC,Heating Degree Days E. N. Central,1104.756775,total degree days,2024-01-01
+2022-11-01,ZWHD_ENC,Heating Degree Days E. N. Central,693.322818,total degree days,2024-01-01
+2022-10-01,ZWHD_ENC,Heating Degree Days E. N. Central,423.9812097,total degree days,2024-01-01
+2022-09-01,ZWHD_ENC,Heating Degree Days E. N. Central,81.54311492,total degree days,2024-01-01
+2022-08-01,ZWHD_ENC,Heating Degree Days E. N. Central,13.76199743,total degree days,2024-01-01
+2022-07-01,ZWHD_ENC,Heating Degree Days E. N. Central,3.281941136,total degree days,2024-01-01
+2022-06-01,ZWHD_ENC,Heating Degree Days E. N. Central,26.25340049,total degree days,2024-01-01
+2022-05-01,ZWHD_ENC,Heating Degree Days E. N. Central,158.9935104,total degree days,2024-01-01
+2022-04-01,ZWHD_ENC,Heating Degree Days E. N. Central,566.4706719,total degree days,2024-01-01
+2022-03-01,ZWHD_ENC,Heating Degree Days E. N. Central,790.8016661,total degree days,2024-01-01
+2022-02-01,ZWHD_ENC,Heating Degree Days E. N. Central,1083.997689,total degree days,2024-01-01
+2022-01-01,ZWHD_ENC,Heating Degree Days E. N. Central,1391.684129,total degree days,2024-01-01
+2021-12-01,ZWHD_ENC,Heating Degree Days E. N. Central,879.8943024,total degree days,2024-01-01
+2021-11-01,ZWHD_ENC,Heating Degree Days E. N. Central,780.1321635,total degree days,2024-01-01
+2021-10-01,ZWHD_ENC,Heating Degree Days E. N. Central,227.0777071,total degree days,2024-01-01
+2021-09-01,ZWHD_ENC,Heating Degree Days E. N. Central,57.3000368,total degree days,2024-01-01
+2021-08-01,ZWHD_ENC,Heating Degree Days E. N. Central,5.277962719,total degree days,2024-01-01
+2021-07-01,ZWHD_ENC,Heating Degree Days E. N. Central,6.667421774,total degree days,2024-01-01
+2021-06-01,ZWHD_ENC,Heating Degree Days E. N. Central,14.45936989,total degree days,2024-01-01
+2021-05-01,ZWHD_ENC,Heating Degree Days E. N. Central,243.0349913,total degree days,2024-01-01
+2021-04-01,ZWHD_ENC,Heating Degree Days E. N. Central,448.1866425,total degree days,2024-01-01
+2021-03-01,ZWHD_ENC,Heating Degree Days E. N. Central,689.8904731,total degree days,2024-01-01
+2021-02-01,ZWHD_ENC,Heating Degree Days E. N. Central,1248.665115,total degree days,2024-01-01
+2021-01-01,ZWHD_ENC,Heating Degree Days E. N. Central,1146.588357,total degree days,2024-01-01
+2020-12-01,ZWHD_ENC,Heating Degree Days E. N. Central,1034.915634,total degree days,2024-01-01
+2020-11-01,ZWHD_ENC,Heating Degree Days E. N. Central,599.0399173,total degree days,2024-01-01
+2020-10-01,ZWHD_ENC,Heating Degree Days E. N. Central,464.3286146,total degree days,2024-01-01
+2020-09-01,ZWHD_ENC,Heating Degree Days E. N. Central,111.4380779,total degree days,2024-01-01
+2020-08-01,ZWHD_ENC,Heating Degree Days E. N. Central,13.20335854,total degree days,2024-01-01
+2020-07-01,ZWHD_ENC,Heating Degree Days E. N. Central,0.71097705,total degree days,2024-01-01
+2020-06-01,ZWHD_ENC,Heating Degree Days E. N. Central,22.4469945,total degree days,2024-01-01
+2020-05-01,ZWHD_ENC,Heating Degree Days E. N. Central,256.363965,total degree days,2024-01-01
+2020-04-01,ZWHD_ENC,Heating Degree Days E. N. Central,566.1301706,total degree days,2024-01-01
+2020-03-01,ZWHD_ENC,Heating Degree Days E. N. Central,733.5174535,total degree days,2024-01-01
+2020-02-01,ZWHD_ENC,Heating Degree Days E. N. Central,1001.604563,total degree days,2024-01-01
+2020-01-01,ZWHD_ENC,Heating Degree Days E. N. Central,1051.322129,total degree days,2024-01-01
+2019-12-01,ZWHD_ENC,Heating Degree Days E. N. Central,975.1933129,total degree days,2024-01-01
+2019-11-01,ZWHD_ENC,Heating Degree Days E. N. Central,912.7774636,total degree days,2024-01-01
+2019-10-01,ZWHD_ENC,Heating Degree Days E. N. Central,389.8714373,total degree days,2024-01-01
+2019-09-01,ZWHD_ENC,Heating Degree Days E. N. Central,42.345231,total degree days,2024-01-01
+2019-08-01,ZWHD_ENC,Heating Degree Days E. N. Central,20.35598791,total degree days,2024-01-01
+2019-07-01,ZWHD_ENC,Heating Degree Days E. N. Central,1.383678482,total degree days,2024-01-01
+2019-06-01,ZWHD_ENC,Heating Degree Days E. N. Central,48.34823226,total degree days,2024-01-01
+2019-05-01,ZWHD_ENC,Heating Degree Days E. N. Central,236.1386233,total degree days,2024-01-01
+2019-04-01,ZWHD_ENC,Heating Degree Days E. N. Central,475.2512344,total degree days,2024-01-01
+2019-03-01,ZWHD_ENC,Heating Degree Days E. N. Central,960.8575653,total degree days,2024-01-01
+2019-02-01,ZWHD_ENC,Heating Degree Days E. N. Central,1062.073819,total degree days,2024-01-01
+2019-01-01,ZWHD_ENC,Heating Degree Days E. N. Central,1302.41528,total degree days,2024-01-01
+2018-12-01,ZWHD_ENC,Heating Degree Days E. N. Central,1003.452143,total degree days,2024-01-01
+2018-11-01,ZWHD_ENC,Heating Degree Days E. N. Central,913.521846,total degree days,2024-01-01
+2018-10-01,ZWHD_ENC,Heating Degree Days E. N. Central,419.8619272,total degree days,2024-01-01
+2018-09-01,ZWHD_ENC,Heating Degree Days E. N. Central,48.17345316,total degree days,2024-01-01
+2018-08-01,ZWHD_ENC,Heating Degree Days E. N. Central,8.074917365,total degree days,2024-01-01
+2018-07-01,ZWHD_ENC,Heating Degree Days E. N. Central,4.083614823,total degree days,2024-01-01
+2018-06-01,ZWHD_ENC,Heating Degree Days E. N. Central,23.81879316,total degree days,2024-01-01
+2018-05-01,ZWHD_ENC,Heating Degree Days E. N. Central,99.09017696,total degree days,2024-01-01
+2018-04-01,ZWHD_ENC,Heating Degree Days E. N. Central,703.2472448,total degree days,2024-01-01
+2018-03-01,ZWHD_ENC,Heating Degree Days E. N. Central,922.4370597,total degree days,2024-01-01
+2018-02-01,ZWHD_ENC,Heating Degree Days E. N. Central,980.5357007,total degree days,2024-01-01
+2018-01-01,ZWHD_ENC,Heating Degree Days E. N. Central,1307.657836,total degree days,2024-01-01
+2017-12-01,ZWHD_ENC,Heating Degree Days E. N. Central,1197.587456,total degree days,2024-01-01
+2017-11-01,ZWHD_ENC,Heating Degree Days E. N. Central,774.0192472,total degree days,2024-01-01
+2017-10-01,ZWHD_ENC,Heating Degree Days E. N. Central,291.207345,total degree days,2024-01-01
+2017-09-01,ZWHD_ENC,Heating Degree Days E. N. Central,64.32277234,total degree days,2024-01-01
+2017-08-01,ZWHD_ENC,Heating Degree Days E. N. Central,33.84257179,total degree days,2024-01-01
+2017-07-01,ZWHD_ENC,Heating Degree Days E. N. Central,6.463349542,total degree days,2024-01-01
+2017-06-01,ZWHD_ENC,Heating Degree Days E. N. Central,27.15733057,total degree days,2024-01-01
+2017-05-01,ZWHD_ENC,Heating Degree Days E. N. Central,249.4483517,total degree days,2024-01-01
+2017-04-01,ZWHD_ENC,Heating Degree Days E. N. Central,349.1956744,total degree days,2024-01-01
+2017-03-01,ZWHD_ENC,Heating Degree Days E. N. Central,833.8214697,total degree days,2024-01-01
+2017-02-01,ZWHD_ENC,Heating Degree Days E. N. Central,775.2664598,total degree days,2024-01-01
+2017-01-01,ZWHD_ENC,Heating Degree Days E. N. Central,1081.794696,total degree days,2024-01-01
+2016-12-01,ZWHD_ENC,Heating Degree Days E. N. Central,1166.090102,total degree days,2024-01-01
+2016-11-01,ZWHD_ENC,Heating Degree Days E. N. Central,581.8432619,total degree days,2024-01-01
+2016-10-01,ZWHD_ENC,Heating Degree Days E. N. Central,284.8787447,total degree days,2024-01-01
+2016-09-01,ZWHD_ENC,Heating Degree Days E. N. Central,40.42382666,total degree days,2024-01-01
+2016-08-01,ZWHD_ENC,Heating Degree Days E. N. Central,5.009576364,total degree days,2024-01-01
+2016-07-01,ZWHD_ENC,Heating Degree Days E. N. Central,2.453791882,total degree days,2024-01-01
+2016-06-01,ZWHD_ENC,Heating Degree Days E. N. Central,25.17590123,total degree days,2024-01-01
+2016-05-01,ZWHD_ENC,Heating Degree Days E. N. Central,221.3096909,total degree days,2024-01-01
+2016-04-01,ZWHD_ENC,Heating Degree Days E. N. Central,505.8834424,total degree days,2024-01-01
+2016-03-01,ZWHD_ENC,Heating Degree Days E. N. Central,669.4462276,total degree days,2024-01-01
+2016-02-01,ZWHD_ENC,Heating Degree Days E. N. Central,957.1927824,total degree days,2024-01-01
+2016-01-01,ZWHD_ENC,Heating Degree Days E. N. Central,1241.392233,total degree days,2024-01-01
+2015-12-01,ZWHD_ENC,Heating Degree Days E. N. Central,774.8171242,total degree days,2024-01-01
+2015-11-01,ZWHD_ENC,Heating Degree Days E. N. Central,603.2180968,total degree days,2024-01-01
+2015-10-01,ZWHD_ENC,Heating Degree Days E. N. Central,365.0493236,total degree days,2024-01-01
+2015-09-01,ZWHD_ENC,Heating Degree Days E. N. Central,38.69005739,total degree days,2024-01-01
+2015-08-01,ZWHD_ENC,Heating Degree Days E. N. Central,24.34992469,total degree days,2024-01-01
+2015-07-01,ZWHD_ENC,Heating Degree Days E. N. Central,11.6139365,total degree days,2024-01-01
+2015-06-01,ZWHD_ENC,Heating Degree Days E. N. Central,44.60671274,total degree days,2024-01-01
+2015-05-01,ZWHD_ENC,Heating Degree Days E. N. Central,158.8347203,total degree days,2024-01-01
+2015-04-01,ZWHD_ENC,Heating Degree Days E. N. Central,454.2262427,total degree days,2024-01-01
+2015-03-01,ZWHD_ENC,Heating Degree Days E. N. Central,951.4321855,total degree days,2024-01-01
+2015-02-01,ZWHD_ENC,Heating Degree Days E. N. Central,1404.621702,total degree days,2024-01-01
+2015-01-01,ZWHD_ENC,Heating Degree Days E. N. Central,1333.96042,total degree days,2024-01-01
+2014-12-01,ZWHD_ENC,Heating Degree Days E. N. Central,1009.784665,total degree days,2024-01-01
+2014-11-01,ZWHD_ENC,Heating Degree Days E. N. Central,936.9575669,total degree days,2024-01-01
+2014-10-01,ZWHD_ENC,Heating Degree Days E. N. Central,418.5307804,total degree days,2024-01-01
+2014-09-01,ZWHD_ENC,Heating Degree Days E. N. Central,119.5755032,total degree days,2024-01-01
+2014-08-01,ZWHD_ENC,Heating Degree Days E. N. Central,19.25046572,total degree days,2024-01-01
+2014-07-01,ZWHD_ENC,Heating Degree Days E. N. Central,29.38706767,total degree days,2024-01-01
+2014-06-01,ZWHD_ENC,Heating Degree Days E. N. Central,26.44984458,total degree days,2024-01-01
+2014-05-01,ZWHD_ENC,Heating Degree Days E. N. Central,204.4327286,total degree days,2024-01-01
+2014-04-01,ZWHD_ENC,Heating Degree Days E. N. Central,496.0871913,total degree days,2024-01-01
+2014-03-01,ZWHD_ENC,Heating Degree Days E. N. Central,1094.060196,total degree days,2024-01-01
+2014-02-01,ZWHD_ENC,Heating Degree Days E. N. Central,1322.747804,total degree days,2024-01-01
+2014-01-01,ZWHD_ENC,Heating Degree Days E. N. Central,1518.935946,total degree days,2024-01-01
+2013-12-01,ZWHD_ENC,Heating Degree Days E. N. Central,1227.976749,total degree days,2024-01-01
+2013-11-01,ZWHD_ENC,Heating Degree Days E. N. Central,836.9099076,total degree days,2024-01-01
+2013-10-01,ZWHD_ENC,Heating Degree Days E. N. Central,392.5660191,total degree days,2024-01-01
+2013-09-01,ZWHD_ENC,Heating Degree Days E. N. Central,88.27248717,total degree days,2024-01-01
+2013-08-01,ZWHD_ENC,Heating Degree Days E. N. Central,21.56047417,total degree days,2024-01-01
+2013-07-01,ZWHD_ENC,Heating Degree Days E. N. Central,8.484088111,total degree days,2024-01-01
+2013-06-01,ZWHD_ENC,Heating Degree Days E. N. Central,40.09735195,total degree days,2024-01-01
+2013-05-01,ZWHD_ENC,Heating Degree Days E. N. Central,174.2090791,total degree days,2024-01-01
+2013-04-01,ZWHD_ENC,Heating Degree Days E. N. Central,543.3352547,total degree days,2024-01-01
+2013-03-01,ZWHD_ENC,Heating Degree Days E. N. Central,1021.645577,total degree days,2024-01-01
+2013-02-01,ZWHD_ENC,Heating Degree Days E. N. Central,1089.863436,total degree days,2024-01-01
+2013-01-01,ZWHD_ENC,Heating Degree Days E. N. Central,1177.979944,total degree days,2024-01-01
+2012-12-01,ZWHD_ENC,Heating Degree Days E. N. Central,931.3518271,total degree days,2024-01-01
+2012-11-01,ZWHD_ENC,Heating Degree Days E. N. Central,782.2031729,total degree days,2024-01-01
+2012-10-01,ZWHD_ENC,Heating Degree Days E. N. Central,444.7506309,total degree days,2024-01-01
+2012-09-01,ZWHD_ENC,Heating Degree Days E. N. Central,119.9588195,total degree days,2024-01-01
+2012-08-01,ZWHD_ENC,Heating Degree Days E. N. Central,18.01773063,total degree days,2024-01-01
+2012-07-01,ZWHD_ENC,Heating Degree Days E. N. Central,0.335194801,total degree days,2024-01-01
+2012-06-01,ZWHD_ENC,Heating Degree Days E. N. Central,22.28398147,total degree days,2024-01-01
+2012-05-01,ZWHD_ENC,Heating Degree Days E. N. Central,122.2311423,total degree days,2024-01-01
+2012-04-01,ZWHD_ENC,Heating Degree Days E. N. Central,467.3223547,total degree days,2024-01-01
+2012-03-01,ZWHD_ENC,Heating Degree Days E. N. Central,443.010916,total degree days,2024-01-01
+2012-02-01,ZWHD_ENC,Heating Degree Days E. N. Central,900.9179552,total degree days,2024-01-01
+2012-01-01,ZWHD_ENC,Heating Degree Days E. N. Central,1103.868225,total degree days,2024-01-01
+2011-12-01,ZWHD_ENC,Heating Degree Days E. N. Central,954.6991277,total degree days,2024-01-01
+2011-11-01,ZWHD_ENC,Heating Degree Days E. N. Central,624.3631257,total degree days,2024-01-01
+2011-10-01,ZWHD_ENC,Heating Degree Days E. N. Central,387.916104,total degree days,2024-01-01
+2011-09-01,ZWHD_ENC,Heating Degree Days E. N. Central,128.1298151,total degree days,2024-01-01
+2011-08-01,ZWHD_ENC,Heating Degree Days E. N. Central,13.419713,total degree days,2024-01-01
+2011-07-01,ZWHD_ENC,Heating Degree Days E. N. Central,0.4577803,total degree days,2024-01-01
+2011-06-01,ZWHD_ENC,Heating Degree Days E. N. Central,32.0653704,total degree days,2024-01-01
+2011-05-01,ZWHD_ENC,Heating Degree Days E. N. Central,214.9456806,total degree days,2024-01-01
+2011-04-01,ZWHD_ENC,Heating Degree Days E. N. Central,492.8307005,total degree days,2024-01-01
+2011-03-01,ZWHD_ENC,Heating Degree Days E. N. Central,881.2980205,total degree days,2024-01-01
+2011-02-01,ZWHD_ENC,Heating Degree Days E. N. Central,1071.876276,total degree days,2024-01-01
+2011-01-01,ZWHD_ENC,Heating Degree Days E. N. Central,1370.922643,total degree days,2024-01-01
+2010-12-01,ZWHD_ENC,Heating Degree Days E. N. Central,1306.83792,total degree days,2024-01-01
+2010-11-01,ZWHD_ENC,Heating Degree Days E. N. Central,719.2535868,total degree days,2024-01-01
+2010-10-01,ZWHD_ENC,Heating Degree Days E. N. Central,349.3028685,total degree days,2024-01-01
+2010-09-01,ZWHD_ENC,Heating Degree Days E. N. Central,95.10503049,total degree days,2024-01-01
+2010-08-01,ZWHD_ENC,Heating Degree Days E. N. Central,4.50358312,total degree days,2024-01-01
+2010-07-01,ZWHD_ENC,Heating Degree Days E. N. Central,1.160653267,total degree days,2024-01-01
+2010-06-01,ZWHD_ENC,Heating Degree Days E. N. Central,22.91941284,total degree days,2024-01-01
+2010-05-01,ZWHD_ENC,Heating Degree Days E. N. Central,166.6201901,total degree days,2024-01-01
+2010-04-01,ZWHD_ENC,Heating Degree Days E. N. Central,326.6123313,total degree days,2024-01-01
+2010-03-01,ZWHD_ENC,Heating Degree Days E. N. Central,741.7044718,total degree days,2024-01-01
+2010-02-01,ZWHD_ENC,Heating Degree Days E. N. Central,1122.07149,total degree days,2024-01-01
+2010-01-01,ZWHD_ENC,Heating Degree Days E. N. Central,1332.291801,total degree days,2024-01-01
+2025-12-01,ZWHD_ESC,Heating Degree Days E. S. Central,644.4892733,total degree days,2024-01-01
+2025-11-01,ZWHD_ESC,Heating Degree Days E. S. Central,424.6734642,total degree days,2024-01-01
+2025-10-01,ZWHD_ESC,Heating Degree Days E. S. Central,168.514933,total degree days,2024-01-01
+2025-09-01,ZWHD_ESC,Heating Degree Days E. S. Central,19.18917492,total degree days,2024-01-01
+2025-08-01,ZWHD_ESC,Heating Degree Days E. S. Central,0.216908497,total degree days,2024-01-01
+2025-07-01,ZWHD_ESC,Heating Degree Days E. S. Central,0,total degree days,2024-01-01
+2025-06-01,ZWHD_ESC,Heating Degree Days E. S. Central,2.20631137,total degree days,2024-01-01
+2025-05-01,ZWHD_ESC,Heating Degree Days E. S. Central,54.5167665,total degree days,2024-01-01
+2025-04-01,ZWHD_ESC,Heating Degree Days E. S. Central,178.4663627,total degree days,2024-01-01
+2025-03-01,ZWHD_ESC,Heating Degree Days E. S. Central,415.5470387,total degree days,2024-01-01
+2025-02-01,ZWHD_ESC,Heating Degree Days E. S. Central,558.901852,total degree days,2024-01-01
+2025-01-01,ZWHD_ESC,Heating Degree Days E. S. Central,730.7620183,total degree days,2024-01-01
+2024-12-01,ZWHD_ESC,Heating Degree Days E. S. Central,646.8351387,total degree days,2024-01-01
+2024-11-01,ZWHD_ESC,Heating Degree Days E. S. Central,426.1872205,total degree days,2024-01-01
+2024-10-01,ZWHD_ESC,Heating Degree Days E. S. Central,169.0688954,total degree days,2024-01-01
+2024-09-01,ZWHD_ESC,Heating Degree Days E. S. Central,19.24442266,total degree days,2024-01-01
+2024-08-01,ZWHD_ESC,Heating Degree Days E. S. Central,0.217940684,total degree days,2024-01-01
+2024-07-01,ZWHD_ESC,Heating Degree Days E. S. Central,0,total degree days,2024-01-01
+2024-06-01,ZWHD_ESC,Heating Degree Days E. S. Central,2.213625804,total degree days,2024-01-01
+2024-05-01,ZWHD_ESC,Heating Degree Days E. S. Central,54.67409304,total degree days,2024-01-01
+2024-04-01,ZWHD_ESC,Heating Degree Days E. S. Central,179.0556469,total degree days,2024-01-01
+2024-03-01,ZWHD_ESC,Heating Degree Days E. S. Central,416.996353,total degree days,2024-01-01
+2024-02-01,ZWHD_ESC,Heating Degree Days E. S. Central,560.9099646,total degree days,2024-01-01
+2024-01-01,ZWHD_ESC,Heating Degree Days E. S. Central,800.6988442,total degree days,2024-01-01
+2023-12-01,ZWHD_ESC,Heating Degree Days E. S. Central,621.2730247,total degree days,2024-01-01
+2023-11-01,ZWHD_ESC,Heating Degree Days E. S. Central,412.152281,total degree days,2024-01-01
+2023-10-01,ZWHD_ESC,Heating Degree Days E. S. Central,145.5689998,total degree days,2024-01-01
+2023-09-01,ZWHD_ESC,Heating Degree Days E. S. Central,13.97917555,total degree days,2024-01-01
+2023-08-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2023-07-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2023-06-01,ZWHD_ESC,Heating Degree Days E. S. Central,6.44049827,total degree days,2024-01-01
+2023-05-01,ZWHD_ESC,Heating Degree Days E. S. Central,63.02550462,total degree days,2024-01-01
+2023-04-01,ZWHD_ESC,Heating Degree Days E. S. Central,187.6473675,total degree days,2024-01-01
+2023-03-01,ZWHD_ESC,Heating Degree Days E. S. Central,398.3795271,total degree days,2024-01-01
+2023-02-01,ZWHD_ESC,Heating Degree Days E. S. Central,414.4659267,total degree days,2024-01-01
+2023-01-01,ZWHD_ESC,Heating Degree Days E. S. Central,576.8569069,total degree days,2024-01-01
+2022-12-01,ZWHD_ESC,Heating Degree Days E. S. Central,669.5262559,total degree days,2024-01-01
+2022-11-01,ZWHD_ESC,Heating Degree Days E. S. Central,426.7060773,total degree days,2024-01-01
+2022-10-01,ZWHD_ESC,Heating Degree Days E. S. Central,239.341312,total degree days,2024-01-01
+2022-09-01,ZWHD_ESC,Heating Degree Days E. S. Central,22.26808921,total degree days,2024-01-01
+2022-08-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2022-07-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2022-06-01,ZWHD_ESC,Heating Degree Days E. S. Central,0.691198755,total degree days,2024-01-01
+2022-05-01,ZWHD_ESC,Heating Degree Days E. S. Central,31.60898404,total degree days,2024-01-01
+2022-04-01,ZWHD_ESC,Heating Degree Days E. S. Central,216.5405073,total degree days,2024-01-01
+2022-03-01,ZWHD_ESC,Heating Degree Days E. S. Central,388.037686,total degree days,2024-01-01
+2022-02-01,ZWHD_ESC,Heating Degree Days E. S. Central,591.0033909,total degree days,2024-01-01
+2022-01-01,ZWHD_ESC,Heating Degree Days E. S. Central,845.9841832,total degree days,2024-01-01
+2021-12-01,ZWHD_ESC,Heating Degree Days E. S. Central,413.9560418,total degree days,2024-01-01
+2021-11-01,ZWHD_ESC,Heating Degree Days E. S. Central,522.0695953,total degree days,2024-01-01
+2021-10-01,ZWHD_ESC,Heating Degree Days E. S. Central,103.6841789,total degree days,2024-01-01
+2021-09-01,ZWHD_ESC,Heating Degree Days E. S. Central,19.68013296,total degree days,2024-01-01
+2021-08-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2021-07-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2021-06-01,ZWHD_ESC,Heating Degree Days E. S. Central,0.925401248,total degree days,2024-01-01
+2021-05-01,ZWHD_ESC,Heating Degree Days E. S. Central,82.80192788,total degree days,2024-01-01
+2021-04-01,ZWHD_ESC,Heating Degree Days E. S. Central,231.0706496,total degree days,2024-01-01
+2021-03-01,ZWHD_ESC,Heating Degree Days E. S. Central,338.4225604,total degree days,2024-01-01
+2021-02-01,ZWHD_ESC,Heating Degree Days E. S. Central,715.9065036,total degree days,2024-01-01
+2021-01-01,ZWHD_ESC,Heating Degree Days E. S. Central,737.7361897,total degree days,2024-01-01
+2020-12-01,ZWHD_ESC,Heating Degree Days E. S. Central,725.6819055,total degree days,2024-01-01
+2020-11-01,ZWHD_ESC,Heating Degree Days E. S. Central,344.5839874,total degree days,2024-01-01
+2020-10-01,ZWHD_ESC,Heating Degree Days E. S. Central,154.7011664,total degree days,2024-01-01
+2020-09-01,ZWHD_ESC,Heating Degree Days E. S. Central,19.9599432,total degree days,2024-01-01
+2020-08-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2020-07-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2020-06-01,ZWHD_ESC,Heating Degree Days E. S. Central,2.694220838,total degree days,2024-01-01
+2020-05-01,ZWHD_ESC,Heating Degree Days E. S. Central,86.35327449,total degree days,2024-01-01
+2020-04-01,ZWHD_ESC,Heating Degree Days E. S. Central,247.8387509,total degree days,2024-01-01
+2020-03-01,ZWHD_ESC,Heating Degree Days E. S. Central,293.4655356,total degree days,2024-01-01
+2020-02-01,ZWHD_ESC,Heating Degree Days E. S. Central,553.8298178,total degree days,2024-01-01
+2020-01-01,ZWHD_ESC,Heating Degree Days E. S. Central,634.7001184,total degree days,2024-01-01
+2019-12-01,ZWHD_ESC,Heating Degree Days E. S. Central,572.6720481,total degree days,2024-01-01
+2019-11-01,ZWHD_ESC,Heating Degree Days E. S. Central,573.1576195,total degree days,2024-01-01
+2019-10-01,ZWHD_ESC,Heating Degree Days E. S. Central,128.3646687,total degree days,2024-01-01
+2019-09-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.394894849,total degree days,2024-01-01
+2019-08-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2019-07-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2019-06-01,ZWHD_ESC,Heating Degree Days E. S. Central,3.158923125,total degree days,2024-01-01
+2019-05-01,ZWHD_ESC,Heating Degree Days E. S. Central,24.29365875,total degree days,2024-01-01
+2019-04-01,ZWHD_ESC,Heating Degree Days E. S. Central,165.4737959,total degree days,2024-01-01
+2019-03-01,ZWHD_ESC,Heating Degree Days E. S. Central,505.6024163,total degree days,2024-01-01
+2019-02-01,ZWHD_ESC,Heating Degree Days E. S. Central,459.0566315,total degree days,2024-01-01
+2019-01-01,ZWHD_ESC,Heating Degree Days E. S. Central,748.2662984,total degree days,2024-01-01
+2018-12-01,ZWHD_ESC,Heating Degree Days E. S. Central,633.2360886,total degree days,2024-01-01
+2018-11-01,ZWHD_ESC,Heating Degree Days E. S. Central,565.9548074,total degree days,2024-01-01
+2018-10-01,ZWHD_ESC,Heating Degree Days E. S. Central,138.4873575,total degree days,2024-01-01
+2018-09-01,ZWHD_ESC,Heating Degree Days E. S. Central,2.562959283,total degree days,2024-01-01
+2018-08-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2018-07-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2018-06-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2018-05-01,ZWHD_ESC,Heating Degree Days E. S. Central,13.31521186,total degree days,2024-01-01
+2018-04-01,ZWHD_ESC,Heating Degree Days E. S. Central,311.8703588,total degree days,2024-01-01
+2018-03-01,ZWHD_ESC,Heating Degree Days E. S. Central,474.6469944,total degree days,2024-01-01
+2018-02-01,ZWHD_ESC,Heating Degree Days E. S. Central,410.248721,total degree days,2024-01-01
+2018-01-01,ZWHD_ESC,Heating Degree Days E. S. Central,928.8216656,total degree days,2024-01-01
+2017-12-01,ZWHD_ESC,Heating Degree Days E. S. Central,729.0729314,total degree days,2024-01-01
+2017-11-01,ZWHD_ESC,Heating Degree Days E. S. Central,407.8944445,total degree days,2024-01-01
+2017-10-01,ZWHD_ESC,Heating Degree Days E. S. Central,145.6404782,total degree days,2024-01-01
+2017-09-01,ZWHD_ESC,Heating Degree Days E. S. Central,24.05850186,total degree days,2024-01-01
+2017-08-01,ZWHD_ESC,Heating Degree Days E. S. Central,0.70071006,total degree days,2024-01-01
+2017-07-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2017-06-01,ZWHD_ESC,Heating Degree Days E. S. Central,3.392930875,total degree days,2024-01-01
+2017-05-01,ZWHD_ESC,Heating Degree Days E. S. Central,56.82401818,total degree days,2024-01-01
+2017-04-01,ZWHD_ESC,Heating Degree Days E. S. Central,94.02935148,total degree days,2024-01-01
+2017-03-01,ZWHD_ESC,Heating Degree Days E. S. Central,387.5747559,total degree days,2024-01-01
+2017-02-01,ZWHD_ESC,Heating Degree Days E. S. Central,408.8450034,total degree days,2024-01-01
+2017-01-01,ZWHD_ESC,Heating Degree Days E. S. Central,578.9428419,total degree days,2024-01-01
+2016-12-01,ZWHD_ESC,Heating Degree Days E. S. Central,672.1653461,total degree days,2024-01-01
+2016-11-01,ZWHD_ESC,Heating Degree Days E. S. Central,339.256782,total degree days,2024-01-01
+2016-10-01,ZWHD_ESC,Heating Degree Days E. S. Central,89.15711647,total degree days,2024-01-01
+2016-09-01,ZWHD_ESC,Heating Degree Days E. S. Central,5.029615205,total degree days,2024-01-01
+2016-08-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2016-07-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2016-06-01,ZWHD_ESC,Heating Degree Days E. S. Central,0.234021681,total degree days,2024-01-01
+2016-05-01,ZWHD_ESC,Heating Degree Days E. S. Central,71.22622442,total degree days,2024-01-01
+2016-04-01,ZWHD_ESC,Heating Degree Days E. S. Central,162.6711987,total degree days,2024-01-01
+2016-03-01,ZWHD_ESC,Heating Degree Days E. S. Central,324.1533427,total degree days,2024-01-01
+2016-02-01,ZWHD_ESC,Heating Degree Days E. S. Central,573.7789983,total degree days,2024-01-01
+2016-01-01,ZWHD_ESC,Heating Degree Days E. S. Central,857.25201,total degree days,2024-01-01
+2015-12-01,ZWHD_ESC,Heating Degree Days E. S. Central,401.5094156,total degree days,2024-01-01
+2015-11-01,ZWHD_ESC,Heating Degree Days E. S. Central,313.4862574,total degree days,2024-01-01
+2015-10-01,ZWHD_ESC,Heating Degree Days E. S. Central,164.6204433,total degree days,2024-01-01
+2015-09-01,ZWHD_ESC,Heating Degree Days E. S. Central,13.17434223,total degree days,2024-01-01
+2015-08-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.171910412,total degree days,2024-01-01
+2015-07-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2015-06-01,ZWHD_ESC,Heating Degree Days E. S. Central,0.70338137,total degree days,2024-01-01
+2015-05-01,ZWHD_ESC,Heating Degree Days E. S. Central,37.39787692,total degree days,2024-01-01
+2015-04-01,ZWHD_ESC,Heating Degree Days E. S. Central,146.7582313,total degree days,2024-01-01
+2015-03-01,ZWHD_ESC,Heating Degree Days E. S. Central,445.2539319,total degree days,2024-01-01
+2015-02-01,ZWHD_ESC,Heating Degree Days E. S. Central,864.199534,total degree days,2024-01-01
+2015-01-01,ZWHD_ESC,Heating Degree Days E. S. Central,835.9124027,total degree days,2024-01-01
+2014-12-01,ZWHD_ESC,Heating Degree Days E. S. Central,627.340692,total degree days,2024-01-01
+2014-11-01,ZWHD_ESC,Heating Degree Days E. S. Central,625.8482654,total degree days,2024-01-01
+2014-10-01,ZWHD_ESC,Heating Degree Days E. S. Central,161.7586366,total degree days,2024-01-01
+2014-09-01,ZWHD_ESC,Heating Degree Days E. S. Central,17.16850617,total degree days,2024-01-01
+2014-08-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2014-07-01,ZWHD_ESC,Heating Degree Days E. S. Central,0.704227103,total degree days,2024-01-01
+2014-06-01,ZWHD_ESC,Heating Degree Days E. S. Central,0.704290897,total degree days,2024-01-01
+2014-05-01,ZWHD_ESC,Heating Degree Days E. S. Central,48.6623205,total degree days,2024-01-01
+2014-04-01,ZWHD_ESC,Heating Degree Days E. S. Central,182.158827,total degree days,2024-01-01
+2014-03-01,ZWHD_ESC,Heating Degree Days E. S. Central,565.0708718,total degree days,2024-01-01
+2014-02-01,ZWHD_ESC,Heating Degree Days E. S. Central,690.4601454,total degree days,2024-01-01
+2014-01-01,ZWHD_ESC,Heating Degree Days E. S. Central,1015.571724,total degree days,2024-01-01
+2013-12-01,ZWHD_ESC,Heating Degree Days E. S. Central,701.217743,total degree days,2024-01-01
+2013-11-01,ZWHD_ESC,Heating Degree Days E. S. Central,544.2135039,total degree days,2024-01-01
+2013-10-01,ZWHD_ESC,Heating Degree Days E. S. Central,169.8661952,total degree days,2024-01-01
+2013-09-01,ZWHD_ESC,Heating Degree Days E. S. Central,15.54541343,total degree days,2024-01-01
+2013-08-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2013-07-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2013-06-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.411083365,total degree days,2024-01-01
+2013-05-01,ZWHD_ESC,Heating Degree Days E. S. Central,69.77145837,total degree days,2024-01-01
+2013-04-01,ZWHD_ESC,Heating Degree Days E. S. Central,216.1915677,total degree days,2024-01-01
+2013-03-01,ZWHD_ESC,Heating Degree Days E. S. Central,628.1974674,total degree days,2024-01-01
+2013-02-01,ZWHD_ESC,Heating Degree Days E. S. Central,623.5883219,total degree days,2024-01-01
+2013-01-01,ZWHD_ESC,Heating Degree Days E. S. Central,681.2523685,total degree days,2024-01-01
+2012-12-01,ZWHD_ESC,Heating Degree Days E. S. Central,559.259002,total degree days,2024-01-01
+2012-11-01,ZWHD_ESC,Heating Degree Days E. S. Central,527.908153,total degree days,2024-01-01
+2012-10-01,ZWHD_ESC,Heating Degree Days E. S. Central,230.4974587,total degree days,2024-01-01
+2012-09-01,ZWHD_ESC,Heating Degree Days E. S. Central,26.31774812,total degree days,2024-01-01
+2012-08-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2012-07-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2012-06-01,ZWHD_ESC,Heating Degree Days E. S. Central,2.338757906,total degree days,2024-01-01
+2012-05-01,ZWHD_ESC,Heating Degree Days E. S. Central,22.00950627,total degree days,2024-01-01
+2012-04-01,ZWHD_ESC,Heating Degree Days E. S. Central,151.6475832,total degree days,2024-01-01
+2012-03-01,ZWHD_ESC,Heating Degree Days E. S. Central,200.1451429,total degree days,2024-01-01
+2012-02-01,ZWHD_ESC,Heating Degree Days E. S. Central,517.9678232,total degree days,2024-01-01
+2012-01-01,ZWHD_ESC,Heating Degree Days E. S. Central,642.0863242,total degree days,2024-01-01
+2011-12-01,ZWHD_ESC,Heating Degree Days E. S. Central,628.3611818,total degree days,2024-01-01
+2011-11-01,ZWHD_ESC,Heating Degree Days E. S. Central,379.1712129,total degree days,2024-01-01
+2011-10-01,ZWHD_ESC,Heating Degree Days E. S. Central,239.0056244,total degree days,2024-01-01
+2011-09-01,ZWHD_ESC,Heating Degree Days E. S. Central,32.07088098,total degree days,2024-01-01
+2011-08-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2011-07-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2011-06-01,ZWHD_ESC,Heating Degree Days E. S. Central,0.706663168,total degree days,2024-01-01
+2011-05-01,ZWHD_ESC,Heating Degree Days E. S. Central,63.44306298,total degree days,2024-01-01
+2011-04-01,ZWHD_ESC,Heating Degree Days E. S. Central,131.1226788,total degree days,2024-01-01
+2011-03-01,ZWHD_ESC,Heating Degree Days E. S. Central,401.6728562,total degree days,2024-01-01
+2011-02-01,ZWHD_ESC,Heating Degree Days E. S. Central,571.7243655,total degree days,2024-01-01
+2011-01-01,ZWHD_ESC,Heating Degree Days E. S. Central,899.9165944,total degree days,2024-01-01
+2010-12-01,ZWHD_ESC,Heating Degree Days E. S. Central,924.0660156,total degree days,2024-01-01
+2010-11-01,ZWHD_ESC,Heating Degree Days E. S. Central,414.3607693,total degree days,2024-01-01
+2010-10-01,ZWHD_ESC,Heating Degree Days E. S. Central,173.0455936,total degree days,2024-01-01
+2010-09-01,ZWHD_ESC,Heating Degree Days E. S. Central,11.60261918,total degree days,2024-01-01
+2010-08-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2010-07-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2010-06-01,ZWHD_ESC,Heating Degree Days E. S. Central,1.00E-10,total degree days,2024-01-01
+2010-05-01,ZWHD_ESC,Heating Degree Days E. S. Central,31.85460263,total degree days,2024-01-01
+2010-04-01,ZWHD_ESC,Heating Degree Days E. S. Central,134.4209936,total degree days,2024-01-01
+2010-03-01,ZWHD_ESC,Heating Degree Days E. S. Central,511.4988402,total degree days,2024-01-01
+2010-02-01,ZWHD_ESC,Heating Degree Days E. S. Central,821.6705358,total degree days,2024-01-01
+2010-01-01,ZWHD_ESC,Heating Degree Days E. S. Central,931.1690021,total degree days,2024-01-01
+2025-12-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,905.3911875,total degree days,2024-01-01
+2025-11-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,623.4710196,total degree days,2024-01-01
+2025-10-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,344.5466197,total degree days,2024-01-01
+2025-09-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,72.29527529,total degree days,2024-01-01
+2025-08-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,9.820482087,total degree days,2024-01-01
+2025-07-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,4.295351366,total degree days,2024-01-01
+2025-06-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,23.82580551,total degree days,2024-01-01
+2025-05-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,189.5079084,total degree days,2024-01-01
+2025-04-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,446.1006971,total degree days,2024-01-01
+2025-03-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,781.084548,total degree days,2024-01-01
+2025-02-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,903.6265382,total degree days,2024-01-01
+2025-01-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,1060.226177,total degree days,2024-01-01
+2024-12-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,908.6529982,total degree days,2024-01-01
+2024-11-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,625.7183011,total degree days,2024-01-01
+2024-10-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,345.7956429,total degree days,2024-01-01
+2024-09-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,72.56672909,total degree days,2024-01-01
+2024-08-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,9.8589867,total degree days,2024-01-01
+2024-07-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,4.312563621,total degree days,2024-01-01
+2024-06-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,23.92058179,total degree days,2024-01-01
+2024-05-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,190.2160857,total degree days,2024-01-01
+2024-04-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,447.7483435,total degree days,2024-01-01
+2024-03-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,783.9307368,total degree days,2024-01-01
+2024-02-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,906.9024014,total degree days,2024-01-01
+2024-01-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,1082.670346,total degree days,2024-01-01
+2023-12-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,854.9574699,total degree days,2024-01-01
+2023-11-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,713.4435304,total degree days,2024-01-01
+2023-10-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,272.694816,total degree days,2024-01-01
+2023-09-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,57.40650114,total degree days,2024-01-01
+2023-08-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,13.03288355,total degree days,2024-01-01
+2023-07-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,1.246229887,total degree days,2024-01-01
+2023-06-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,43.27261989,total degree days,2024-01-01
+2023-05-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,242.0018848,total degree days,2024-01-01
+2023-04-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,366.2492885,total degree days,2024-01-01
+2023-03-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,794.1780078,total degree days,2024-01-01
+2023-02-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,813.3039384,total degree days,2024-01-01
+2023-01-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,844.8046866,total degree days,2024-01-01
+2022-12-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,978.5739086,total degree days,2024-01-01
+2022-11-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,586.9987658,total degree days,2024-01-01
+2022-10-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,391.7408029,total degree days,2024-01-01
+2022-09-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,66.83873188,total degree days,2024-01-01
+2022-08-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,3.424794424,total degree days,2024-01-01
+2022-07-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,1.717324112,total degree days,2024-01-01
+2022-06-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,26.75861659,total degree days,2024-01-01
+2022-05-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,145.5118993,total degree days,2024-01-01
+2022-04-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,494.8124287,total degree days,2024-01-01
+2022-03-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,757.700896,total degree days,2024-01-01
+2022-02-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,932.1074677,total degree days,2024-01-01
+2022-01-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,1242.011176,total degree days,2024-01-01
+2021-12-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,809.105169,total degree days,2024-01-01
+2021-11-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,707.9431356,total degree days,2024-01-01
+2021-10-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,206.2111966,total degree days,2024-01-01
+2021-09-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,50.33240419,total degree days,2024-01-01
+2021-08-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,2.030298028,total degree days,2024-01-01
+2021-07-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,3.752261383,total degree days,2024-01-01
+2021-06-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,9.606593496,total degree days,2024-01-01
+2021-05-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,215.4589659,total degree days,2024-01-01
+2021-04-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,440.3739244,total degree days,2024-01-01
+2021-03-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,736.280172,total degree days,2024-01-01
+2021-02-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,1015.717756,total degree days,2024-01-01
+2021-01-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,1064.78001,total degree days,2024-01-01
+2020-12-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,942.9040679,total degree days,2024-01-01
+2020-11-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,546.2841642,total degree days,2024-01-01
+2020-10-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,336.02093,total degree days,2024-01-01
+2020-09-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,79.04837544,total degree days,2024-01-01
+2020-08-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,3.597352183,total degree days,2024-01-01
+2020-07-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,1.00E-10,total degree days,2024-01-01
+2020-06-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,17.44632254,total degree days,2024-01-01
+2020-05-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,248.8925882,total degree days,2024-01-01
+2020-04-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,564.9762581,total degree days,2024-01-01
+2020-03-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,668.3130963,total degree days,2024-01-01
+2020-02-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,837.1633617,total degree days,2024-01-01
+2020-01-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,954.0902919,total degree days,2024-01-01
+2019-12-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,970.3805722,total degree days,2024-01-01
+2019-11-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,788.1569879,total degree days,2024-01-01
+2019-10-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,301.2683747,total degree days,2024-01-01
+2019-09-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,57.03067934,total degree days,2024-01-01
+2019-08-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,8.939411568,total degree days,2024-01-01
+2019-07-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,0.475970546,total degree days,2024-01-01
+2019-06-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,31.35502633,total degree days,2024-01-01
+2019-05-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,187.2371339,total degree days,2024-01-01
+2019-04-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,411.4644489,total degree days,2024-01-01
+2019-03-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,888.5871443,total degree days,2024-01-01
+2019-02-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,939.8004529,total degree days,2024-01-01
+2019-01-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,1150.930612,total degree days,2024-01-01
+2018-12-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,927.8214776,total degree days,2024-01-01
+2018-11-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,763.5807548,total degree days,2024-01-01
+2018-10-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,353.1205982,total degree days,2024-01-01
+2018-09-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,33.19467092,total degree days,2024-01-01
+2018-08-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,2.347329131,total degree days,2024-01-01
+2018-07-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,0.78250021,total degree days,2024-01-01
+2018-06-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,27.97638807,total degree days,2024-01-01
+2018-05-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,108.1168699,total degree days,2024-01-01
+2018-04-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,616.0925869,total degree days,2024-01-01
+2018-03-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,911.2186103,total degree days,2024-01-01
+2018-02-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,811.034088,total degree days,2024-01-01
+2018-01-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,1213.697217,total degree days,2024-01-01
+2017-12-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,1084.183595,total degree days,2024-01-01
+2017-11-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,696.9013104,total degree days,2024-01-01
+2017-10-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,213.2661996,total degree days,2024-01-01
+2017-09-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,51.6752241,total degree days,2024-01-01
+2017-08-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,17.35632936,total degree days,2024-01-01
+2017-07-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,3.303208904,total degree days,2024-01-01
+2017-06-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,24.12874937,total degree days,2024-01-01
+2017-05-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,231.8009908,total degree days,2024-01-01
+2017-04-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,340.3473274,total degree days,2024-01-01
+2017-03-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,906.8662717,total degree days,2024-01-01
+2017-02-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,778.4084914,total degree days,2024-01-01
+2017-01-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,969.4618723,total degree days,2024-01-01
+2016-12-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,972.4884646,total degree days,2024-01-01
+2016-11-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,607.4546919,total degree days,2024-01-01
+2016-10-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,314.971433,total degree days,2024-01-01
+2016-09-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,36.83345402,total degree days,2024-01-01
+2016-08-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,1.261111833,total degree days,2024-01-01
+2016-07-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,0.783654182,total degree days,2024-01-01
+2016-06-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,21.13594753,total degree days,2024-01-01
+2016-05-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,211.6863469,total degree days,2024-01-01
+2016-04-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,513.0056423,total degree days,2024-01-01
+2016-03-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,642.5261906,total degree days,2024-01-01
+2016-02-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,899.5761601,total degree days,2024-01-01
+2016-01-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,1116.789087,total degree days,2024-01-01
+2015-12-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,623.3740663,total degree days,2024-01-01
+2015-11-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,528.3457383,total degree days,2024-01-01
+2015-10-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,390.1214624,total degree days,2024-01-01
+2015-09-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,26.0318682,total degree days,2024-01-01
+2015-08-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,7.975997699,total degree days,2024-01-01
+2015-07-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,4.398067451,total degree days,2024-01-01
+2015-06-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,29.22318957,total degree days,2024-01-01
+2015-05-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,98.97630424,total degree days,2024-01-01
+2015-04-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,479.9363367,total degree days,2024-01-01
+2015-03-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,1000.411321,total degree days,2024-01-01
+2015-02-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,1316.197554,total degree days,2024-01-01
+2015-01-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,1257.259759,total degree days,2024-01-01
+2014-12-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,894.8220926,total degree days,2024-01-01
+2014-11-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,755.660948,total degree days,2024-01-01
+2014-10-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,310.0360507,total degree days,2024-01-01
+2014-09-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,72.8509215,total degree days,2024-01-01
+2014-08-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,18.99372878,total degree days,2024-01-01
+2014-07-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,6.582204303,total degree days,2024-01-01
+2014-06-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,19.36786593,total degree days,2024-01-01
+2014-05-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,178.3526263,total degree days,2024-01-01
+2014-04-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,503.7963535,total degree days,2024-01-01
+2014-03-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,1024.741808,total degree days,2024-01-01
+2014-02-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,1102.12685,total degree days,2024-01-01
+2014-01-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,1302.827316,total degree days,2024-01-01
+2013-12-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,1001.301123,total degree days,2024-01-01
+2013-11-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,746.5298187,total degree days,2024-01-01
+2013-10-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,314.4882977,total degree days,2024-01-01
+2013-09-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,109.8286734,total degree days,2024-01-01
+2013-08-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,16.59940336,total degree days,2024-01-01
+2013-07-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,0.784587567,total degree days,2024-01-01
+2013-06-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,21.70622715,total degree days,2024-01-01
+2013-05-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,190.9654455,total degree days,2024-01-01
+2013-04-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,479.5200652,total degree days,2024-01-01
+2013-03-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,895.1195178,total degree days,2024-01-01
+2013-02-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,988.518927,total degree days,2024-01-01
+2013-01-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,1061.909033,total degree days,2024-01-01
+2012-12-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,850.0685733,total degree days,2024-01-01
+2012-11-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,755.4307104,total degree days,2024-01-01
+2012-10-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,323.7954666,total degree days,2024-01-01
+2012-09-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,77.83532681,total degree days,2024-01-01
+2012-08-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,6.277699579,total degree days,2024-01-01
+2012-07-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,0.476141405,total degree days,2024-01-01
+2012-06-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,24.33823533,total degree days,2024-01-01
+2012-05-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,108.5055899,total degree days,2024-01-01
+2012-04-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,456.5397538,total degree days,2024-01-01
+2012-03-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,536.3605796,total degree days,2024-01-01
+2012-02-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,813.7764739,total degree days,2024-01-01
+2012-01-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,1006.77079,total degree days,2024-01-01
+2011-12-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,847.4161793,total degree days,2024-01-01
+2011-11-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,543.4727004,total degree days,2024-01-01
+2011-10-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,357.7939145,total degree days,2024-01-01
+2011-09-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,47.68635025,total degree days,2024-01-01
+2011-08-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,8.323141364,total degree days,2024-01-01
+2011-07-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,0.47531244,total degree days,2024-01-01
+2011-06-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,17.90979143,total degree days,2024-01-01
+2011-05-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,145.4609678,total degree days,2024-01-01
+2011-04-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,432.326872,total degree days,2024-01-01
+2011-03-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,835.5080223,total degree days,2024-01-01
+2011-02-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,977.776535,total degree days,2024-01-01
+2011-01-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,1256.76294,total degree days,2024-01-01
+2010-12-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,1134.137274,total degree days,2024-01-01
+2010-11-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,665.5638072,total degree days,2024-01-01
+2010-10-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,358.1466627,total degree days,2024-01-01
+2010-09-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,55.10146783,total degree days,2024-01-01
+2010-08-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,5.658049073,total degree days,2024-01-01
+2010-07-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,0.474436621,total degree days,2024-01-01
+2010-06-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,12.59203466,total degree days,2024-01-01
+2010-05-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,137.3447759,total degree days,2024-01-01
+2010-04-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,348.7861784,total degree days,2024-01-01
+2010-03-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,662.8078714,total degree days,2024-01-01
+2010-02-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,1011.660759,total degree days,2024-01-01
+2010-01-01,ZWHD_MAC,Heating Degree Days Middle Atlantic,1146.700866,total degree days,2024-01-01
+2025-12-01,ZWHD_MTN,Heating Degree Days Mountain,867.7259158,total degree days,2024-01-01
+2025-11-01,ZWHD_MTN,Heating Degree Days Mountain,606.8092612,total degree days,2024-01-01
+2025-10-01,ZWHD_MTN,Heating Degree Days Mountain,335.2751648,total degree days,2024-01-01
+2025-09-01,ZWHD_MTN,Heating Degree Days Mountain,111.8504036,total degree days,2024-01-01
+2025-08-01,ZWHD_MTN,Heating Degree Days Mountain,23.80340702,total degree days,2024-01-01
+2025-07-01,ZWHD_MTN,Heating Degree Days Mountain,15.57057858,total degree days,2024-01-01
+2025-06-01,ZWHD_MTN,Heating Degree Days Mountain,78.67680767,total degree days,2024-01-01
+2025-05-01,ZWHD_MTN,Heating Degree Days Mountain,219.5540004,total degree days,2024-01-01
+2025-04-01,ZWHD_MTN,Heating Degree Days Mountain,400.8115664,total degree days,2024-01-01
+2025-03-01,ZWHD_MTN,Heating Degree Days Mountain,576.214375,total degree days,2024-01-01
+2025-02-01,ZWHD_MTN,Heating Degree Days Mountain,698.9623205,total degree days,2024-01-01
+2025-01-01,ZWHD_MTN,Heating Degree Days Mountain,856.8409964,total degree days,2024-01-01
+2024-12-01,ZWHD_MTN,Heating Degree Days Mountain,869.9572649,total degree days,2024-01-01
+2024-11-01,ZWHD_MTN,Heating Degree Days Mountain,608.3954583,total degree days,2024-01-01
+2024-10-01,ZWHD_MTN,Heating Degree Days Mountain,336.150707,total degree days,2024-01-01
+2024-09-01,ZWHD_MTN,Heating Degree Days Mountain,112.1309845,total degree days,2024-01-01
+2024-08-01,ZWHD_MTN,Heating Degree Days Mountain,23.86355347,total degree days,2024-01-01
+2024-07-01,ZWHD_MTN,Heating Degree Days Mountain,15.60445317,total degree days,2024-01-01
+2024-06-01,ZWHD_MTN,Heating Degree Days Mountain,78.84665359,total degree days,2024-01-01
+2024-05-01,ZWHD_MTN,Heating Degree Days Mountain,220.1091549,total degree days,2024-01-01
+2024-04-01,ZWHD_MTN,Heating Degree Days Mountain,401.8625324,total degree days,2024-01-01
+2024-03-01,ZWHD_MTN,Heating Degree Days Mountain,577.7470424,total degree days,2024-01-01
+2024-02-01,ZWHD_MTN,Heating Degree Days Mountain,700.810913,total degree days,2024-01-01
+2024-01-01,ZWHD_MTN,Heating Degree Days Mountain,886.2484159,total degree days,2024-01-01
+2023-12-01,ZWHD_MTN,Heating Degree Days Mountain,805.2966916,total degree days,2024-01-01
+2023-11-01,ZWHD_MTN,Heating Degree Days Mountain,569.5497523,total degree days,2024-01-01
+2023-10-01,ZWHD_MTN,Heating Degree Days Mountain,313.9323058,total degree days,2024-01-01
+2023-09-01,ZWHD_MTN,Heating Degree Days Mountain,97.65998075,total degree days,2024-01-01
+2023-08-01,ZWHD_MTN,Heating Degree Days Mountain,18.62862431,total degree days,2024-01-01
+2023-07-01,ZWHD_MTN,Heating Degree Days Mountain,10.52239374,total degree days,2024-01-01
+2023-06-01,ZWHD_MTN,Heating Degree Days Mountain,100.565543,total degree days,2024-01-01
+2023-05-01,ZWHD_MTN,Heating Degree Days Mountain,181.1260292,total degree days,2024-01-01
+2023-04-01,ZWHD_MTN,Heating Degree Days Mountain,443.9743856,total degree days,2024-01-01
+2023-03-01,ZWHD_MTN,Heating Degree Days Mountain,769.1483046,total degree days,2024-01-01
+2023-02-01,ZWHD_MTN,Heating Degree Days Mountain,823.2780397,total degree days,2024-01-01
+2023-01-01,ZWHD_MTN,Heating Degree Days Mountain,960.904375,total degree days,2024-01-01
+2022-12-01,ZWHD_MTN,Heating Degree Days Mountain,925.7884683,total degree days,2024-01-01
+2022-11-01,ZWHD_MTN,Heating Degree Days Mountain,772.8296422,total degree days,2024-01-01
+2022-10-01,ZWHD_MTN,Heating Degree Days Mountain,311.5255108,total degree days,2024-01-01
+2022-09-01,ZWHD_MTN,Heating Degree Days Mountain,65.75788367,total degree days,2024-01-01
+2022-08-01,ZWHD_MTN,Heating Degree Days Mountain,11.59892392,total degree days,2024-01-01
+2022-07-01,ZWHD_MTN,Heating Degree Days Mountain,6.109312018,total degree days,2024-01-01
+2022-06-01,ZWHD_MTN,Heating Degree Days Mountain,69.07066602,total degree days,2024-01-01
+2022-05-01,ZWHD_MTN,Heating Degree Days Mountain,242.0698681,total degree days,2024-01-01
+2022-04-01,ZWHD_MTN,Heating Degree Days Mountain,421.0762907,total degree days,2024-01-01
+2022-03-01,ZWHD_MTN,Heating Degree Days Mountain,605.3958275,total degree days,2024-01-01
+2022-02-01,ZWHD_MTN,Heating Degree Days Mountain,803.4798302,total degree days,2024-01-01
+2022-01-01,ZWHD_MTN,Heating Degree Days Mountain,884.9829089,total degree days,2024-01-01
+2021-12-01,ZWHD_MTN,Heating Degree Days Mountain,792.4334288,total degree days,2024-01-01
+2021-11-01,ZWHD_MTN,Heating Degree Days Mountain,491.1667872,total degree days,2024-01-01
+2021-10-01,ZWHD_MTN,Heating Degree Days Mountain,344.0721754,total degree days,2024-01-01
+2021-09-01,ZWHD_MTN,Heating Degree Days Mountain,81.93462501,total degree days,2024-01-01
+2021-08-01,ZWHD_MTN,Heating Degree Days Mountain,22.89410842,total degree days,2024-01-01
+2021-07-01,ZWHD_MTN,Heating Degree Days Mountain,4.566120308,total degree days,2024-01-01
+2021-06-01,ZWHD_MTN,Heating Degree Days Mountain,34.55203676,total degree days,2024-01-01
+2021-05-01,ZWHD_MTN,Heating Degree Days Mountain,220.5791108,total degree days,2024-01-01
+2021-04-01,ZWHD_MTN,Heating Degree Days Mountain,404.1072626,total degree days,2024-01-01
+2021-03-01,ZWHD_MTN,Heating Degree Days Mountain,643.211154,total degree days,2024-01-01
+2021-02-01,ZWHD_MTN,Heating Degree Days Mountain,780.3038503,total degree days,2024-01-01
+2021-01-01,ZWHD_MTN,Heating Degree Days Mountain,874.8391607,total degree days,2024-01-01
+2020-12-01,ZWHD_MTN,Heating Degree Days Mountain,884.8191076,total degree days,2024-01-01
+2020-11-01,ZWHD_MTN,Heating Degree Days Mountain,564.4071267,total degree days,2024-01-01
+2020-10-01,ZWHD_MTN,Heating Degree Days Mountain,325.0634253,total degree days,2024-01-01
+2020-09-01,ZWHD_MTN,Heating Degree Days Mountain,103.0876079,total degree days,2024-01-01
+2020-08-01,ZWHD_MTN,Heating Degree Days Mountain,9.015155925,total degree days,2024-01-01
+2020-07-01,ZWHD_MTN,Heating Degree Days Mountain,14.09223779,total degree days,2024-01-01
+2020-06-01,ZWHD_MTN,Heating Degree Days Mountain,73.43969589,total degree days,2024-01-01
+2020-05-01,ZWHD_MTN,Heating Degree Days Mountain,185.2101285,total degree days,2024-01-01
+2020-04-01,ZWHD_MTN,Heating Degree Days Mountain,413.1824642,total degree days,2024-01-01
+2020-03-01,ZWHD_MTN,Heating Degree Days Mountain,598.9945568,total degree days,2024-01-01
+2020-02-01,ZWHD_MTN,Heating Degree Days Mountain,763.6052648,total degree days,2024-01-01
+2020-01-01,ZWHD_MTN,Heating Degree Days Mountain,849.9703027,total degree days,2024-01-01
+2019-12-01,ZWHD_MTN,Heating Degree Days Mountain,870.6549118,total degree days,2024-01-01
+2019-11-01,ZWHD_MTN,Heating Degree Days Mountain,618.3481264,total degree days,2024-01-01
+2019-10-01,ZWHD_MTN,Heating Degree Days Mountain,479.177379,total degree days,2024-01-01
+2019-09-01,ZWHD_MTN,Heating Degree Days Mountain,95.62026758,total degree days,2024-01-01
+2019-08-01,ZWHD_MTN,Heating Degree Days Mountain,16.8052287,total degree days,2024-01-01
+2019-07-01,ZWHD_MTN,Heating Degree Days Mountain,14.77817008,total degree days,2024-01-01
+2019-06-01,ZWHD_MTN,Heating Degree Days Mountain,96.78861197,total degree days,2024-01-01
+2019-05-01,ZWHD_MTN,Heating Degree Days Mountain,314.3706075,total degree days,2024-01-01
+2019-04-01,ZWHD_MTN,Heating Degree Days Mountain,374.5713995,total degree days,2024-01-01
+2019-03-01,ZWHD_MTN,Heating Degree Days Mountain,668.0762638,total degree days,2024-01-01
+2019-02-01,ZWHD_MTN,Heating Degree Days Mountain,866.8881309,total degree days,2024-01-01
+2019-01-01,ZWHD_MTN,Heating Degree Days Mountain,893.2964048,total degree days,2024-01-01
+2018-12-01,ZWHD_MTN,Heating Degree Days Mountain,898.0122092,total degree days,2024-01-01
+2018-11-01,ZWHD_MTN,Heating Degree Days Mountain,679.2598304,total degree days,2024-01-01
+2018-10-01,ZWHD_MTN,Heating Degree Days Mountain,384.3124375,total degree days,2024-01-01
+2018-09-01,ZWHD_MTN,Heating Degree Days Mountain,89.43900024,total degree days,2024-01-01
+2018-08-01,ZWHD_MTN,Heating Degree Days Mountain,24.67507974,total degree days,2024-01-01
+2018-07-01,ZWHD_MTN,Heating Degree Days Mountain,9.069285441,total degree days,2024-01-01
+2018-06-01,ZWHD_MTN,Heating Degree Days Mountain,56.48313486,total degree days,2024-01-01
+2018-05-01,ZWHD_MTN,Heating Degree Days Mountain,162.9645692,total degree days,2024-01-01
+2018-04-01,ZWHD_MTN,Heating Degree Days Mountain,380.7656477,total degree days,2024-01-01
+2018-03-01,ZWHD_MTN,Heating Degree Days Mountain,604.2534289,total degree days,2024-01-01
+2018-02-01,ZWHD_MTN,Heating Degree Days Mountain,748.5096973,total degree days,2024-01-01
+2018-01-01,ZWHD_MTN,Heating Degree Days Mountain,771.2476445,total degree days,2024-01-01
+2017-12-01,ZWHD_MTN,Heating Degree Days Mountain,816.4293004,total degree days,2024-01-01
+2017-11-01,ZWHD_MTN,Heating Degree Days Mountain,489.6296123,total degree days,2024-01-01
+2017-10-01,ZWHD_MTN,Heating Degree Days Mountain,359.1269314,total degree days,2024-01-01
+2017-09-01,ZWHD_MTN,Heating Degree Days Mountain,120.0178044,total degree days,2024-01-01
+2017-08-01,ZWHD_MTN,Heating Degree Days Mountain,26.30305266,total degree days,2024-01-01
+2017-07-01,ZWHD_MTN,Heating Degree Days Mountain,6.34326979,total degree days,2024-01-01
+2017-06-01,ZWHD_MTN,Heating Degree Days Mountain,58.76337436,total degree days,2024-01-01
+2017-05-01,ZWHD_MTN,Heating Degree Days Mountain,234.9797951,total degree days,2024-01-01
+2017-04-01,ZWHD_MTN,Heating Degree Days Mountain,403.86549,total degree days,2024-01-01
+2017-03-01,ZWHD_MTN,Heating Degree Days Mountain,466.6299379,total degree days,2024-01-01
+2017-02-01,ZWHD_MTN,Heating Degree Days Mountain,627.3297148,total degree days,2024-01-01
+2017-01-01,ZWHD_MTN,Heating Degree Days Mountain,962.4067305,total degree days,2024-01-01
+2016-12-01,ZWHD_MTN,Heating Degree Days Mountain,927.2495857,total degree days,2024-01-01
+2016-11-01,ZWHD_MTN,Heating Degree Days Mountain,511.647356,total degree days,2024-01-01
+2016-10-01,ZWHD_MTN,Heating Degree Days Mountain,264.9213049,total degree days,2024-01-01
+2016-09-01,ZWHD_MTN,Heating Degree Days Mountain,114.5662257,total degree days,2024-01-01
+2016-08-01,ZWHD_MTN,Heating Degree Days Mountain,30.64127349,total degree days,2024-01-01
+2016-07-01,ZWHD_MTN,Heating Degree Days Mountain,14.65642467,total degree days,2024-01-01
+2016-06-01,ZWHD_MTN,Heating Degree Days Mountain,42.17856474,total degree days,2024-01-01
+2016-05-01,ZWHD_MTN,Heating Degree Days Mountain,253.4231598,total degree days,2024-01-01
+2016-04-01,ZWHD_MTN,Heating Degree Days Mountain,380.5223446,total degree days,2024-01-01
+2016-03-01,ZWHD_MTN,Heating Degree Days Mountain,542.3441604,total degree days,2024-01-01
+2016-02-01,ZWHD_MTN,Heating Degree Days Mountain,618.665298,total degree days,2024-01-01
+2016-01-01,ZWHD_MTN,Heating Degree Days Mountain,917.1352998,total degree days,2024-01-01
+2015-12-01,ZWHD_MTN,Heating Degree Days Mountain,936.2444885,total degree days,2024-01-01
+2015-11-01,ZWHD_MTN,Heating Degree Days Mountain,686.2875978,total degree days,2024-01-01
+2015-10-01,ZWHD_MTN,Heating Degree Days Mountain,246.874556,total degree days,2024-01-01
+2015-09-01,ZWHD_MTN,Heating Degree Days Mountain,77.78077099,total degree days,2024-01-01
+2015-08-01,ZWHD_MTN,Heating Degree Days Mountain,20.38545611,total degree days,2024-01-01
+2015-07-01,ZWHD_MTN,Heating Degree Days Mountain,23.7932671,total degree days,2024-01-01
+2015-06-01,ZWHD_MTN,Heating Degree Days Mountain,41.59816001,total degree days,2024-01-01
+2015-05-01,ZWHD_MTN,Heating Degree Days Mountain,266.5716429,total degree days,2024-01-01
+2015-04-01,ZWHD_MTN,Heating Degree Days Mountain,395.2575431,total degree days,2024-01-01
+2015-03-01,ZWHD_MTN,Heating Degree Days Mountain,483.1007266,total degree days,2024-01-01
+2015-02-01,ZWHD_MTN,Heating Degree Days Mountain,600.160424,total degree days,2024-01-01
+2015-01-01,ZWHD_MTN,Heating Degree Days Mountain,817.669412,total degree days,2024-01-01
+2014-12-01,ZWHD_MTN,Heating Degree Days Mountain,836.057016,total degree days,2024-01-01
+2014-11-01,ZWHD_MTN,Heating Degree Days Mountain,652.9819843,total degree days,2024-01-01
+2014-10-01,ZWHD_MTN,Heating Degree Days Mountain,272.4433746,total degree days,2024-01-01
+2014-09-01,ZWHD_MTN,Heating Degree Days Mountain,100.1669545,total degree days,2024-01-01
+2014-08-01,ZWHD_MTN,Heating Degree Days Mountain,37.099654,total degree days,2024-01-01
+2014-07-01,ZWHD_MTN,Heating Degree Days Mountain,11.2249263,total degree days,2024-01-01
+2014-06-01,ZWHD_MTN,Heating Degree Days Mountain,86.06126921,total degree days,2024-01-01
+2014-05-01,ZWHD_MTN,Heating Degree Days Mountain,217.0030162,total degree days,2024-01-01
+2014-04-01,ZWHD_MTN,Heating Degree Days Mountain,404.0457312,total degree days,2024-01-01
+2014-03-01,ZWHD_MTN,Heating Degree Days Mountain,581.9187625,total degree days,2024-01-01
+2014-02-01,ZWHD_MTN,Heating Degree Days Mountain,704.7528601,total degree days,2024-01-01
+2014-01-01,ZWHD_MTN,Heating Degree Days Mountain,833.8838522,total degree days,2024-01-01
+2013-12-01,ZWHD_MTN,Heating Degree Days Mountain,968.2794386,total degree days,2024-01-01
+2013-11-01,ZWHD_MTN,Heating Degree Days Mountain,612.4672038,total degree days,2024-01-01
+2013-10-01,ZWHD_MTN,Heating Degree Days Mountain,412.4361779,total degree days,2024-01-01
+2013-09-01,ZWHD_MTN,Heating Degree Days Mountain,98.24400124,total degree days,2024-01-01
+2013-08-01,ZWHD_MTN,Heating Degree Days Mountain,16.39831293,total degree days,2024-01-01
+2013-07-01,ZWHD_MTN,Heating Degree Days Mountain,10.45893211,total degree days,2024-01-01
+2013-06-01,ZWHD_MTN,Heating Degree Days Mountain,56.40912929,total degree days,2024-01-01
+2013-05-01,ZWHD_MTN,Heating Degree Days Mountain,216.6419634,total degree days,2024-01-01
+2013-04-01,ZWHD_MTN,Heating Degree Days Mountain,457.3991846,total degree days,2024-01-01
+2013-03-01,ZWHD_MTN,Heating Degree Days Mountain,590.4842208,total degree days,2024-01-01
+2013-02-01,ZWHD_MTN,Heating Degree Days Mountain,806.6002595,total degree days,2024-01-01
+2013-01-01,ZWHD_MTN,Heating Degree Days Mountain,1016.043347,total degree days,2024-01-01
+2012-12-01,ZWHD_MTN,Heating Degree Days Mountain,895.1567076,total degree days,2024-01-01
+2012-11-01,ZWHD_MTN,Heating Degree Days Mountain,533.5429923,total degree days,2024-01-01
+2012-10-01,ZWHD_MTN,Heating Degree Days Mountain,343.8330068,total degree days,2024-01-01
+2012-09-01,ZWHD_MTN,Heating Degree Days Mountain,94.44732742,total degree days,2024-01-01
+2012-08-01,ZWHD_MTN,Heating Degree Days Mountain,13.68257222,total degree days,2024-01-01
+2012-07-01,ZWHD_MTN,Heating Degree Days Mountain,7.359036124,total degree days,2024-01-01
+2012-06-01,ZWHD_MTN,Heating Degree Days Mountain,53.01523552,total degree days,2024-01-01
+2012-05-01,ZWHD_MTN,Heating Degree Days Mountain,197.7859069,total degree days,2024-01-01
+2012-04-01,ZWHD_MTN,Heating Degree Days Mountain,327.8898348,total degree days,2024-01-01
+2012-03-01,ZWHD_MTN,Heating Degree Days Mountain,531.5329484,total degree days,2024-01-01
+2012-02-01,ZWHD_MTN,Heating Degree Days Mountain,747.9043822,total degree days,2024-01-01
+2012-01-01,ZWHD_MTN,Heating Degree Days Mountain,814.0205294,total degree days,2024-01-01
+2011-12-01,ZWHD_MTN,Heating Degree Days Mountain,962.269199,total degree days,2024-01-01
+2011-11-01,ZWHD_MTN,Heating Degree Days Mountain,663.4038764,total degree days,2024-01-01
+2011-10-01,ZWHD_MTN,Heating Degree Days Mountain,329.3153097,total degree days,2024-01-01
+2011-09-01,ZWHD_MTN,Heating Degree Days Mountain,102.3309108,total degree days,2024-01-01
+2011-08-01,ZWHD_MTN,Heating Degree Days Mountain,13.50650251,total degree days,2024-01-01
+2011-07-01,ZWHD_MTN,Heating Degree Days Mountain,16.45425766,total degree days,2024-01-01
+2011-06-01,ZWHD_MTN,Heating Degree Days Mountain,98.31393295,total degree days,2024-01-01
+2011-05-01,ZWHD_MTN,Heating Degree Days Mountain,308.4638732,total degree days,2024-01-01
+2011-04-01,ZWHD_MTN,Heating Degree Days Mountain,441.6358713,total degree days,2024-01-01
+2011-03-01,ZWHD_MTN,Heating Degree Days Mountain,586.881609,total degree days,2024-01-01
+2011-02-01,ZWHD_MTN,Heating Degree Days Mountain,844.3842451,total degree days,2024-01-01
+2011-01-01,ZWHD_MTN,Heating Degree Days Mountain,937.3089207,total degree days,2024-01-01
+2010-12-01,ZWHD_MTN,Heating Degree Days Mountain,792.1144704,total degree days,2024-01-01
+2010-11-01,ZWHD_MTN,Heating Degree Days Mountain,686.5167071,total degree days,2024-01-01
+2010-10-01,ZWHD_MTN,Heating Degree Days Mountain,293.7856802,total degree days,2024-01-01
+2010-09-01,ZWHD_MTN,Heating Degree Days Mountain,96.01457634,total degree days,2024-01-01
+2010-08-01,ZWHD_MTN,Heating Degree Days Mountain,27.87285525,total degree days,2024-01-01
+2010-07-01,ZWHD_MTN,Heating Degree Days Mountain,18.15841978,total degree days,2024-01-01
+2010-06-01,ZWHD_MTN,Heating Degree Days Mountain,82.56130492,total degree days,2024-01-01
+2010-05-01,ZWHD_MTN,Heating Degree Days Mountain,310.194187,total degree days,2024-01-01
+2010-04-01,ZWHD_MTN,Heating Degree Days Mountain,443.3902667,total degree days,2024-01-01
+2010-03-01,ZWHD_MTN,Heating Degree Days Mountain,645.5194947,total degree days,2024-01-01
+2010-02-01,ZWHD_MTN,Heating Degree Days Mountain,777.0213065,total degree days,2024-01-01
+2010-01-01,ZWHD_MTN,Heating Degree Days Mountain,887.1591032,total degree days,2024-01-01
+2025-12-01,ZWHD_NEC,Heating Degree Days New England,969.6943669,total degree days,2024-01-01
+2025-11-01,ZWHD_NEC,Heating Degree Days New England,674.3969897,total degree days,2024-01-01
+2025-10-01,ZWHD_NEC,Heating Degree Days New England,402.6712346,total degree days,2024-01-01
+2025-09-01,ZWHD_NEC,Heating Degree Days New England,105.6479679,total degree days,2024-01-01
+2025-08-01,ZWHD_NEC,Heating Degree Days New England,17.54653038,total degree days,2024-01-01
+2025-07-01,ZWHD_NEC,Heating Degree Days New England,8.148862682,total degree days,2024-01-01
+2025-06-01,ZWHD_NEC,Heating Degree Days New England,48.04895669,total degree days,2024-01-01
+2025-05-01,ZWHD_NEC,Heating Degree Days New England,249.0863123,total degree days,2024-01-01
+2025-04-01,ZWHD_NEC,Heating Degree Days New England,528.3960519,total degree days,2024-01-01
+2025-03-01,ZWHD_NEC,Heating Degree Days New England,860.4253433,total degree days,2024-01-01
+2025-02-01,ZWHD_NEC,Heating Degree Days New England,973.3124478,total degree days,2024-01-01
+2025-01-01,ZWHD_NEC,Heating Degree Days New England,1135.694037,total degree days,2024-01-01
+2024-12-01,ZWHD_NEC,Heating Degree Days New England,973.1781729,total degree days,2024-01-01
+2024-11-01,ZWHD_NEC,Heating Degree Days New England,676.8118799,total degree days,2024-01-01
+2024-10-01,ZWHD_NEC,Heating Degree Days New England,404.0927346,total degree days,2024-01-01
+2024-09-01,ZWHD_NEC,Heating Degree Days New England,106.0007748,total degree days,2024-01-01
+2024-08-01,ZWHD_NEC,Heating Degree Days New England,17.59955366,total degree days,2024-01-01
+2024-07-01,ZWHD_NEC,Heating Degree Days New England,8.172059172,total degree days,2024-01-01
+2024-06-01,ZWHD_NEC,Heating Degree Days New England,48.20166045,total degree days,2024-01-01
+2024-05-01,ZWHD_NEC,Heating Degree Days New England,249.9488328,total degree days,2024-01-01
+2024-04-01,ZWHD_NEC,Heating Degree Days New England,530.2580947,total degree days,2024-01-01
+2024-03-01,ZWHD_NEC,Heating Degree Days New England,863.4773513,total degree days,2024-01-01
+2024-02-01,ZWHD_NEC,Heating Degree Days New England,976.7658027,total degree days,2024-01-01
+2024-01-01,ZWHD_NEC,Heating Degree Days New England,1156.010935,total degree days,2024-01-01
+2023-12-01,ZWHD_NEC,Heating Degree Days New England,893.0740127,total degree days,2024-01-01
+2023-11-01,ZWHD_NEC,Heating Degree Days New England,789.5332704,total degree days,2024-01-01
+2023-10-01,ZWHD_NEC,Heating Degree Days New England,286.0827762,total degree days,2024-01-01
+2023-09-01,ZWHD_NEC,Heating Degree Days New England,64.38644772,total degree days,2024-01-01
+2023-08-01,ZWHD_NEC,Heating Degree Days New England,24.28635797,total degree days,2024-01-01
+2023-07-01,ZWHD_NEC,Heating Degree Days New England,1.16380984,total degree days,2024-01-01
+2023-06-01,ZWHD_NEC,Heating Degree Days New England,66.86140567,total degree days,2024-01-01
+2023-05-01,ZWHD_NEC,Heating Degree Days New England,282.7912786,total degree days,2024-01-01
+2023-04-01,ZWHD_NEC,Heating Degree Days New England,466.1217472,total degree days,2024-01-01
+2023-03-01,ZWHD_NEC,Heating Degree Days New England,850.8971933,total degree days,2024-01-01
+2023-02-01,ZWHD_NEC,Heating Degree Days New England,937.6695316,total degree days,2024-01-01
+2023-01-01,ZWHD_NEC,Heating Degree Days New England,924.0132379,total degree days,2024-01-01
+2022-12-01,ZWHD_NEC,Heating Degree Days New England,982.2845909,total degree days,2024-01-01
+2022-11-01,ZWHD_NEC,Heating Degree Days New England,614.4168887,total degree days,2024-01-01
+2022-10-01,ZWHD_NEC,Heating Degree Days New England,386.4441232,total degree days,2024-01-01
+2022-09-01,ZWHD_NEC,Heating Degree Days New England,108.5415918,total degree days,2024-01-01
+2022-08-01,ZWHD_NEC,Heating Degree Days New England,3.599956451,total degree days,2024-01-01
+2022-07-01,ZWHD_NEC,Heating Degree Days New England,2.99957066,total degree days,2024-01-01
+2022-06-01,ZWHD_NEC,Heating Degree Days New England,54.63847931,total degree days,2024-01-01
+2022-05-01,ZWHD_NEC,Heating Degree Days New England,186.8971968,total degree days,2024-01-01
+2022-04-01,ZWHD_NEC,Heating Degree Days New England,544.3153447,total degree days,2024-01-01
+2022-03-01,ZWHD_NEC,Heating Degree Days New England,839.9161026,total degree days,2024-01-01
+2022-02-01,ZWHD_NEC,Heating Degree Days New England,993.2814561,total degree days,2024-01-01
+2022-01-01,ZWHD_NEC,Heating Degree Days New England,1302.249594,total degree days,2024-01-01
+2021-12-01,ZWHD_NEC,Heating Degree Days New England,913.9187706,total degree days,2024-01-01
+2021-11-01,ZWHD_NEC,Heating Degree Days New England,727.2939599,total degree days,2024-01-01
+2021-10-01,ZWHD_NEC,Heating Degree Days New England,279.1845546,total degree days,2024-01-01
+2021-09-01,ZWHD_NEC,Heating Degree Days New England,68.24749659,total degree days,2024-01-01
+2021-08-01,ZWHD_NEC,Heating Degree Days New England,3.600044932,total degree days,2024-01-01
+2021-07-01,ZWHD_NEC,Heating Degree Days New England,12.61880765,total degree days,2024-01-01
+2021-06-01,ZWHD_NEC,Heating Degree Days New England,14.95168033,total degree days,2024-01-01
+2021-05-01,ZWHD_NEC,Heating Degree Days New England,246.5214621,total degree days,2024-01-01
+2021-04-01,ZWHD_NEC,Heating Degree Days New England,519.6819332,total degree days,2024-01-01
+2021-03-01,ZWHD_NEC,Heating Degree Days New England,837.2798564,total degree days,2024-01-01
+2021-02-01,ZWHD_NEC,Heating Degree Days New England,1051.849467,total degree days,2024-01-01
+2021-01-01,ZWHD_NEC,Heating Degree Days New England,1123.509306,total degree days,2024-01-01
+2020-12-01,ZWHD_NEC,Heating Degree Days New England,986.7551276,total degree days,2024-01-01
+2020-11-01,ZWHD_NEC,Heating Degree Days New England,615.3597747,total degree days,2024-01-01
+2020-10-01,ZWHD_NEC,Heating Degree Days New England,398.6051465,total degree days,2024-01-01
+2020-09-01,ZWHD_NEC,Heating Degree Days New England,103.6600626,total degree days,2024-01-01
+2020-08-01,ZWHD_NEC,Heating Degree Days New England,9.704212409,total degree days,2024-01-01
+2020-07-01,ZWHD_NEC,Heating Degree Days New England,1.125329412,total degree days,2024-01-01
+2020-06-01,ZWHD_NEC,Heating Degree Days New England,28.41427237,total degree days,2024-01-01
+2020-05-01,ZWHD_NEC,Heating Degree Days New England,288.9112794,total degree days,2024-01-01
+2020-04-01,ZWHD_NEC,Heating Degree Days New England,654.796583,total degree days,2024-01-01
+2020-03-01,ZWHD_NEC,Heating Degree Days New England,778.0597947,total degree days,2024-01-01
+2020-02-01,ZWHD_NEC,Heating Degree Days New England,923.7709899,total degree days,2024-01-01
+2020-01-01,ZWHD_NEC,Heating Degree Days New England,1032.033236,total degree days,2024-01-01
+2019-12-01,ZWHD_NEC,Heating Degree Days New England,1060.199256,total degree days,2024-01-01
+2019-11-01,ZWHD_NEC,Heating Degree Days New England,830.677118,total degree days,2024-01-01
+2019-10-01,ZWHD_NEC,Heating Degree Days New England,388.0909007,total degree days,2024-01-01
+2019-09-01,ZWHD_NEC,Heating Degree Days New England,117.6186621,total degree days,2024-01-01
+2019-08-01,ZWHD_NEC,Heating Degree Days New England,15.91445323,total degree days,2024-01-01
+2019-07-01,ZWHD_NEC,Heating Degree Days New England,1.767524624,total degree days,2024-01-01
+2019-06-01,ZWHD_NEC,Heating Degree Days New England,55.71879038,total degree days,2024-01-01
+2019-05-01,ZWHD_NEC,Heating Degree Days New England,313.34076,total degree days,2024-01-01
+2019-04-01,ZWHD_NEC,Heating Degree Days New England,527.702831,total degree days,2024-01-01
+2019-03-01,ZWHD_NEC,Heating Degree Days New England,976.0266122,total degree days,2024-01-01
+2019-02-01,ZWHD_NEC,Heating Degree Days New England,1030.352824,total degree days,2024-01-01
+2019-01-01,ZWHD_NEC,Heating Degree Days New England,1220.609237,total degree days,2024-01-01
+2018-12-01,ZWHD_NEC,Heating Degree Days New England,1026.017117,total degree days,2024-01-01
+2018-11-01,ZWHD_NEC,Heating Degree Days New England,817.7752598,total degree days,2024-01-01
+2018-10-01,ZWHD_NEC,Heating Degree Days New England,456.342135,total degree days,2024-01-01
+2018-09-01,ZWHD_NEC,Heating Degree Days New England,64.68622143,total degree days,2024-01-01
+2018-08-01,ZWHD_NEC,Heating Degree Days New England,3.414590834,total degree days,2024-01-01
+2018-07-01,ZWHD_NEC,Heating Degree Days New England,1.679537467,total degree days,2024-01-01
+2018-06-01,ZWHD_NEC,Heating Degree Days New England,61.58786371,total degree days,2024-01-01
+2018-05-01,ZWHD_NEC,Heating Degree Days New England,168.1816216,total degree days,2024-01-01
+2018-04-01,ZWHD_NEC,Heating Degree Days New England,673.5133727,total degree days,2024-01-01
+2018-03-01,ZWHD_NEC,Heating Degree Days New England,925.3583237,total degree days,2024-01-01
+2018-02-01,ZWHD_NEC,Heating Degree Days New England,868.1703083,total degree days,2024-01-01
+2018-01-01,ZWHD_NEC,Heating Degree Days New England,1256.545441,total degree days,2024-01-01
+2017-12-01,ZWHD_NEC,Heating Degree Days New England,1186.14711,total degree days,2024-01-01
+2017-11-01,ZWHD_NEC,Heating Degree Days New England,742.3854339,total degree days,2024-01-01
+2017-10-01,ZWHD_NEC,Heating Degree Days New England,236.9860124,total degree days,2024-01-01
+2017-09-01,ZWHD_NEC,Heating Degree Days New England,57.38422706,total degree days,2024-01-01
+2017-08-01,ZWHD_NEC,Heating Degree Days New England,26.51456157,total degree days,2024-01-01
+2017-07-01,ZWHD_NEC,Heating Degree Days New England,9.164267128,total degree days,2024-01-01
+2017-06-01,ZWHD_NEC,Heating Degree Days New England,45.14829378,total degree days,2024-01-01
+2017-05-01,ZWHD_NEC,Heating Degree Days New England,303.1749918,total degree days,2024-01-01
+2017-04-01,ZWHD_NEC,Heating Degree Days New England,450.8603834,total degree days,2024-01-01
+2017-03-01,ZWHD_NEC,Heating Degree Days New England,1036.222425,total degree days,2024-01-01
+2017-02-01,ZWHD_NEC,Heating Degree Days New England,905.1335857,total degree days,2024-01-01
+2017-01-01,ZWHD_NEC,Heating Degree Days New England,1037.715513,total degree days,2024-01-01
+2016-12-01,ZWHD_NEC,Heating Degree Days New England,1052.828594,total degree days,2024-01-01
+2016-11-01,ZWHD_NEC,Heating Degree Days New England,671.9152381,total degree days,2024-01-01
+2016-10-01,ZWHD_NEC,Heating Degree Days New England,387.8465624,total degree days,2024-01-01
+2016-09-01,ZWHD_NEC,Heating Degree Days New England,67.22679949,total degree days,2024-01-01
+2016-08-01,ZWHD_NEC,Heating Degree Days New England,5.106133511,total degree days,2024-01-01
+2016-07-01,ZWHD_NEC,Heating Degree Days New England,3.497552003,total degree days,2024-01-01
+2016-06-01,ZWHD_NEC,Heating Degree Days New England,44.84438504,total degree days,2024-01-01
+2016-05-01,ZWHD_NEC,Heating Degree Days New England,251.3647269,total degree days,2024-01-01
+2016-04-01,ZWHD_NEC,Heating Degree Days New England,604.7930418,total degree days,2024-01-01
+2016-03-01,ZWHD_NEC,Heating Degree Days New England,754.3973124,total degree days,2024-01-01
+2016-02-01,ZWHD_NEC,Heating Degree Days New England,956.360599,total degree days,2024-01-01
+2016-01-01,ZWHD_NEC,Heating Degree Days New England,1127.591077,total degree days,2024-01-01
+2015-12-01,ZWHD_NEC,Heating Degree Days New England,725.4801103,total degree days,2024-01-01
+2015-11-01,ZWHD_NEC,Heating Degree Days New England,609.4336782,total degree days,2024-01-01
+2015-10-01,ZWHD_NEC,Heating Degree Days New England,458.3619551,total degree days,2024-01-01
+2015-09-01,ZWHD_NEC,Heating Degree Days New England,42.8837072,total degree days,2024-01-01
+2015-08-01,ZWHD_NEC,Heating Degree Days New England,7.987781247,total degree days,2024-01-01
+2015-07-01,ZWHD_NEC,Heating Degree Days New England,7.161766888,total degree days,2024-01-01
+2015-06-01,ZWHD_NEC,Heating Degree Days New England,83.97068273,total degree days,2024-01-01
+2015-05-01,ZWHD_NEC,Heating Degree Days New England,147.7851292,total degree days,2024-01-01
+2015-04-01,ZWHD_NEC,Heating Degree Days New England,588.2671539,total degree days,2024-01-01
+2015-03-01,ZWHD_NEC,Heating Degree Days New England,1101.239763,total degree days,2024-01-01
+2015-02-01,ZWHD_NEC,Heating Degree Days New England,1411.839265,total degree days,2024-01-01
+2015-01-01,ZWHD_NEC,Heating Degree Days New England,1335.540026,total degree days,2024-01-01
+2014-12-01,ZWHD_NEC,Heating Degree Days New England,940.6100066,total degree days,2024-01-01
+2014-11-01,ZWHD_NEC,Heating Degree Days New England,785.0020698,total degree days,2024-01-01
+2014-10-01,ZWHD_NEC,Heating Degree Days New England,358.3748606,total degree days,2024-01-01
+2014-09-01,ZWHD_NEC,Heating Degree Days New England,109.9462178,total degree days,2024-01-01
+2014-08-01,ZWHD_NEC,Heating Degree Days New England,32.35437741,total degree days,2024-01-01
+2014-07-01,ZWHD_NEC,Heating Degree Days New England,4.29514601,total degree days,2024-01-01
+2014-06-01,ZWHD_NEC,Heating Degree Days New England,46.16924437,total degree days,2024-01-01
+2014-05-01,ZWHD_NEC,Heating Degree Days New England,254.3837676,total degree days,2024-01-01
+2014-04-01,ZWHD_NEC,Heating Degree Days New England,582.8870869,total degree days,2024-01-01
+2014-03-01,ZWHD_NEC,Heating Degree Days New England,1117.334004,total degree days,2024-01-01
+2014-02-01,ZWHD_NEC,Heating Degree Days New England,1141.31095,total degree days,2024-01-01
+2014-01-01,ZWHD_NEC,Heating Degree Days New England,1303.320891,total degree days,2024-01-01
+2013-12-01,ZWHD_NEC,Heating Degree Days New England,1112.771987,total degree days,2024-01-01
+2013-11-01,ZWHD_NEC,Heating Degree Days New England,785.2462202,total degree days,2024-01-01
+2013-10-01,ZWHD_NEC,Heating Degree Days New England,397.2492245,total degree days,2024-01-01
+2013-09-01,ZWHD_NEC,Heating Degree Days New England,138.9486785,total degree days,2024-01-01
+2013-08-01,ZWHD_NEC,Heating Degree Days New England,26.51844082,total degree days,2024-01-01
+2013-07-01,ZWHD_NEC,Heating Degree Days New England,1.514230525,total degree days,2024-01-01
+2013-06-01,ZWHD_NEC,Heating Degree Days New England,35.80725235,total degree days,2024-01-01
+2013-05-01,ZWHD_NEC,Heating Degree Days New England,244.3044566,total degree days,2024-01-01
+2013-04-01,ZWHD_NEC,Heating Degree Days New England,565.8105162,total degree days,2024-01-01
+2013-03-01,ZWHD_NEC,Heating Degree Days New England,920.8569417,total degree days,2024-01-01
+2013-02-01,ZWHD_NEC,Heating Degree Days New England,1026.452098,total degree days,2024-01-01
+2013-01-01,ZWHD_NEC,Heating Degree Days New England,1169.502163,total degree days,2024-01-01
+2012-12-01,ZWHD_NEC,Heating Degree Days New England,942.4637066,total degree days,2024-01-01
+2012-11-01,ZWHD_NEC,Heating Degree Days New England,780.2900158,total degree days,2024-01-01
+2012-10-01,ZWHD_NEC,Heating Degree Days New England,353.5956865,total degree days,2024-01-01
+2012-09-01,ZWHD_NEC,Heating Degree Days New England,119.5885902,total degree days,2024-01-01
+2012-08-01,ZWHD_NEC,Heating Degree Days New England,7.116302674,total degree days,2024-01-01
+2012-07-01,ZWHD_NEC,Heating Degree Days New England,2.946864137,total degree days,2024-01-01
+2012-06-01,ZWHD_NEC,Heating Degree Days New England,58.48739167,total degree days,2024-01-01
+2012-05-01,ZWHD_NEC,Heating Degree Days New England,178.5121164,total degree days,2024-01-01
+2012-04-01,ZWHD_NEC,Heating Degree Days New England,490.3066124,total degree days,2024-01-01
+2012-03-01,ZWHD_NEC,Heating Degree Days New England,659.9478584,total degree days,2024-01-01
+2012-02-01,ZWHD_NEC,Heating Degree Days New England,890.080038,total degree days,2024-01-01
+2012-01-01,ZWHD_NEC,Heating Degree Days New England,1080.053757,total degree days,2024-01-01
+2011-12-01,ZWHD_NEC,Heating Degree Days New England,909.3307979,total degree days,2024-01-01
+2011-11-01,ZWHD_NEC,Heating Degree Days New England,591.4816241,total degree days,2024-01-01
+2011-10-01,ZWHD_NEC,Heating Degree Days New England,381.1883649,total degree days,2024-01-01
+2011-09-01,ZWHD_NEC,Heating Degree Days New England,64.84857036,total degree days,2024-01-01
+2011-08-01,ZWHD_NEC,Heating Degree Days New England,14.27592527,total degree days,2024-01-01
+2011-07-01,ZWHD_NEC,Heating Degree Days New England,2.694465083,total degree days,2024-01-01
+2011-06-01,ZWHD_NEC,Heating Degree Days New England,54.78983786,total degree days,2024-01-01
+2011-05-01,ZWHD_NEC,Heating Degree Days New England,224.2426474,total degree days,2024-01-01
+2011-04-01,ZWHD_NEC,Heating Degree Days New England,530.5110919,total degree days,2024-01-01
+2011-03-01,ZWHD_NEC,Heating Degree Days New England,917.8843895,total degree days,2024-01-01
+2011-02-01,ZWHD_NEC,Heating Degree Days New England,1104.747326,total degree days,2024-01-01
+2011-01-01,ZWHD_NEC,Heating Degree Days New England,1317.113542,total degree days,2024-01-01
+2010-12-01,ZWHD_NEC,Heating Degree Days New England,1141.521326,total degree days,2024-01-01
+2010-11-01,ZWHD_NEC,Heating Degree Days New England,717.9988067,total degree days,2024-01-01
+2010-10-01,ZWHD_NEC,Heating Degree Days New England,419.4654636,total degree days,2024-01-01
+2010-09-01,ZWHD_NEC,Heating Degree Days New England,72.75824636,total degree days,2024-01-01
+2010-08-01,ZWHD_NEC,Heating Degree Days New England,14.35303438,total degree days,2024-01-01
+2010-07-01,ZWHD_NEC,Heating Degree Days New England,1.391815527,total degree days,2024-01-01
+2010-06-01,ZWHD_NEC,Heating Degree Days New England,31.82436637,total degree days,2024-01-01
+2010-05-01,ZWHD_NEC,Heating Degree Days New England,176.4018672,total degree days,2024-01-01
+2010-04-01,ZWHD_NEC,Heating Degree Days New England,432.8354072,total degree days,2024-01-01
+2010-03-01,ZWHD_NEC,Heating Degree Days New England,728.5600867,total degree days,2024-01-01
+2010-02-01,ZWHD_NEC,Heating Degree Days New England,993.7103911,total degree days,2024-01-01
+2010-01-01,ZWHD_NEC,Heating Degree Days New England,1204.158704,total degree days,2024-01-01
+2025-12-01,ZWHD_PAC,Heating Degree Days Pacific,557.9333163,total degree days,2024-01-01
+2025-11-01,ZWHD_PAC,Heating Degree Days Pacific,388.5201723,total degree days,2024-01-01
+2025-10-01,ZWHD_PAC,Heating Degree Days Pacific,193.8803682,total degree days,2024-01-01
+2025-09-01,ZWHD_PAC,Heating Degree Days Pacific,56.04208724,total degree days,2024-01-01
+2025-08-01,ZWHD_PAC,Heating Degree Days Pacific,18.59750404,total degree days,2024-01-01
+2025-07-01,ZWHD_PAC,Heating Degree Days Pacific,19.55101865,total degree days,2024-01-01
+2025-06-01,ZWHD_PAC,Heating Degree Days Pacific,75.1171119,total degree days,2024-01-01
+2025-05-01,ZWHD_PAC,Heating Degree Days Pacific,184.8638101,total degree days,2024-01-01
+2025-04-01,ZWHD_PAC,Heating Degree Days Pacific,314.4716931,total degree days,2024-01-01
+2025-03-01,ZWHD_PAC,Heating Degree Days Pacific,422.2535139,total degree days,2024-01-01
+2025-02-01,ZWHD_PAC,Heating Degree Days Pacific,457.6465023,total degree days,2024-01-01
+2025-01-01,ZWHD_PAC,Heating Degree Days Pacific,538.3621578,total degree days,2024-01-01
+2024-12-01,ZWHD_PAC,Heating Degree Days Pacific,559.8916187,total degree days,2024-01-01
+2024-11-01,ZWHD_PAC,Heating Degree Days Pacific,389.6889112,total degree days,2024-01-01
+2024-10-01,ZWHD_PAC,Heating Degree Days Pacific,194.2192672,total degree days,2024-01-01
+2024-09-01,ZWHD_PAC,Heating Degree Days Pacific,56.04150123,total degree days,2024-01-01
+2024-08-01,ZWHD_PAC,Heating Degree Days Pacific,18.5743119,total degree days,2024-01-01
+2024-07-01,ZWHD_PAC,Heating Degree Days Pacific,19.52660464,total degree days,2024-01-01
+2024-06-01,ZWHD_PAC,Heating Degree Days Pacific,75.21836633,total degree days,2024-01-01
+2024-05-01,ZWHD_PAC,Heating Degree Days Pacific,185.4082367,total degree days,2024-01-01
+2024-04-01,ZWHD_PAC,Heating Degree Days Pacific,315.5028103,total degree days,2024-01-01
+2024-03-01,ZWHD_PAC,Heating Degree Days Pacific,423.6738078,total degree days,2024-01-01
+2024-02-01,ZWHD_PAC,Heating Degree Days Pacific,459.2241824,total degree days,2024-01-01
+2024-01-01,ZWHD_PAC,Heating Degree Days Pacific,543.6562622,total degree days,2024-01-01
+2023-12-01,ZWHD_PAC,Heating Degree Days Pacific,464.526754,total degree days,2024-01-01
+2023-11-01,ZWHD_PAC,Heating Degree Days Pacific,385.6451936,total degree days,2024-01-01
+2023-10-01,ZWHD_PAC,Heating Degree Days Pacific,172.1872602,total degree days,2024-01-01
+2023-09-01,ZWHD_PAC,Heating Degree Days Pacific,77.25754838,total degree days,2024-01-01
+2023-08-01,ZWHD_PAC,Heating Degree Days Pacific,9.920510194,total degree days,2024-01-01
+2023-07-01,ZWHD_PAC,Heating Degree Days Pacific,11.36060242,total degree days,2024-01-01
+2023-06-01,ZWHD_PAC,Heating Degree Days Pacific,112.019077,total degree days,2024-01-01
+2023-05-01,ZWHD_PAC,Heating Degree Days Pacific,193.7125166,total degree days,2024-01-01
+2023-04-01,ZWHD_PAC,Heating Degree Days Pacific,353.2356446,total degree days,2024-01-01
+2023-03-01,ZWHD_PAC,Heating Degree Days Pacific,611.6147986,total degree days,2024-01-01
+2023-02-01,ZWHD_PAC,Heating Degree Days Pacific,591.877539,total degree days,2024-01-01
+2023-01-01,ZWHD_PAC,Heating Degree Days Pacific,632.6222659,total degree days,2024-01-01
+2022-12-01,ZWHD_PAC,Heating Degree Days Pacific,636.4790659,total degree days,2024-01-01
+2022-11-01,ZWHD_PAC,Heating Degree Days Pacific,524.5482674,total degree days,2024-01-01
+2022-10-01,ZWHD_PAC,Heating Degree Days Pacific,133.8582233,total degree days,2024-01-01
+2022-09-01,ZWHD_PAC,Heating Degree Days Pacific,30.94831664,total degree days,2024-01-01
+2022-08-01,ZWHD_PAC,Heating Degree Days Pacific,7.579729254,total degree days,2024-01-01
+2022-07-01,ZWHD_PAC,Heating Degree Days Pacific,10.33610166,total degree days,2024-01-01
+2022-06-01,ZWHD_PAC,Heating Degree Days Pacific,55.48534924,total degree days,2024-01-01
+2022-05-01,ZWHD_PAC,Heating Degree Days Pacific,214.1677854,total degree days,2024-01-01
+2022-04-01,ZWHD_PAC,Heating Degree Days Pacific,338.0638988,total degree days,2024-01-01
+2022-03-01,ZWHD_PAC,Heating Degree Days Pacific,395.0291853,total degree days,2024-01-01
+2022-02-01,ZWHD_PAC,Heating Degree Days Pacific,465.5897553,total degree days,2024-01-01
+2022-01-01,ZWHD_PAC,Heating Degree Days Pacific,537.685569,total degree days,2024-01-01
+2021-12-01,ZWHD_PAC,Heating Degree Days Pacific,634.1606871,total degree days,2024-01-01
+2021-11-01,ZWHD_PAC,Heating Degree Days Pacific,323.8121624,total degree days,2024-01-01
+2021-10-01,ZWHD_PAC,Heating Degree Days Pacific,245.9859291,total degree days,2024-01-01
+2021-09-01,ZWHD_PAC,Heating Degree Days Pacific,52.66391978,total degree days,2024-01-01
+2021-08-01,ZWHD_PAC,Heating Degree Days Pacific,14.30921862,total degree days,2024-01-01
+2021-07-01,ZWHD_PAC,Heating Degree Days Pacific,10.47722196,total degree days,2024-01-01
+2021-06-01,ZWHD_PAC,Heating Degree Days Pacific,28.36114375,total degree days,2024-01-01
+2021-05-01,ZWHD_PAC,Heating Degree Days Pacific,174.5855544,total degree days,2024-01-01
+2021-04-01,ZWHD_PAC,Heating Degree Days Pacific,286.0408078,total degree days,2024-01-01
+2021-03-01,ZWHD_PAC,Heating Degree Days Pacific,524.461854,total degree days,2024-01-01
+2021-02-01,ZWHD_PAC,Heating Degree Days Pacific,493.0719519,total degree days,2024-01-01
+2021-01-01,ZWHD_PAC,Heating Degree Days Pacific,549.8503169,total degree days,2024-01-01
+2020-12-01,ZWHD_PAC,Heating Degree Days Pacific,543.1201994,total degree days,2024-01-01
+2020-11-01,ZWHD_PAC,Heating Degree Days Pacific,412.4252351,total degree days,2024-01-01
+2020-10-01,ZWHD_PAC,Heating Degree Days Pacific,133.1945585,total degree days,2024-01-01
+2020-09-01,ZWHD_PAC,Heating Degree Days Pacific,30.51451346,total degree days,2024-01-01
+2020-08-01,ZWHD_PAC,Heating Degree Days Pacific,15.6074674,total degree days,2024-01-01
+2020-07-01,ZWHD_PAC,Heating Degree Days Pacific,18.9170429,total degree days,2024-01-01
+2020-06-01,ZWHD_PAC,Heating Degree Days Pacific,69.83487529,total degree days,2024-01-01
+2020-05-01,ZWHD_PAC,Heating Degree Days Pacific,147.8155956,total degree days,2024-01-01
+2020-04-01,ZWHD_PAC,Heating Degree Days Pacific,309.2610792,total degree days,2024-01-01
+2020-03-01,ZWHD_PAC,Heating Degree Days Pacific,526.380434,total degree days,2024-01-01
+2020-02-01,ZWHD_PAC,Heating Degree Days Pacific,447.1301481,total degree days,2024-01-01
+2020-01-01,ZWHD_PAC,Heating Degree Days Pacific,564.5126339,total degree days,2024-01-01
+2019-12-01,ZWHD_PAC,Heating Degree Days Pacific,574.9895391,total degree days,2024-01-01
+2019-11-01,ZWHD_PAC,Heating Degree Days Pacific,372.0644693,total degree days,2024-01-01
+2019-10-01,ZWHD_PAC,Heating Degree Days Pacific,239.1286065,total degree days,2024-01-01
+2019-09-01,ZWHD_PAC,Heating Degree Days Pacific,64.15171244,total degree days,2024-01-01
+2019-08-01,ZWHD_PAC,Heating Degree Days Pacific,12.20355853,total degree days,2024-01-01
+2019-07-01,ZWHD_PAC,Heating Degree Days Pacific,20.17322103,total degree days,2024-01-01
+2019-06-01,ZWHD_PAC,Heating Degree Days Pacific,60.0731245,total degree days,2024-01-01
+2019-05-01,ZWHD_PAC,Heating Degree Days Pacific,241.148921,total degree days,2024-01-01
+2019-04-01,ZWHD_PAC,Heating Degree Days Pacific,275.1709876,total degree days,2024-01-01
+2019-03-01,ZWHD_PAC,Heating Degree Days Pacific,490.9833605,total degree days,2024-01-01
+2019-02-01,ZWHD_PAC,Heating Degree Days Pacific,654.8506045,total degree days,2024-01-01
+2019-01-01,ZWHD_PAC,Heating Degree Days Pacific,542.2676708,total degree days,2024-01-01
+2018-12-01,ZWHD_PAC,Heating Degree Days Pacific,564.4410955,total degree days,2024-01-01
+2018-11-01,ZWHD_PAC,Heating Degree Days Pacific,354.5198755,total degree days,2024-01-01
+2018-10-01,ZWHD_PAC,Heating Degree Days Pacific,186.6610345,total degree days,2024-01-01
+2018-09-01,ZWHD_PAC,Heating Degree Days Pacific,61.96216339,total degree days,2024-01-01
+2018-08-01,ZWHD_PAC,Heating Degree Days Pacific,13.3755029,total degree days,2024-01-01
+2018-07-01,ZWHD_PAC,Heating Degree Days Pacific,8.481422998,total degree days,2024-01-01
+2018-06-01,ZWHD_PAC,Heating Degree Days Pacific,64.97410722,total degree days,2024-01-01
+2018-05-01,ZWHD_PAC,Heating Degree Days Pacific,175.4720905,total degree days,2024-01-01
+2018-04-01,ZWHD_PAC,Heating Degree Days Pacific,299.7402752,total degree days,2024-01-01
+2018-03-01,ZWHD_PAC,Heating Degree Days Pacific,486.9136162,total degree days,2024-01-01
+2018-02-01,ZWHD_PAC,Heating Degree Days Pacific,496.1236137,total degree days,2024-01-01
+2018-01-01,ZWHD_PAC,Heating Degree Days Pacific,459.1128769,total degree days,2024-01-01
+2017-12-01,ZWHD_PAC,Heating Degree Days Pacific,507.6025575,total degree days,2024-01-01
+2017-11-01,ZWHD_PAC,Heating Degree Days Pacific,351.5712526,total degree days,2024-01-01
+2017-10-01,ZWHD_PAC,Heating Degree Days Pacific,177.7269772,total degree days,2024-01-01
+2017-09-01,ZWHD_PAC,Heating Degree Days Pacific,44.7110703,total degree days,2024-01-01
+2017-08-01,ZWHD_PAC,Heating Degree Days Pacific,8.501203639,total degree days,2024-01-01
+2017-07-01,ZWHD_PAC,Heating Degree Days Pacific,14.14928348,total degree days,2024-01-01
+2017-06-01,ZWHD_PAC,Heating Degree Days Pacific,49.80101321,total degree days,2024-01-01
+2017-05-01,ZWHD_PAC,Heating Degree Days Pacific,170.8625877,total degree days,2024-01-01
+2017-04-01,ZWHD_PAC,Heating Degree Days Pacific,309.3962063,total degree days,2024-01-01
+2017-03-01,ZWHD_PAC,Heating Degree Days Pacific,392.7958045,total degree days,2024-01-01
+2017-02-01,ZWHD_PAC,Heating Degree Days Pacific,496.2967539,total degree days,2024-01-01
+2017-01-01,ZWHD_PAC,Heating Degree Days Pacific,666.1569689,total degree days,2024-01-01
+2016-12-01,ZWHD_PAC,Heating Degree Days Pacific,627.5345897,total degree days,2024-01-01
+2016-11-01,ZWHD_PAC,Heating Degree Days Pacific,332.1210195,total degree days,2024-01-01
+2016-10-01,ZWHD_PAC,Heating Degree Days Pacific,200.5016013,total degree days,2024-01-01
+2016-09-01,ZWHD_PAC,Heating Degree Days Pacific,66.14086195,total degree days,2024-01-01
+2016-08-01,ZWHD_PAC,Heating Degree Days Pacific,11.68092373,total degree days,2024-01-01
+2016-07-01,ZWHD_PAC,Heating Degree Days Pacific,19.83805879,total degree days,2024-01-01
+2016-06-01,ZWHD_PAC,Heating Degree Days Pacific,44.11469022,total degree days,2024-01-01
+2016-05-01,ZWHD_PAC,Heating Degree Days Pacific,180.9901345,total degree days,2024-01-01
+2016-04-01,ZWHD_PAC,Heating Degree Days Pacific,242.8831813,total degree days,2024-01-01
+2016-03-01,ZWHD_PAC,Heating Degree Days Pacific,396.1139901,total degree days,2024-01-01
+2016-02-01,ZWHD_PAC,Heating Degree Days Pacific,342.1728315,total degree days,2024-01-01
+2016-01-01,ZWHD_PAC,Heating Degree Days Pacific,570.5081909,total degree days,2024-01-01
+2015-12-01,ZWHD_PAC,Heating Degree Days Pacific,620.5305438,total degree days,2024-01-01
+2015-11-01,ZWHD_PAC,Heating Degree Days Pacific,471.3423505,total degree days,2024-01-01
+2015-10-01,ZWHD_PAC,Heating Degree Days Pacific,112.0683982,total degree days,2024-01-01
+2015-09-01,ZWHD_PAC,Heating Degree Days Pacific,57.72028652,total degree days,2024-01-01
+2015-08-01,ZWHD_PAC,Heating Degree Days Pacific,12.78252921,total degree days,2024-01-01
+2015-07-01,ZWHD_PAC,Heating Degree Days Pacific,7.131794255,total degree days,2024-01-01
+2015-06-01,ZWHD_PAC,Heating Degree Days Pacific,26.17347833,total degree days,2024-01-01
+2015-05-01,ZWHD_PAC,Heating Degree Days Pacific,208.4435468,total degree days,2024-01-01
+2015-04-01,ZWHD_PAC,Heating Degree Days Pacific,294.5084149,total degree days,2024-01-01
+2015-03-01,ZWHD_PAC,Heating Degree Days Pacific,284.6415682,total degree days,2024-01-01
+2015-02-01,ZWHD_PAC,Heating Degree Days Pacific,334.9240983,total degree days,2024-01-01
+2015-01-01,ZWHD_PAC,Heating Degree Days Pacific,471.5756843,total degree days,2024-01-01
+2014-12-01,ZWHD_PAC,Heating Degree Days Pacific,511.518261,total degree days,2024-01-01
+2014-11-01,ZWHD_PAC,Heating Degree Days Pacific,353.8557954,total degree days,2024-01-01
+2014-10-01,ZWHD_PAC,Heating Degree Days Pacific,122.3045831,total degree days,2024-01-01
+2014-09-01,ZWHD_PAC,Heating Degree Days Pacific,36.80827019,total degree days,2024-01-01
+2014-08-01,ZWHD_PAC,Heating Degree Days Pacific,10.65442931,total degree days,2024-01-01
+2014-07-01,ZWHD_PAC,Heating Degree Days Pacific,9.48885964,total degree days,2024-01-01
+2014-06-01,ZWHD_PAC,Heating Degree Days Pacific,61.52225757,total degree days,2024-01-01
+2014-05-01,ZWHD_PAC,Heating Degree Days Pacific,131.6786276,total degree days,2024-01-01
+2014-04-01,ZWHD_PAC,Heating Degree Days Pacific,276.1986147,total degree days,2024-01-01
+2014-03-01,ZWHD_PAC,Heating Degree Days Pacific,374.5336834,total degree days,2024-01-01
+2014-02-01,ZWHD_PAC,Heating Degree Days Pacific,449.5013118,total degree days,2024-01-01
+2014-01-01,ZWHD_PAC,Heating Degree Days Pacific,439.1461112,total degree days,2024-01-01
+2013-12-01,ZWHD_PAC,Heating Degree Days Pacific,597.6352067,total degree days,2024-01-01
+2013-11-01,ZWHD_PAC,Heating Degree Days Pacific,390.7418354,total degree days,2024-01-01
+2013-10-01,ZWHD_PAC,Heating Degree Days Pacific,238.8986147,total degree days,2024-01-01
+2013-09-01,ZWHD_PAC,Heating Degree Days Pacific,55.54316548,total degree days,2024-01-01
+2013-08-01,ZWHD_PAC,Heating Degree Days Pacific,14.44290796,total degree days,2024-01-01
+2013-07-01,ZWHD_PAC,Heating Degree Days Pacific,12.35092244,total degree days,2024-01-01
+2013-06-01,ZWHD_PAC,Heating Degree Days Pacific,51.06950468,total degree days,2024-01-01
+2013-05-01,ZWHD_PAC,Heating Degree Days Pacific,157.6173205,total degree days,2024-01-01
+2013-04-01,ZWHD_PAC,Heating Degree Days Pacific,289.041041,total degree days,2024-01-01
+2013-03-01,ZWHD_PAC,Heating Degree Days Pacific,393.1050544,total degree days,2024-01-01
+2013-02-01,ZWHD_PAC,Heating Degree Days Pacific,520.3785274,total degree days,2024-01-01
+2013-01-01,ZWHD_PAC,Heating Degree Days Pacific,646.296155,total degree days,2024-01-01
+2012-12-01,ZWHD_PAC,Heating Degree Days Pacific,621.5068493,total degree days,2024-01-01
+2012-11-01,ZWHD_PAC,Heating Degree Days Pacific,372.8110483,total degree days,2024-01-01
+2012-10-01,ZWHD_PAC,Heating Degree Days Pacific,181.0818991,total degree days,2024-01-01
+2012-09-01,ZWHD_PAC,Heating Degree Days Pacific,43.10972888,total degree days,2024-01-01
+2012-08-01,ZWHD_PAC,Heating Degree Days Pacific,14.50794471,total degree days,2024-01-01
+2012-07-01,ZWHD_PAC,Heating Degree Days Pacific,25.50504525,total degree days,2024-01-01
+2012-06-01,ZWHD_PAC,Heating Degree Days Pacific,99.0237895,total degree days,2024-01-01
+2012-05-01,ZWHD_PAC,Heating Degree Days Pacific,185.9255728,total degree days,2024-01-01
+2012-04-01,ZWHD_PAC,Heating Degree Days Pacific,320.2256966,total degree days,2024-01-01
+2012-03-01,ZWHD_PAC,Heating Degree Days Pacific,513.2824954,total degree days,2024-01-01
+2012-02-01,ZWHD_PAC,Heating Degree Days Pacific,496.0859171,total degree days,2024-01-01
+2012-01-01,ZWHD_PAC,Heating Degree Days Pacific,545.2495327,total degree days,2024-01-01
+2011-12-01,ZWHD_PAC,Heating Degree Days Pacific,637.8756546,total degree days,2024-01-01
+2011-11-01,ZWHD_PAC,Heating Degree Days Pacific,479.5935734,total degree days,2024-01-01
+2011-10-01,ZWHD_PAC,Heating Degree Days Pacific,195.0556831,total degree days,2024-01-01
+2011-09-01,ZWHD_PAC,Heating Degree Days Pacific,39.34597064,total degree days,2024-01-01
+2011-08-01,ZWHD_PAC,Heating Degree Days Pacific,21.91309501,total degree days,2024-01-01
+2011-07-01,ZWHD_PAC,Heating Degree Days Pacific,32.90554633,total degree days,2024-01-01
+2011-06-01,ZWHD_PAC,Heating Degree Days Pacific,116.433501,total degree days,2024-01-01
+2011-05-01,ZWHD_PAC,Heating Degree Days Pacific,284.8496237,total degree days,2024-01-01
+2011-04-01,ZWHD_PAC,Heating Degree Days Pacific,383.8979027,total degree days,2024-01-01
+2011-03-01,ZWHD_PAC,Heating Degree Days Pacific,494.6440688,total degree days,2024-01-01
+2011-02-01,ZWHD_PAC,Heating Degree Days Pacific,579.912779,total degree days,2024-01-01
+2011-01-01,ZWHD_PAC,Heating Degree Days Pacific,556.94533,total degree days,2024-01-01
+2010-12-01,ZWHD_PAC,Heating Degree Days Pacific,558.3102195,total degree days,2024-01-01
+2010-11-01,ZWHD_PAC,Heating Degree Days Pacific,467.5040866,total degree days,2024-01-01
+2010-10-01,ZWHD_PAC,Heating Degree Days Pacific,207.1531992,total degree days,2024-01-01
+2010-09-01,ZWHD_PAC,Heating Degree Days Pacific,59.46185329,total degree days,2024-01-01
+2010-08-01,ZWHD_PAC,Heating Degree Days Pacific,27.80264115,total degree days,2024-01-01
+2010-07-01,ZWHD_PAC,Heating Degree Days Pacific,25.44239242,total degree days,2024-01-01
+2010-06-01,ZWHD_PAC,Heating Degree Days Pacific,98.57963692,total degree days,2024-01-01
+2010-05-01,ZWHD_PAC,Heating Degree Days Pacific,286.6916328,total degree days,2024-01-01
+2010-04-01,ZWHD_PAC,Heating Degree Days Pacific,417.5858334,total degree days,2024-01-01
+2010-03-01,ZWHD_PAC,Heating Degree Days Pacific,467.7113036,total degree days,2024-01-01
+2010-02-01,ZWHD_PAC,Heating Degree Days Pacific,473.1054709,total degree days,2024-01-01
+2010-01-01,ZWHD_PAC,Heating Degree Days Pacific,538.3155954,total degree days,2024-01-01
+2025-12-01,ZWHD_SAC,Heating Degree Days South Atlantic,466.4879479,total degree days,2024-01-01
+2025-11-01,ZWHD_SAC,Heating Degree Days South Atlantic,298.721144,total degree days,2024-01-01
+2025-10-01,ZWHD_SAC,Heating Degree Days South Atlantic,119.6664212,total degree days,2024-01-01
+2025-09-01,ZWHD_SAC,Heating Degree Days South Atlantic,12.04602705,total degree days,2024-01-01
+2025-08-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.366749519,total degree days,2024-01-01
+2025-07-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.095105157,total degree days,2024-01-01
+2025-06-01,ZWHD_SAC,Heating Degree Days South Atlantic,2.022597592,total degree days,2024-01-01
+2025-05-01,ZWHD_SAC,Heating Degree Days South Atlantic,42.4742213,total degree days,2024-01-01
+2025-04-01,ZWHD_SAC,Heating Degree Days South Atlantic,134.9063049,total degree days,2024-01-01
+2025-03-01,ZWHD_SAC,Heating Degree Days South Atlantic,320.649867,total degree days,2024-01-01
+2025-02-01,ZWHD_SAC,Heating Degree Days South Atlantic,422.751792,total degree days,2024-01-01
+2025-01-01,ZWHD_SAC,Heating Degree Days South Atlantic,541.6656539,total degree days,2024-01-01
+2024-12-01,ZWHD_SAC,Heating Degree Days South Atlantic,469.7867106,total degree days,2024-01-01
+2024-11-01,ZWHD_SAC,Heating Degree Days South Atlantic,300.8491236,total degree days,2024-01-01
+2024-10-01,ZWHD_SAC,Heating Degree Days South Atlantic,120.5545668,total degree days,2024-01-01
+2024-09-01,ZWHD_SAC,Heating Degree Days South Atlantic,12.14892113,total degree days,2024-01-01
+2024-08-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.371149941,total degree days,2024-01-01
+2024-07-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.096618271,total degree days,2024-01-01
+2024-06-01,ZWHD_SAC,Heating Degree Days South Atlantic,2.042206675,total degree days,2024-01-01
+2024-05-01,ZWHD_SAC,Heating Degree Days South Atlantic,42.82517841,total degree days,2024-01-01
+2024-04-01,ZWHD_SAC,Heating Degree Days South Atlantic,135.9668684,total degree days,2024-01-01
+2024-03-01,ZWHD_SAC,Heating Degree Days South Atlantic,323.1014991,total degree days,2024-01-01
+2024-02-01,ZWHD_SAC,Heating Degree Days South Atlantic,425.9534329,total degree days,2024-01-01
+2024-01-01,ZWHD_SAC,Heating Degree Days South Atlantic,608.1878191,total degree days,2024-01-01
+2023-12-01,ZWHD_SAC,Heating Degree Days South Atlantic,464.6200086,total degree days,2024-01-01
+2023-11-01,ZWHD_SAC,Heating Degree Days South Atlantic,323.6691953,total degree days,2024-01-01
+2023-10-01,ZWHD_SAC,Heating Degree Days South Atlantic,109.5171738,total degree days,2024-01-01
+2023-09-01,ZWHD_SAC,Heating Degree Days South Atlantic,9.432520861,total degree days,2024-01-01
+2023-08-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.154701614,total degree days,2024-01-01
+2023-07-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.025815885,total degree days,2024-01-01
+2023-06-01,ZWHD_SAC,Heating Degree Days South Atlantic,8.424324963,total degree days,2024-01-01
+2023-05-01,ZWHD_SAC,Heating Degree Days South Atlantic,64.9152859,total degree days,2024-01-01
+2023-04-01,ZWHD_SAC,Heating Degree Days South Atlantic,116.3045287,total degree days,2024-01-01
+2023-03-01,ZWHD_SAC,Heating Degree Days South Atlantic,301.3066903,total degree days,2024-01-01
+2023-02-01,ZWHD_SAC,Heating Degree Days South Atlantic,306.2224977,total degree days,2024-01-01
+2023-01-01,ZWHD_SAC,Heating Degree Days South Atlantic,448.9693077,total degree days,2024-01-01
+2022-12-01,ZWHD_SAC,Heating Degree Days South Atlantic,535.8765209,total degree days,2024-01-01
+2022-11-01,ZWHD_SAC,Heating Degree Days South Atlantic,267.5485516,total degree days,2024-01-01
+2022-10-01,ZWHD_SAC,Heating Degree Days South Atlantic,177.3153424,total degree days,2024-01-01
+2022-09-01,ZWHD_SAC,Heating Degree Days South Atlantic,12.62144485,total degree days,2024-01-01
+2022-08-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.052406812,total degree days,2024-01-01
+2022-07-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.026241325,total degree days,2024-01-01
+2022-06-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.941456986,total degree days,2024-01-01
+2022-05-01,ZWHD_SAC,Heating Degree Days South Atlantic,30.86687379,total degree days,2024-01-01
+2022-04-01,ZWHD_SAC,Heating Degree Days South Atlantic,156.6473109,total degree days,2024-01-01
+2022-03-01,ZWHD_SAC,Heating Degree Days South Atlantic,285.9006095,total degree days,2024-01-01
+2022-02-01,ZWHD_SAC,Heating Degree Days South Atlantic,411.501945,total degree days,2024-01-01
+2022-01-01,ZWHD_SAC,Heating Degree Days South Atlantic,644.0771342,total degree days,2024-01-01
+2021-12-01,ZWHD_SAC,Heating Degree Days South Atlantic,350.7722185,total degree days,2024-01-01
+2021-11-01,ZWHD_SAC,Heating Degree Days South Atlantic,377.7783886,total degree days,2024-01-01
+2021-10-01,ZWHD_SAC,Heating Degree Days South Atlantic,69.67827357,total degree days,2024-01-01
+2021-09-01,ZWHD_SAC,Heating Degree Days South Atlantic,10.00592915,total degree days,2024-01-01
+2021-08-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.026682578,total degree days,2024-01-01
+2021-07-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.053438074,total degree days,2024-01-01
+2021-06-01,ZWHD_SAC,Heating Degree Days South Atlantic,1.123977975,total degree days,2024-01-01
+2021-05-01,ZWHD_SAC,Heating Degree Days South Atlantic,56.47980097,total degree days,2024-01-01
+2021-04-01,ZWHD_SAC,Heating Degree Days South Atlantic,153.66441,total degree days,2024-01-01
+2021-03-01,ZWHD_SAC,Heating Degree Days South Atlantic,283.2441115,total degree days,2024-01-01
+2021-02-01,ZWHD_SAC,Heating Degree Days South Atlantic,484.5544172,total degree days,2024-01-01
+2021-01-01,ZWHD_SAC,Heating Degree Days South Atlantic,578.631752,total degree days,2024-01-01
+2020-12-01,ZWHD_SAC,Heating Degree Days South Atlantic,556.6950935,total degree days,2024-01-01
+2020-11-01,ZWHD_SAC,Heating Degree Days South Atlantic,227.0369702,total degree days,2024-01-01
+2020-10-01,ZWHD_SAC,Heating Degree Days South Atlantic,96.51773598,total degree days,2024-01-01
+2020-09-01,ZWHD_SAC,Heating Degree Days South Atlantic,17.08515618,total degree days,2024-01-01
+2020-08-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.054027268,total degree days,2024-01-01
+2020-07-01,ZWHD_SAC,Heating Degree Days South Atlantic,1.00E-10,total degree days,2024-01-01
+2020-06-01,ZWHD_SAC,Heating Degree Days South Atlantic,1.738389432,total degree days,2024-01-01
+2020-05-01,ZWHD_SAC,Heating Degree Days South Atlantic,74.31379057,total degree days,2024-01-01
+2020-04-01,ZWHD_SAC,Heating Degree Days South Atlantic,177.7110269,total degree days,2024-01-01
+2020-03-01,ZWHD_SAC,Heating Degree Days South Atlantic,231.9648713,total degree days,2024-01-01
+2020-02-01,ZWHD_SAC,Heating Degree Days South Atlantic,397.5102941,total degree days,2024-01-01
+2020-01-01,ZWHD_SAC,Heating Degree Days South Atlantic,482.7009327,total degree days,2024-01-01
+2019-12-01,ZWHD_SAC,Heating Degree Days South Atlantic,451.2314734,total degree days,2024-01-01
+2019-11-01,ZWHD_SAC,Heating Degree Days South Atlantic,393.4845621,total degree days,2024-01-01
+2019-10-01,ZWHD_SAC,Heating Degree Days South Atlantic,77.6882594,total degree days,2024-01-01
+2019-09-01,ZWHD_SAC,Heating Degree Days South Atlantic,2.023877758,total degree days,2024-01-01
+2019-08-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.081956871,total degree days,2024-01-01
+2019-07-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.027349968,total degree days,2024-01-01
+2019-06-01,ZWHD_SAC,Heating Degree Days South Atlantic,2.146849843,total degree days,2024-01-01
+2019-05-01,ZWHD_SAC,Heating Degree Days South Atlantic,15.9010527,total degree days,2024-01-01
+2019-04-01,ZWHD_SAC,Heating Degree Days South Atlantic,109.8774823,total degree days,2024-01-01
+2019-03-01,ZWHD_SAC,Heating Degree Days South Atlantic,376.9239293,total degree days,2024-01-01
+2019-02-01,ZWHD_SAC,Heating Degree Days South Atlantic,378.3609082,total degree days,2024-01-01
+2019-01-01,ZWHD_SAC,Heating Degree Days South Atlantic,584.4270809,total degree days,2024-01-01
+2018-12-01,ZWHD_SAC,Heating Degree Days South Atlantic,489.9589192,total degree days,2024-01-01
+2018-11-01,ZWHD_SAC,Heating Degree Days South Atlantic,381.5198085,total degree days,2024-01-01
+2018-10-01,ZWHD_SAC,Heating Degree Days South Atlantic,99.18112316,total degree days,2024-01-01
+2018-09-01,ZWHD_SAC,Heating Degree Days South Atlantic,1.88571562,total degree days,2024-01-01
+2018-08-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.055411991,total degree days,2024-01-01
+2018-07-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.05547758,total degree days,2024-01-01
+2018-06-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.943252017,total degree days,2024-01-01
+2018-05-01,ZWHD_SAC,Heating Degree Days South Atlantic,12.13091602,total degree days,2024-01-01
+2018-04-01,ZWHD_SAC,Heating Degree Days South Atlantic,205.7066468,total degree days,2024-01-01
+2018-03-01,ZWHD_SAC,Heating Degree Days South Atlantic,436.1956399,total degree days,2024-01-01
+2018-02-01,ZWHD_SAC,Heating Degree Days South Atlantic,308.828381,total degree days,2024-01-01
+2018-01-01,ZWHD_SAC,Heating Degree Days South Atlantic,701.7788977,total degree days,2024-01-01
+2017-12-01,ZWHD_SAC,Heating Degree Days South Atlantic,536.9617953,total degree days,2024-01-01
+2017-11-01,ZWHD_SAC,Heating Degree Days South Atlantic,323.1386227,total degree days,2024-01-01
+2017-10-01,ZWHD_SAC,Heating Degree Days South Atlantic,89.28150804,total degree days,2024-01-01
+2017-09-01,ZWHD_SAC,Heating Degree Days South Atlantic,14.33108477,total degree days,2024-01-01
+2017-08-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.56391953,total degree days,2024-01-01
+2017-07-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.056349674,total degree days,2024-01-01
+2017-06-01,ZWHD_SAC,Heating Degree Days South Atlantic,2.350085718,total degree days,2024-01-01
+2017-05-01,ZWHD_SAC,Heating Degree Days South Atlantic,46.98125777,total degree days,2024-01-01
+2017-04-01,ZWHD_SAC,Heating Degree Days South Atlantic,76.23208654,total degree days,2024-01-01
+2017-03-01,ZWHD_SAC,Heating Degree Days South Atlantic,347.5316366,total degree days,2024-01-01
+2017-02-01,ZWHD_SAC,Heating Degree Days South Atlantic,323.813412,total degree days,2024-01-01
+2017-01-01,ZWHD_SAC,Heating Degree Days South Atlantic,477.8080167,total degree days,2024-01-01
+2016-12-01,ZWHD_SAC,Heating Degree Days South Atlantic,480.906898,total degree days,2024-01-01
+2016-11-01,ZWHD_SAC,Heating Degree Days South Atlantic,291.3029631,total degree days,2024-01-01
+2016-10-01,ZWHD_SAC,Heating Degree Days South Atlantic,91.91837695,total degree days,2024-01-01
+2016-09-01,ZWHD_SAC,Heating Degree Days South Atlantic,2.438061085,total degree days,2024-01-01
+2016-08-01,ZWHD_SAC,Heating Degree Days South Atlantic,1.00E-10,total degree days,2024-01-01
+2016-07-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.028676466,total degree days,2024-01-01
+2016-06-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.881853632,total degree days,2024-01-01
+2016-05-01,ZWHD_SAC,Heating Degree Days South Atlantic,58.58338162,total degree days,2024-01-01
+2016-04-01,ZWHD_SAC,Heating Degree Days South Atlantic,152.507087,total degree days,2024-01-01
+2016-03-01,ZWHD_SAC,Heating Degree Days South Atlantic,240.5055764,total degree days,2024-01-01
+2016-02-01,ZWHD_SAC,Heating Degree Days South Atlantic,484.6781495,total degree days,2024-01-01
+2016-01-01,ZWHD_SAC,Heating Degree Days South Atlantic,660.640868,total degree days,2024-01-01
+2015-12-01,ZWHD_SAC,Heating Degree Days South Atlantic,279.8197934,total degree days,2024-01-01
+2015-11-01,ZWHD_SAC,Heating Degree Days South Atlantic,237.7341801,total degree days,2024-01-01
+2015-10-01,ZWHD_SAC,Heating Degree Days South Atlantic,143.692711,total degree days,2024-01-01
+2015-09-01,ZWHD_SAC,Heating Degree Days South Atlantic,7.78302042,total degree days,2024-01-01
+2015-08-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.395235176,total degree days,2024-01-01
+2015-07-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.058389356,total degree days,2024-01-01
+2015-06-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.742710386,total degree days,2024-01-01
+2015-05-01,ZWHD_SAC,Heating Degree Days South Atlantic,21.99674895,total degree days,2024-01-01
+2015-04-01,ZWHD_SAC,Heating Degree Days South Atlantic,132.1518703,total degree days,2024-01-01
+2015-03-01,ZWHD_SAC,Heating Degree Days South Atlantic,359.1013168,total degree days,2024-01-01
+2015-02-01,ZWHD_SAC,Heating Degree Days South Atlantic,667.7557807,total degree days,2024-01-01
+2015-01-01,ZWHD_SAC,Heating Degree Days South Atlantic,645.3618659,total degree days,2024-01-01
+2014-12-01,ZWHD_SAC,Heating Degree Days South Atlantic,478.9296721,total degree days,2024-01-01
+2014-11-01,ZWHD_SAC,Heating Degree Days South Atlantic,441.1507183,total degree days,2024-01-01
+2014-10-01,ZWHD_SAC,Heating Degree Days South Atlantic,117.8702143,total degree days,2024-01-01
+2014-09-01,ZWHD_SAC,Heating Degree Days South Atlantic,11.43356784,total degree days,2024-01-01
+2014-08-01,ZWHD_SAC,Heating Degree Days South Atlantic,1.462699516,total degree days,2024-01-01
+2014-07-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.588553542,total degree days,2024-01-01
+2014-06-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.678145963,total degree days,2024-01-01
+2014-05-01,ZWHD_SAC,Heating Degree Days South Atlantic,36.67584403,total degree days,2024-01-01
+2014-04-01,ZWHD_SAC,Heating Degree Days South Atlantic,157.2260691,total degree days,2024-01-01
+2014-03-01,ZWHD_SAC,Heating Degree Days South Atlantic,461.4900314,total degree days,2024-01-01
+2014-02-01,ZWHD_SAC,Heating Degree Days South Atlantic,493.5125143,total degree days,2024-01-01
+2014-01-01,ZWHD_SAC,Heating Degree Days South Atlantic,760.1714137,total degree days,2024-01-01
+2013-12-01,ZWHD_SAC,Heating Degree Days South Atlantic,476.9410391,total degree days,2024-01-01
+2013-11-01,ZWHD_SAC,Heating Degree Days South Atlantic,384.9716213,total degree days,2024-01-01
+2013-10-01,ZWHD_SAC,Heating Degree Days South Atlantic,124.4176958,total degree days,2024-01-01
+2013-09-01,ZWHD_SAC,Heating Degree Days South Atlantic,19.07474037,total degree days,2024-01-01
+2013-08-01,ZWHD_SAC,Heating Degree Days South Atlantic,1.077319657,total degree days,2024-01-01
+2013-07-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.060066923,total degree days,2024-01-01
+2013-06-01,ZWHD_SAC,Heating Degree Days South Atlantic,1.223659906,total degree days,2024-01-01
+2013-05-01,ZWHD_SAC,Heating Degree Days South Atlantic,60.2991409,total degree days,2024-01-01
+2013-04-01,ZWHD_SAC,Heating Degree Days South Atlantic,150.3152917,total degree days,2024-01-01
+2013-03-01,ZWHD_SAC,Heating Degree Days South Atlantic,505.3286695,total degree days,2024-01-01
+2013-02-01,ZWHD_SAC,Heating Degree Days South Atlantic,505.9544367,total degree days,2024-01-01
+2013-01-01,ZWHD_SAC,Heating Degree Days South Atlantic,506.0858146,total degree days,2024-01-01
+2012-12-01,ZWHD_SAC,Heating Degree Days South Atlantic,437.4361052,total degree days,2024-01-01
+2012-11-01,ZWHD_SAC,Heating Degree Days South Atlantic,417.4749145,total degree days,2024-01-01
+2012-10-01,ZWHD_SAC,Heating Degree Days South Atlantic,140.8089978,total degree days,2024-01-01
+2012-09-01,ZWHD_SAC,Heating Degree Days South Atlantic,15.17299882,total degree days,2024-01-01
+2012-08-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.181989983,total degree days,2024-01-01
+2012-07-01,ZWHD_SAC,Heating Degree Days South Atlantic,1.00E-10,total degree days,2024-01-01
+2012-06-01,ZWHD_SAC,Heating Degree Days South Atlantic,3.145288338,total degree days,2024-01-01
+2012-05-01,ZWHD_SAC,Heating Degree Days South Atlantic,19.33719114,total degree days,2024-01-01
+2012-04-01,ZWHD_SAC,Heating Degree Days South Atlantic,140.8730122,total degree days,2024-01-01
+2012-03-01,ZWHD_SAC,Heating Degree Days South Atlantic,184.6267196,total degree days,2024-01-01
+2012-02-01,ZWHD_SAC,Heating Degree Days South Atlantic,406.7650162,total degree days,2024-01-01
+2012-01-01,ZWHD_SAC,Heating Degree Days South Atlantic,538.5709077,total degree days,2024-01-01
+2011-12-01,ZWHD_SAC,Heating Degree Days South Atlantic,446.5075877,total degree days,2024-01-01
+2011-11-01,ZWHD_SAC,Heating Degree Days South Atlantic,288.4622321,total degree days,2024-01-01
+2011-10-01,ZWHD_SAC,Heating Degree Days South Atlantic,169.7992789,total degree days,2024-01-01
+2011-09-01,ZWHD_SAC,Heating Degree Days South Atlantic,12.04048099,total degree days,2024-01-01
+2011-08-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.061257139,total degree days,2024-01-01
+2011-07-01,ZWHD_SAC,Heating Degree Days South Atlantic,1.00E-10,total degree days,2024-01-01
+2011-06-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.784268852,total degree days,2024-01-01
+2011-05-01,ZWHD_SAC,Heating Degree Days South Atlantic,35.11728151,total degree days,2024-01-01
+2011-04-01,ZWHD_SAC,Heating Degree Days South Atlantic,110.9622615,total degree days,2024-01-01
+2011-03-01,ZWHD_SAC,Heating Degree Days South Atlantic,346.2134677,total degree days,2024-01-01
+2011-02-01,ZWHD_SAC,Heating Degree Days South Atlantic,438.4065671,total degree days,2024-01-01
+2011-01-01,ZWHD_SAC,Heating Degree Days South Atlantic,715.9767113,total degree days,2024-01-01
+2010-12-01,ZWHD_SAC,Heating Degree Days South Atlantic,785.4087794,total degree days,2024-01-01
+2010-11-01,ZWHD_SAC,Heating Degree Days South Atlantic,340.7249257,total degree days,2024-01-01
+2010-10-01,ZWHD_SAC,Heating Degree Days South Atlantic,124.1958996,total degree days,2024-01-01
+2010-09-01,ZWHD_SAC,Heating Degree Days South Atlantic,5.902234905,total degree days,2024-01-01
+2010-08-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.030879732,total degree days,2024-01-01
+2010-07-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.030899665,total degree days,2024-01-01
+2010-06-01,ZWHD_SAC,Heating Degree Days South Atlantic,0.154600935,total degree days,2024-01-01
+2010-05-01,ZWHD_SAC,Heating Degree Days South Atlantic,26.69502402,total degree days,2024-01-01
+2010-04-01,ZWHD_SAC,Heating Degree Days South Atlantic,109.6142591,total degree days,2024-01-01
+2010-03-01,ZWHD_SAC,Heating Degree Days South Atlantic,392.7766332,total degree days,2024-01-01
+2010-02-01,ZWHD_SAC,Heating Degree Days South Atlantic,653.9872412,total degree days,2024-01-01
+2010-01-01,ZWHD_SAC,Heating Degree Days South Atlantic,723.7062615,total degree days,2024-01-01
+2025-12-01,ZWHD_WNC,Heating Degree Days W. N. Central,1157.634424,total degree days,2024-01-01
+2025-11-01,ZWHD_WNC,Heating Degree Days W. N. Central,787.4912539,total degree days,2024-01-01
+2025-10-01,ZWHD_WNC,Heating Degree Days W. N. Central,412.1016533,total degree days,2024-01-01
+2025-09-01,ZWHD_WNC,Heating Degree Days W. N. Central,114.35297,total degree days,2024-01-01
+2025-08-01,ZWHD_WNC,Heating Degree Days W. N. Central,25.28160696,total degree days,2024-01-01
+2025-07-01,ZWHD_WNC,Heating Degree Days W. N. Central,14.43351696,total degree days,2024-01-01
+2025-06-01,ZWHD_WNC,Heating Degree Days W. N. Central,42.27050581,total degree days,2024-01-01
+2025-05-01,ZWHD_WNC,Heating Degree Days W. N. Central,202.9619579,total degree days,2024-01-01
+2025-04-01,ZWHD_WNC,Heating Degree Days W. N. Central,462.2809153,total degree days,2024-01-01
+2025-03-01,ZWHD_WNC,Heating Degree Days W. N. Central,826.6980374,total degree days,2024-01-01
+2025-02-01,ZWHD_WNC,Heating Degree Days W. N. Central,1052.04243,total degree days,2024-01-01
+2025-01-01,ZWHD_WNC,Heating Degree Days W. N. Central,1300.44463,total degree days,2024-01-01
+2024-12-01,ZWHD_WNC,Heating Degree Days W. N. Central,1159.16088,total degree days,2024-01-01
+2024-11-01,ZWHD_WNC,Heating Degree Days W. N. Central,788.4925916,total degree days,2024-01-01
+2024-10-01,ZWHD_WNC,Heating Degree Days W. N. Central,412.5618478,total degree days,2024-01-01
+2024-09-01,ZWHD_WNC,Heating Degree Days W. N. Central,114.4510619,total degree days,2024-01-01
+2024-08-01,ZWHD_WNC,Heating Degree Days W. N. Central,25.29751234,total degree days,2024-01-01
+2024-07-01,ZWHD_WNC,Heating Degree Days W. N. Central,14.43844654,total degree days,2024-01-01
+2024-06-01,ZWHD_WNC,Heating Degree Days W. N. Central,42.2900257,total degree days,2024-01-01
+2024-05-01,ZWHD_WNC,Heating Degree Days W. N. Central,203.1598013,total degree days,2024-01-01
+2024-04-01,ZWHD_WNC,Heating Degree Days W. N. Central,462.8097091,total degree days,2024-01-01
+2024-03-01,ZWHD_WNC,Heating Degree Days W. N. Central,827.7399155,total degree days,2024-01-01
+2024-02-01,ZWHD_WNC,Heating Degree Days W. N. Central,1053.424066,total degree days,2024-01-01
+2024-01-01,ZWHD_WNC,Heating Degree Days W. N. Central,1277.065107,total degree days,2024-01-01
+2023-12-01,ZWHD_WNC,Heating Degree Days W. N. Central,924.2102528,total degree days,2024-01-01
+2023-11-01,ZWHD_WNC,Heating Degree Days W. N. Central,743.3017936,total degree days,2024-01-01
+2023-10-01,ZWHD_WNC,Heating Degree Days W. N. Central,360.2095596,total degree days,2024-01-01
+2023-09-01,ZWHD_WNC,Heating Degree Days W. N. Central,58.31503052,total degree days,2024-01-01
+2023-08-01,ZWHD_WNC,Heating Degree Days W. N. Central,16.83598011,total degree days,2024-01-01
+2023-07-01,ZWHD_WNC,Heating Degree Days W. N. Central,16.94576628,total degree days,2024-01-01
+2023-06-01,ZWHD_WNC,Heating Degree Days W. N. Central,22.67380887,total degree days,2024-01-01
+2023-05-01,ZWHD_WNC,Heating Degree Days W. N. Central,145.331759,total degree days,2024-01-01
+2023-04-01,ZWHD_WNC,Heating Degree Days W. N. Central,488.6234666,total degree days,2024-01-01
+2023-03-01,ZWHD_WNC,Heating Degree Days W. N. Central,955.4054496,total degree days,2024-01-01
+2023-02-01,ZWHD_WNC,Heating Degree Days W. N. Central,1030.671183,total degree days,2024-01-01
+2023-01-01,ZWHD_WNC,Heating Degree Days W. N. Central,1184.248966,total degree days,2024-01-01
+2022-12-01,ZWHD_WNC,Heating Degree Days W. N. Central,1288.584944,total degree days,2024-01-01
+2022-11-01,ZWHD_WNC,Heating Degree Days W. N. Central,825.0290329,total degree days,2024-01-01
+2022-10-01,ZWHD_WNC,Heating Degree Days W. N. Central,404.5414179,total degree days,2024-01-01
+2022-09-01,ZWHD_WNC,Heating Degree Days W. N. Central,83.91895438,total degree days,2024-01-01
+2022-08-01,ZWHD_WNC,Heating Degree Days W. N. Central,18.55423081,total degree days,2024-01-01
+2022-07-01,ZWHD_WNC,Heating Degree Days W. N. Central,9.303182505,total degree days,2024-01-01
+2022-06-01,ZWHD_WNC,Heating Degree Days W. N. Central,29.52635489,total degree days,2024-01-01
+2022-05-01,ZWHD_WNC,Heating Degree Days W. N. Central,185.2603853,total degree days,2024-01-01
+2022-04-01,ZWHD_WNC,Heating Degree Days W. N. Central,577.7059161,total degree days,2024-01-01
+2022-03-01,ZWHD_WNC,Heating Degree Days W. N. Central,848.1131155,total degree days,2024-01-01
+2022-02-01,ZWHD_WNC,Heating Degree Days W. N. Central,1194.417757,total degree days,2024-01-01
+2022-01-01,ZWHD_WNC,Heating Degree Days W. N. Central,1441.866274,total degree days,2024-01-01
+2021-12-01,ZWHD_WNC,Heating Degree Days W. N. Central,994.5385346,total degree days,2024-01-01
+2021-11-01,ZWHD_WNC,Heating Degree Days W. N. Central,737.5866893,total degree days,2024-01-01
+2021-10-01,ZWHD_WNC,Heating Degree Days W. N. Central,295.4042331,total degree days,2024-01-01
+2021-09-01,ZWHD_WNC,Heating Degree Days W. N. Central,67.83451972,total degree days,2024-01-01
+2021-08-01,ZWHD_WNC,Heating Degree Days W. N. Central,11.58489921,total degree days,2024-01-01
+2021-07-01,ZWHD_WNC,Heating Degree Days W. N. Central,8.035627921,total degree days,2024-01-01
+2021-06-01,ZWHD_WNC,Heating Degree Days W. N. Central,13.85841294,total degree days,2024-01-01
+2021-05-01,ZWHD_WNC,Heating Degree Days W. N. Central,225.3338409,total degree days,2024-01-01
+2021-04-01,ZWHD_WNC,Heating Degree Days W. N. Central,478.0761585,total degree days,2024-01-01
+2021-03-01,ZWHD_WNC,Heating Degree Days W. N. Central,672.656009,total degree days,2024-01-01
+2021-02-01,ZWHD_WNC,Heating Degree Days W. N. Central,1375.407464,total degree days,2024-01-01
+2021-01-01,ZWHD_WNC,Heating Degree Days W. N. Central,1180.527932,total degree days,2024-01-01
+2020-12-01,ZWHD_WNC,Heating Degree Days W. N. Central,1097.777575,total degree days,2024-01-01
+2020-11-01,ZWHD_WNC,Heating Degree Days W. N. Central,663.9960124,total degree days,2024-01-01
+2020-10-01,ZWHD_WNC,Heating Degree Days W. N. Central,556.2705059,total degree days,2024-01-01
+2020-09-01,ZWHD_WNC,Heating Degree Days W. N. Central,142.8653298,total degree days,2024-01-01
+2020-08-01,ZWHD_WNC,Heating Degree Days W. N. Central,18.31472613,total degree days,2024-01-01
+2020-07-01,ZWHD_WNC,Heating Degree Days W. N. Central,5.848123412,total degree days,2024-01-01
+2020-06-01,ZWHD_WNC,Heating Degree Days W. N. Central,20.88104356,total degree days,2024-01-01
+2020-05-01,ZWHD_WNC,Heating Degree Days W. N. Central,245.9020902,total degree days,2024-01-01
+2020-04-01,ZWHD_WNC,Heating Degree Days W. N. Central,532.8782982,total degree days,2024-01-01
+2020-03-01,ZWHD_WNC,Heating Degree Days W. N. Central,745.1121971,total degree days,2024-01-01
+2020-02-01,ZWHD_WNC,Heating Degree Days W. N. Central,1071.09356,total degree days,2024-01-01
+2020-01-01,ZWHD_WNC,Heating Degree Days W. N. Central,1224.897797,total degree days,2024-01-01
+2019-12-01,ZWHD_WNC,Heating Degree Days W. N. Central,1098.889144,total degree days,2024-01-01
+2019-11-01,ZWHD_WNC,Heating Degree Days W. N. Central,925.090077,total degree days,2024-01-01
+2019-10-01,ZWHD_WNC,Heating Degree Days W. N. Central,526.3942036,total degree days,2024-01-01
+2019-09-01,ZWHD_WNC,Heating Degree Days W. N. Central,67.45745079,total degree days,2024-01-01
+2019-08-01,ZWHD_WNC,Heating Degree Days W. N. Central,32.4361467,total degree days,2024-01-01
+2019-07-01,ZWHD_WNC,Heating Degree Days W. N. Central,8.197124529,total degree days,2024-01-01
+2019-06-01,ZWHD_WNC,Heating Degree Days W. N. Central,45.51163947,total degree days,2024-01-01
+2019-05-01,ZWHD_WNC,Heating Degree Days W. N. Central,272.7933294,total degree days,2024-01-01
+2019-04-01,ZWHD_WNC,Heating Degree Days W. N. Central,454.8318332,total degree days,2024-01-01
+2019-03-01,ZWHD_WNC,Heating Degree Days W. N. Central,1002.790936,total degree days,2024-01-01
+2019-02-01,ZWHD_WNC,Heating Degree Days W. N. Central,1286.368959,total degree days,2024-01-01
+2019-01-01,ZWHD_WNC,Heating Degree Days W. N. Central,1360.810562,total degree days,2024-01-01
+2018-12-01,ZWHD_WNC,Heating Degree Days W. N. Central,1104.051321,total degree days,2024-01-01
+2018-11-01,ZWHD_WNC,Heating Degree Days W. N. Central,1003.900396,total degree days,2024-01-01
+2018-10-01,ZWHD_WNC,Heating Degree Days W. N. Central,494.6190847,total degree days,2024-01-01
+2018-09-01,ZWHD_WNC,Heating Degree Days W. N. Central,90.48004648,total degree days,2024-01-01
+2018-08-01,ZWHD_WNC,Heating Degree Days W. N. Central,19.27844563,total degree days,2024-01-01
+2018-07-01,ZWHD_WNC,Heating Degree Days W. N. Central,10.93186464,total degree days,2024-01-01
+2018-06-01,ZWHD_WNC,Heating Degree Days W. N. Central,23.18637198,total degree days,2024-01-01
+2018-05-01,ZWHD_WNC,Heating Degree Days W. N. Central,88.44472541,total degree days,2024-01-01
+2018-04-01,ZWHD_WNC,Heating Degree Days W. N. Central,716.4488438,total degree days,2024-01-01
+2018-03-01,ZWHD_WNC,Heating Degree Days W. N. Central,869.2765461,total degree days,2024-01-01
+2018-02-01,ZWHD_WNC,Heating Degree Days W. N. Central,1179.467314,total degree days,2024-01-01
+2018-01-01,ZWHD_WNC,Heating Degree Days W. N. Central,1374.334015,total degree days,2024-01-01
+2017-12-01,ZWHD_WNC,Heating Degree Days W. N. Central,1219.247634,total degree days,2024-01-01
+2017-11-01,ZWHD_WNC,Heating Degree Days W. N. Central,806.3450055,total degree days,2024-01-01
+2017-10-01,ZWHD_WNC,Heating Degree Days W. N. Central,363.0656865,total degree days,2024-01-01
+2017-09-01,ZWHD_WNC,Heating Degree Days W. N. Central,77.50285259,total degree days,2024-01-01
+2017-08-01,ZWHD_WNC,Heating Degree Days W. N. Central,49.57583483,total degree days,2024-01-01
+2017-07-01,ZWHD_WNC,Heating Degree Days W. N. Central,9.734274251,total degree days,2024-01-01
+2017-06-01,ZWHD_WNC,Heating Degree Days W. N. Central,36.82146457,total degree days,2024-01-01
+2017-05-01,ZWHD_WNC,Heating Degree Days W. N. Central,224.6819953,total degree days,2024-01-01
+2017-04-01,ZWHD_WNC,Heating Degree Days W. N. Central,401.0658875,total degree days,2024-01-01
+2017-03-01,ZWHD_WNC,Heating Degree Days W. N. Central,783.3389658,total degree days,2024-01-01
+2017-02-01,ZWHD_WNC,Heating Degree Days W. N. Central,818.4405717,total degree days,2024-01-01
+2017-01-01,ZWHD_WNC,Heating Degree Days W. N. Central,1213.337922,total degree days,2024-01-01
+2016-12-01,ZWHD_WNC,Heating Degree Days W. N. Central,1258.028811,total degree days,2024-01-01
+2016-11-01,ZWHD_WNC,Heating Degree Days W. N. Central,569.3462446,total degree days,2024-01-01
+2016-10-01,ZWHD_WNC,Heating Degree Days W. N. Central,304.69712,total degree days,2024-01-01
+2016-09-01,ZWHD_WNC,Heating Degree Days W. N. Central,75.18214592,total degree days,2024-01-01
+2016-08-01,ZWHD_WNC,Heating Degree Days W. N. Central,16.71351195,total degree days,2024-01-01
+2016-07-01,ZWHD_WNC,Heating Degree Days W. N. Central,11.01859596,total degree days,2024-01-01
+2016-06-01,ZWHD_WNC,Heating Degree Days W. N. Central,27.43697142,total degree days,2024-01-01
+2016-05-01,ZWHD_WNC,Heating Degree Days W. N. Central,207.4499157,total degree days,2024-01-01
+2016-04-01,ZWHD_WNC,Heating Degree Days W. N. Central,424.6194997,total degree days,2024-01-01
+2016-03-01,ZWHD_WNC,Heating Degree Days W. N. Central,654.1073353,total degree days,2024-01-01
+2016-02-01,ZWHD_WNC,Heating Degree Days W. N. Central,937.4451088,total degree days,2024-01-01
+2016-01-01,ZWHD_WNC,Heating Degree Days W. N. Central,1305.057386,total degree days,2024-01-01
+2015-12-01,ZWHD_WNC,Heating Degree Days W. N. Central,961.393087,total degree days,2024-01-01
+2015-11-01,ZWHD_WNC,Heating Degree Days W. N. Central,650.6918799,total degree days,2024-01-01
+2015-10-01,ZWHD_WNC,Heating Degree Days W. N. Central,355.778125,total degree days,2024-01-01
+2015-09-01,ZWHD_WNC,Heating Degree Days W. N. Central,49.78989465,total degree days,2024-01-01
+2015-08-01,ZWHD_WNC,Heating Degree Days W. N. Central,33.01815553,total degree days,2024-01-01
+2015-07-01,ZWHD_WNC,Heating Degree Days W. N. Central,12.29913375,total degree days,2024-01-01
+2015-06-01,ZWHD_WNC,Heating Degree Days W. N. Central,39.52870056,total degree days,2024-01-01
+2015-05-01,ZWHD_WNC,Heating Degree Days W. N. Central,214.7590636,total degree days,2024-01-01
+2015-04-01,ZWHD_WNC,Heating Degree Days W. N. Central,398.8744661,total degree days,2024-01-01
+2015-03-01,ZWHD_WNC,Heating Degree Days W. N. Central,802.8843451,total degree days,2024-01-01
+2015-02-01,ZWHD_WNC,Heating Degree Days W. N. Central,1306.782918,total degree days,2024-01-01
+2015-01-01,ZWHD_WNC,Heating Degree Days W. N. Central,1267.335572,total degree days,2024-01-01
+2014-12-01,ZWHD_WNC,Heating Degree Days W. N. Central,1103.003064,total degree days,2024-01-01
+2014-11-01,ZWHD_WNC,Heating Degree Days W. N. Central,1021.486575,total degree days,2024-01-01
+2014-10-01,ZWHD_WNC,Heating Degree Days W. N. Central,389.0026454,total degree days,2024-01-01
+2014-09-01,ZWHD_WNC,Heating Degree Days W. N. Central,126.1916022,total degree days,2024-01-01
+2014-08-01,ZWHD_WNC,Heating Degree Days W. N. Central,20.95895694,total degree days,2024-01-01
+2014-07-01,ZWHD_WNC,Heating Degree Days W. N. Central,29.54774135,total degree days,2024-01-01
+2014-06-01,ZWHD_WNC,Heating Degree Days W. N. Central,40.39352336,total degree days,2024-01-01
+2014-05-01,ZWHD_WNC,Heating Degree Days W. N. Central,199.7979802,total degree days,2024-01-01
+2014-04-01,ZWHD_WNC,Heating Degree Days W. N. Central,512.6798697,total degree days,2024-01-01
+2014-03-01,ZWHD_WNC,Heating Degree Days W. N. Central,1031.765338,total degree days,2024-01-01
+2014-02-01,ZWHD_WNC,Heating Degree Days W. N. Central,1348.560645,total degree days,2024-01-01
+2014-01-01,ZWHD_WNC,Heating Degree Days W. N. Central,1484.774259,total degree days,2024-01-01
+2013-12-01,ZWHD_WNC,Heating Degree Days W. N. Central,1405.345888,total degree days,2024-01-01
+2013-11-01,ZWHD_WNC,Heating Degree Days W. N. Central,879.8975129,total degree days,2024-01-01
+2013-10-01,ZWHD_WNC,Heating Degree Days W. N. Central,438.8030341,total degree days,2024-01-01
+2013-09-01,ZWHD_WNC,Heating Degree Days W. N. Central,67.3136009,total degree days,2024-01-01
+2013-08-01,ZWHD_WNC,Heating Degree Days W. N. Central,18.69448631,total degree days,2024-01-01
+2013-07-01,ZWHD_WNC,Heating Degree Days W. N. Central,14.75423144,total degree days,2024-01-01
+2013-06-01,ZWHD_WNC,Heating Degree Days W. N. Central,47.83344261,total degree days,2024-01-01
+2013-05-01,ZWHD_WNC,Heating Degree Days W. N. Central,226.8447917,total degree days,2024-01-01
+2013-04-01,ZWHD_WNC,Heating Degree Days W. N. Central,629.6826384,total degree days,2024-01-01
+2013-03-01,ZWHD_WNC,Heating Degree Days W. N. Central,1049.063214,total degree days,2024-01-01
+2013-02-01,ZWHD_WNC,Heating Degree Days W. N. Central,1097.508232,total degree days,2024-01-01
+2013-01-01,ZWHD_WNC,Heating Degree Days W. N. Central,1264.233911,total degree days,2024-01-01
+2012-12-01,ZWHD_WNC,Heating Degree Days W. N. Central,1118.614785,total degree days,2024-01-01
+2012-11-01,ZWHD_WNC,Heating Degree Days W. N. Central,756.9885864,total degree days,2024-01-01
+2012-10-01,ZWHD_WNC,Heating Degree Days W. N. Central,480.4090533,total degree days,2024-01-01
+2012-09-01,ZWHD_WNC,Heating Degree Days W. N. Central,128.6191465,total degree days,2024-01-01
+2012-08-01,ZWHD_WNC,Heating Degree Days W. N. Central,22.189807,total degree days,2024-01-01
+2012-07-01,ZWHD_WNC,Heating Degree Days W. N. Central,0.720139336,total degree days,2024-01-01
+2012-06-01,ZWHD_WNC,Heating Degree Days W. N. Central,24.84695555,total degree days,2024-01-01
+2012-05-01,ZWHD_WNC,Heating Degree Days W. N. Central,124.34693,total degree days,2024-01-01
+2012-04-01,ZWHD_WNC,Heating Degree Days W. N. Central,358.5909192,total degree days,2024-01-01
+2012-03-01,ZWHD_WNC,Heating Degree Days W. N. Central,453.1270361,total degree days,2024-01-01
+2012-02-01,ZWHD_WNC,Heating Degree Days W. N. Central,928.4061408,total degree days,2024-01-01
+2012-01-01,ZWHD_WNC,Heating Degree Days W. N. Central,1123.00814,total degree days,2024-01-01
+2011-12-01,ZWHD_WNC,Heating Degree Days W. N. Central,1066.326716,total degree days,2024-01-01
+2011-11-01,ZWHD_WNC,Heating Degree Days W. N. Central,731.374551,total degree days,2024-01-01
+2011-10-01,ZWHD_WNC,Heating Degree Days W. N. Central,342.9560212,total degree days,2024-01-01
+2011-09-01,ZWHD_WNC,Heating Degree Days W. N. Central,153.5386222,total degree days,2024-01-01
+2011-08-01,ZWHD_WNC,Heating Degree Days W. N. Central,14.99722991,total degree days,2024-01-01
+2011-07-01,ZWHD_WNC,Heating Degree Days W. N. Central,2.900043999,total degree days,2024-01-01
+2011-06-01,ZWHD_WNC,Heating Degree Days W. N. Central,45.57231663,total degree days,2024-01-01
+2011-05-01,ZWHD_WNC,Heating Degree Days W. N. Central,231.1466582,total degree days,2024-01-01
+2011-04-01,ZWHD_WNC,Heating Degree Days W. N. Central,467.2545568,total degree days,2024-01-01
+2011-03-01,ZWHD_WNC,Heating Degree Days W. N. Central,898.501979,total degree days,2024-01-01
+2011-02-01,ZWHD_WNC,Heating Degree Days W. N. Central,1143.559955,total degree days,2024-01-01
+2011-01-01,ZWHD_WNC,Heating Degree Days W. N. Central,1470.955599,total degree days,2024-01-01
+2010-12-01,ZWHD_WNC,Heating Degree Days W. N. Central,1326.357739,total degree days,2024-01-01
+2010-11-01,ZWHD_WNC,Heating Degree Days W. N. Central,773.275899,total degree days,2024-01-01
+2010-10-01,ZWHD_WNC,Heating Degree Days W. N. Central,335.0083835,total degree days,2024-01-01
+2010-09-01,ZWHD_WNC,Heating Degree Days W. N. Central,135.2562551,total degree days,2024-01-01
+2010-08-01,ZWHD_WNC,Heating Degree Days W. N. Central,8.112592121,total degree days,2024-01-01
+2010-07-01,ZWHD_WNC,Heating Degree Days W. N. Central,7.93887848,total degree days,2024-01-01
+2010-06-01,ZWHD_WNC,Heating Degree Days W. N. Central,38.47013553,total degree days,2024-01-01
+2010-05-01,ZWHD_WNC,Heating Degree Days W. N. Central,202.7094805,total degree days,2024-01-01
+2010-04-01,ZWHD_WNC,Heating Degree Days W. N. Central,302.4152364,total degree days,2024-01-01
+2010-03-01,ZWHD_WNC,Heating Degree Days W. N. Central,757.6391859,total degree days,2024-01-01
+2010-02-01,ZWHD_WNC,Heating Degree Days W. N. Central,1221.833033,total degree days,2024-01-01
+2010-01-01,ZWHD_WNC,Heating Degree Days W. N. Central,1461.24806,total degree days,2024-01-01
+2025-12-01,ZWHD_WSC,Heating Degree Days W. S. Central,455.2786518,total degree days,2024-01-01
+2025-11-01,ZWHD_WSC,Heating Degree Days W. S. Central,252.9130215,total degree days,2024-01-01
+2025-10-01,ZWHD_WSC,Heating Degree Days W. S. Central,61.13599075,total degree days,2024-01-01
+2025-09-01,ZWHD_WSC,Heating Degree Days W. S. Central,4.670499823,total degree days,2024-01-01
+2025-08-01,ZWHD_WSC,Heating Degree Days W. S. Central,0.228244476,total degree days,2024-01-01
+2025-07-01,ZWHD_WSC,Heating Degree Days W. S. Central,0,total degree days,2024-01-01
+2025-06-01,ZWHD_WSC,Heating Degree Days W. S. Central,0.228466663,total degree days,2024-01-01
+2025-05-01,ZWHD_WSC,Heating Degree Days W. S. Central,10.13724259,total degree days,2024-01-01
+2025-04-01,ZWHD_WSC,Heating Degree Days W. S. Central,74.97935765,total degree days,2024-01-01
+2025-03-01,ZWHD_WSC,Heating Degree Days W. S. Central,230.7531609,total degree days,2024-01-01
+2025-02-01,ZWHD_WSC,Heating Degree Days W. S. Central,360.3938738,total degree days,2024-01-01
+2025-01-01,ZWHD_WSC,Heating Degree Days W. S. Central,510.9125069,total degree days,2024-01-01
+2024-12-01,ZWHD_WSC,Heating Degree Days W. S. Central,456.969668,total degree days,2024-01-01
+2024-11-01,ZWHD_WSC,Heating Degree Days W. S. Central,253.9053402,total degree days,2024-01-01
+2024-10-01,ZWHD_WSC,Heating Degree Days W. S. Central,61.4253561,total degree days,2024-01-01
+2024-09-01,ZWHD_WSC,Heating Degree Days W. S. Central,4.698772374,total degree days,2024-01-01
+2024-08-01,ZWHD_WSC,Heating Degree Days W. S. Central,0.230158457,total degree days,2024-01-01
+2024-07-01,ZWHD_WSC,Heating Degree Days W. S. Central,0,total degree days,2024-01-01
+2024-06-01,ZWHD_WSC,Heating Degree Days W. S. Central,0.230396426,total degree days,2024-01-01
+2024-05-01,ZWHD_WSC,Heating Degree Days W. S. Central,10.19598458,total degree days,2024-01-01
+2024-04-01,ZWHD_WSC,Heating Degree Days W. S. Central,75.31434256,total degree days,2024-01-01
+2024-03-01,ZWHD_WSC,Heating Degree Days W. S. Central,231.6836573,total degree days,2024-01-01
+2024-02-01,ZWHD_WSC,Heating Degree Days W. S. Central,361.7836693,total degree days,2024-01-01
+2024-01-01,ZWHD_WSC,Heating Degree Days W. S. Central,540.6800454,total degree days,2024-01-01
+2023-12-01,ZWHD_WSC,Heating Degree Days W. S. Central,422.9544509,total degree days,2024-01-01
+2023-11-01,ZWHD_WSC,Heating Degree Days W. S. Central,254.8424464,total degree days,2024-01-01
+2023-10-01,ZWHD_WSC,Heating Degree Days W. S. Central,46.96833812,total degree days,2024-01-01
+2023-09-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.248973238,total degree days,2024-01-01
+2023-08-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.00E-10,total degree days,2024-01-01
+2023-07-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.00E-10,total degree days,2024-01-01
+2023-06-01,ZWHD_WSC,Heating Degree Days W. S. Central,0.072506429,total degree days,2024-01-01
+2023-05-01,ZWHD_WSC,Heating Degree Days W. S. Central,5.753367339,total degree days,2024-01-01
+2023-04-01,ZWHD_WSC,Heating Degree Days W. S. Central,85.19394431,total degree days,2024-01-01
+2023-03-01,ZWHD_WSC,Heating Degree Days W. S. Central,199.593701,total degree days,2024-01-01
+2023-02-01,ZWHD_WSC,Heating Degree Days W. S. Central,330.2444805,total degree days,2024-01-01
+2023-01-01,ZWHD_WSC,Heating Degree Days W. S. Central,400.965553,total degree days,2024-01-01
+2022-12-01,ZWHD_WSC,Heating Degree Days W. S. Central,440.0885357,total degree days,2024-01-01
+2022-11-01,ZWHD_WSC,Heating Degree Days W. S. Central,298.6895201,total degree days,2024-01-01
+2022-10-01,ZWHD_WSC,Heating Degree Days W. S. Central,66.3148235,total degree days,2024-01-01
+2022-09-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.571894451,total degree days,2024-01-01
+2022-08-01,ZWHD_WSC,Heating Degree Days W. S. Central,0.072935968,total degree days,2024-01-01
+2022-07-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.00E-10,total degree days,2024-01-01
+2022-06-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.00E-10,total degree days,2024-01-01
+2022-05-01,ZWHD_WSC,Heating Degree Days W. S. Central,3.851668645,total degree days,2024-01-01
+2022-04-01,ZWHD_WSC,Heating Degree Days W. S. Central,52.32867475,total degree days,2024-01-01
+2022-03-01,ZWHD_WSC,Heating Degree Days W. S. Central,263.3798805,total degree days,2024-01-01
+2022-02-01,ZWHD_WSC,Heating Degree Days W. S. Central,499.2232923,total degree days,2024-01-01
+2022-01-01,ZWHD_WSC,Heating Degree Days W. S. Central,578.7216262,total degree days,2024-01-01
+2021-12-01,ZWHD_WSC,Heating Degree Days W. S. Central,204.597372,total degree days,2024-01-01
+2021-11-01,ZWHD_WSC,Heating Degree Days W. S. Central,258.0787974,total degree days,2024-01-01
+2021-10-01,ZWHD_WSC,Heating Degree Days W. S. Central,31.96054385,total degree days,2024-01-01
+2021-09-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.167361648,total degree days,2024-01-01
+2021-08-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.00E-10,total degree days,2024-01-01
+2021-07-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.00E-10,total degree days,2024-01-01
+2021-06-01,ZWHD_WSC,Heating Degree Days W. S. Central,0.073460935,total degree days,2024-01-01
+2021-05-01,ZWHD_WSC,Heating Degree Days W. S. Central,18.14116815,total degree days,2024-01-01
+2021-04-01,ZWHD_WSC,Heating Degree Days W. S. Central,102.3180553,total degree days,2024-01-01
+2021-03-01,ZWHD_WSC,Heating Degree Days W. S. Central,199.9413761,total degree days,2024-01-01
+2021-02-01,ZWHD_WSC,Heating Degree Days W. S. Central,580.1211496,total degree days,2024-01-01
+2021-01-01,ZWHD_WSC,Heating Degree Days W. S. Central,514.7929336,total degree days,2024-01-01
+2020-12-01,ZWHD_WSC,Heating Degree Days W. S. Central,476.2864968,total degree days,2024-01-01
+2020-11-01,ZWHD_WSC,Heating Degree Days W. S. Central,175.0453081,total degree days,2024-01-01
+2020-10-01,ZWHD_WSC,Heating Degree Days W. S. Central,83.41670864,total degree days,2024-01-01
+2020-09-01,ZWHD_WSC,Heating Degree Days W. S. Central,7.514585933,total degree days,2024-01-01
+2020-08-01,ZWHD_WSC,Heating Degree Days W. S. Central,0.244396994,total degree days,2024-01-01
+2020-07-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.00E-10,total degree days,2024-01-01
+2020-06-01,ZWHD_WSC,Heating Degree Days W. S. Central,0.073736007,total degree days,2024-01-01
+2020-05-01,ZWHD_WSC,Heating Degree Days W. S. Central,12.74935745,total degree days,2024-01-01
+2020-04-01,ZWHD_WSC,Heating Degree Days W. S. Central,88.28045593,total degree days,2024-01-01
+2020-03-01,ZWHD_WSC,Heating Degree Days W. S. Central,138.0731953,total degree days,2024-01-01
+2020-02-01,ZWHD_WSC,Heating Degree Days W. S. Central,401.2307086,total degree days,2024-01-01
+2020-01-01,ZWHD_WSC,Heating Degree Days W. S. Central,429.2316856,total degree days,2024-01-01
+2019-12-01,ZWHD_WSC,Heating Degree Days W. S. Central,417.6617382,total degree days,2024-01-01
+2019-11-01,ZWHD_WSC,Heating Degree Days W. S. Central,344.8018019,total degree days,2024-01-01
+2019-10-01,ZWHD_WSC,Heating Degree Days W. S. Central,84.59942944,total degree days,2024-01-01
+2019-09-01,ZWHD_WSC,Heating Degree Days W. S. Central,0.074049652,total degree days,2024-01-01
+2019-08-01,ZWHD_WSC,Heating Degree Days W. S. Central,0.074089509,total degree days,2024-01-01
+2019-07-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.00E-10,total degree days,2024-01-01
+2019-06-01,ZWHD_WSC,Heating Degree Days W. S. Central,0.245741211,total degree days,2024-01-01
+2019-05-01,ZWHD_WSC,Heating Degree Days W. S. Central,10.74161785,total degree days,2024-01-01
+2019-04-01,ZWHD_WSC,Heating Degree Days W. S. Central,78.32682901,total degree days,2024-01-01
+2019-03-01,ZWHD_WSC,Heating Degree Days W. S. Central,305.0123833,total degree days,2024-01-01
+2019-02-01,ZWHD_WSC,Heating Degree Days W. S. Central,356.3318374,total degree days,2024-01-01
+2019-01-01,ZWHD_WSC,Heating Degree Days W. S. Central,545.4795402,total degree days,2024-01-01
+2018-12-01,ZWHD_WSC,Heating Degree Days W. S. Central,471.0203357,total degree days,2024-01-01
+2018-11-01,ZWHD_WSC,Heating Degree Days W. S. Central,371.8103719,total degree days,2024-01-01
+2018-10-01,ZWHD_WSC,Heating Degree Days W. S. Central,68.94999165,total degree days,2024-01-01
+2018-09-01,ZWHD_WSC,Heating Degree Days W. S. Central,2.579125363,total degree days,2024-01-01
+2018-08-01,ZWHD_WSC,Heating Degree Days W. S. Central,0.14917224,total degree days,2024-01-01
+2018-07-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.00E-10,total degree days,2024-01-01
+2018-06-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.00E-10,total degree days,2024-01-01
+2018-05-01,ZWHD_WSC,Heating Degree Days W. S. Central,0.494739568,total degree days,2024-01-01
+2018-04-01,ZWHD_WSC,Heating Degree Days W. S. Central,141.9153404,total degree days,2024-01-01
+2018-03-01,ZWHD_WSC,Heating Degree Days W. S. Central,186.3266262,total degree days,2024-01-01
+2018-02-01,ZWHD_WSC,Heating Degree Days W. S. Central,348.5226564,total degree days,2024-01-01
+2018-01-01,ZWHD_WSC,Heating Degree Days W. S. Central,659.8787046,total degree days,2024-01-01
+2017-12-01,ZWHD_WSC,Heating Degree Days W. S. Central,500.2234996,total degree days,2024-01-01
+2017-11-01,ZWHD_WSC,Heating Degree Days W. S. Central,180.0396342,total degree days,2024-01-01
+2017-10-01,ZWHD_WSC,Heating Degree Days W. S. Central,58.76957633,total degree days,2024-01-01
+2017-09-01,ZWHD_WSC,Heating Degree Days W. S. Central,3.258095179,total degree days,2024-01-01
+2017-08-01,ZWHD_WSC,Heating Degree Days W. S. Central,0.496979549,total degree days,2024-01-01
+2017-07-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.00E-10,total degree days,2024-01-01
+2017-06-01,ZWHD_WSC,Heating Degree Days W. S. Central,0.150249158,total degree days,2024-01-01
+2017-05-01,ZWHD_WSC,Heating Degree Days W. S. Central,14.0741216,total degree days,2024-01-01
+2017-04-01,ZWHD_WSC,Heating Degree Days W. S. Central,51.06315761,total degree days,2024-01-01
+2017-03-01,ZWHD_WSC,Heating Degree Days W. S. Central,146.8321009,total degree days,2024-01-01
+2017-02-01,ZWHD_WSC,Heating Degree Days W. S. Central,207.9554651,total degree days,2024-01-01
+2017-01-01,ZWHD_WSC,Heating Degree Days W. S. Central,417.1820942,total degree days,2024-01-01
+2016-12-01,ZWHD_WSC,Heating Degree Days W. S. Central,443.1820882,total degree days,2024-01-01
+2016-11-01,ZWHD_WSC,Heating Degree Days W. S. Central,153.393894,total degree days,2024-01-01
+2016-10-01,ZWHD_WSC,Heating Degree Days W. S. Central,21.95928725,total degree days,2024-01-01
+2016-09-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.34461138,total degree days,2024-01-01
+2016-08-01,ZWHD_WSC,Heating Degree Days W. S. Central,0.075496883,total degree days,2024-01-01
+2016-07-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.00E-10,total degree days,2024-01-01
+2016-06-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.00E-10,total degree days,2024-01-01
+2016-05-01,ZWHD_WSC,Heating Degree Days W. S. Central,16.51771687,total degree days,2024-01-01
+2016-04-01,ZWHD_WSC,Heating Degree Days W. S. Central,60.33343117,total degree days,2024-01-01
+2016-03-01,ZWHD_WSC,Heating Degree Days W. S. Central,178.9447301,total degree days,2024-01-01
+2016-02-01,ZWHD_WSC,Heating Degree Days W. S. Central,310.4023637,total degree days,2024-01-01
+2016-01-01,ZWHD_WSC,Heating Degree Days W. S. Central,564.2501429,total degree days,2024-01-01
+2015-12-01,ZWHD_WSC,Heating Degree Days W. S. Central,356.4401956,total degree days,2024-01-01
+2015-11-01,ZWHD_WSC,Heating Degree Days W. S. Central,217.4462106,total degree days,2024-01-01
+2015-10-01,ZWHD_WSC,Heating Degree Days W. S. Central,41.92606984,total degree days,2024-01-01
+2015-09-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.307697258,total degree days,2024-01-01
+2015-08-01,ZWHD_WSC,Heating Degree Days W. S. Central,0.428244521,total degree days,2024-01-01
+2015-07-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.00E-10,total degree days,2024-01-01
+2015-06-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.00E-10,total degree days,2024-01-01
+2015-05-01,ZWHD_WSC,Heating Degree Days W. S. Central,14.48125896,total degree days,2024-01-01
+2015-04-01,ZWHD_WSC,Heating Degree Days W. S. Central,54.62376425,total degree days,2024-01-01
+2015-03-01,ZWHD_WSC,Heating Degree Days W. S. Central,277.8791895,total degree days,2024-01-01
+2015-02-01,ZWHD_WSC,Heating Degree Days W. S. Central,497.9755495,total degree days,2024-01-01
+2015-01-01,ZWHD_WSC,Heating Degree Days W. S. Central,622.3399984,total degree days,2024-01-01
+2014-12-01,ZWHD_WSC,Heating Degree Days W. S. Central,420.4138874,total degree days,2024-01-01
+2014-11-01,ZWHD_WSC,Heating Degree Days W. S. Central,389.2945703,total degree days,2024-01-01
+2014-10-01,ZWHD_WSC,Heating Degree Days W. S. Central,36.61808248,total degree days,2024-01-01
+2014-09-01,ZWHD_WSC,Heating Degree Days W. S. Central,3.694836134,total degree days,2024-01-01
+2014-08-01,ZWHD_WSC,Heating Degree Days W. S. Central,0.076907818,total degree days,2024-01-01
+2014-07-01,ZWHD_WSC,Heating Degree Days W. S. Central,0.153960152,total degree days,2024-01-01
+2014-06-01,ZWHD_WSC,Heating Degree Days W. S. Central,0.154104607,total degree days,2024-01-01
+2014-05-01,ZWHD_WSC,Heating Degree Days W. S. Central,10.76593152,total degree days,2024-01-01
+2014-04-01,ZWHD_WSC,Heating Degree Days W. S. Central,80.95067263,total degree days,2024-01-01
+2014-03-01,ZWHD_WSC,Heating Degree Days W. S. Central,350.5798122,total degree days,2024-01-01
+2014-02-01,ZWHD_WSC,Heating Degree Days W. S. Central,478.4008149,total degree days,2024-01-01
+2014-01-01,ZWHD_WSC,Heating Degree Days W. S. Central,649.9303715,total degree days,2024-01-01
+2013-12-01,ZWHD_WSC,Heating Degree Days W. S. Central,596.9015402,total degree days,2024-01-01
+2013-11-01,ZWHD_WSC,Heating Degree Days W. S. Central,347.2877455,total degree days,2024-01-01
+2013-10-01,ZWHD_WSC,Heating Degree Days W. S. Central,66.19989318,total degree days,2024-01-01
+2013-09-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.354855615,total degree days,2024-01-01
+2013-08-01,ZWHD_WSC,Heating Degree Days W. S. Central,0.155581071,total degree days,2024-01-01
+2013-07-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.00E-10,total degree days,2024-01-01
+2013-06-01,ZWHD_WSC,Heating Degree Days W. S. Central,0.077945348,total degree days,2024-01-01
+2013-05-01,ZWHD_WSC,Heating Degree Days W. S. Central,14.5709336,total degree days,2024-01-01
+2013-04-01,ZWHD_WSC,Heating Degree Days W. S. Central,123.0753705,total degree days,2024-01-01
+2013-03-01,ZWHD_WSC,Heating Degree Days W. S. Central,311.3369493,total degree days,2024-01-01
+2013-02-01,ZWHD_WSC,Heating Degree Days W. S. Central,367.6393118,total degree days,2024-01-01
+2013-01-01,ZWHD_WSC,Heating Degree Days W. S. Central,496.8887129,total degree days,2024-01-01
+2012-12-01,ZWHD_WSC,Heating Degree Days W. S. Central,399.5328754,total degree days,2024-01-01
+2012-11-01,ZWHD_WSC,Heating Degree Days W. S. Central,230.443266,total degree days,2024-01-01
+2012-10-01,ZWHD_WSC,Heating Degree Days W. S. Central,83.5821957,total degree days,2024-01-01
+2012-09-01,ZWHD_WSC,Heating Degree Days W. S. Central,2.861307979,total degree days,2024-01-01
+2012-08-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.00E-10,total degree days,2024-01-01
+2012-07-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.00E-10,total degree days,2024-01-01
+2012-06-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.00E-10,total degree days,2024-01-01
+2012-05-01,ZWHD_WSC,Heating Degree Days W. S. Central,2.401703111,total degree days,2024-01-01
+2012-04-01,ZWHD_WSC,Heating Degree Days W. S. Central,32.44236637,total degree days,2024-01-01
+2012-03-01,ZWHD_WSC,Heating Degree Days W. S. Central,122.753851,total degree days,2024-01-01
+2012-02-01,ZWHD_WSC,Heating Degree Days W. S. Central,343.8518845,total degree days,2024-01-01
+2012-01-01,ZWHD_WSC,Heating Degree Days W. S. Central,430.4424456,total degree days,2024-01-01
+2011-12-01,ZWHD_WSC,Heating Degree Days W. S. Central,506.7065972,total degree days,2024-01-01
+2011-11-01,ZWHD_WSC,Heating Degree Days W. S. Central,238.0016091,total degree days,2024-01-01
+2011-10-01,ZWHD_WSC,Heating Degree Days W. S. Central,67.5649566,total degree days,2024-01-01
+2011-09-01,ZWHD_WSC,Heating Degree Days W. S. Central,6.824487328,total degree days,2024-01-01
+2011-08-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.00E-10,total degree days,2024-01-01
+2011-07-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.00E-10,total degree days,2024-01-01
+2011-06-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.00E-10,total degree days,2024-01-01
+2011-05-01,ZWHD_WSC,Heating Degree Days W. S. Central,11.59391487,total degree days,2024-01-01
+2011-04-01,ZWHD_WSC,Heating Degree Days W. S. Central,36.60253754,total degree days,2024-01-01
+2011-03-01,ZWHD_WSC,Heating Degree Days W. S. Central,194.3739815,total degree days,2024-01-01
+2011-02-01,ZWHD_WSC,Heating Degree Days W. S. Central,430.5549223,total degree days,2024-01-01
+2011-01-01,ZWHD_WSC,Heating Degree Days W. S. Central,621.0419572,total degree days,2024-01-01
+2010-12-01,ZWHD_WSC,Heating Degree Days W. S. Central,506.4911275,total degree days,2024-01-01
+2010-11-01,ZWHD_WSC,Heating Degree Days W. S. Central,246.3061286,total degree days,2024-01-01
+2010-10-01,ZWHD_WSC,Heating Degree Days W. S. Central,59.12495766,total degree days,2024-01-01
+2010-09-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.931338353,total degree days,2024-01-01
+2010-08-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.00E-10,total degree days,2024-01-01
+2010-07-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.00E-10,total degree days,2024-01-01
+2010-06-01,ZWHD_WSC,Heating Degree Days W. S. Central,1.00E-10,total degree days,2024-01-01
+2010-05-01,ZWHD_WSC,Heating Degree Days W. S. Central,7.814109855,total degree days,2024-01-01
+2010-04-01,ZWHD_WSC,Heating Degree Days W. S. Central,66.96425511,total degree days,2024-01-01
+2010-03-01,ZWHD_WSC,Heating Degree Days W. S. Central,326.7218066,total degree days,2024-01-01
+2010-02-01,ZWHD_WSC,Heating Degree Days W. S. Central,594.2264001,total degree days,2024-01-01
+2010-01-01,ZWHD_WSC,Heating Degree Days W. S. Central,640.689562,total degree days,2024-01-01

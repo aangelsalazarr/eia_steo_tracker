@@ -1,0 +1,769 @@
+period,seriesId,seriesDescription,value,unit,forecast_period
+2025-12-01,CXTCCO2,Carbon Dioxide Emissions from Coal,56.70583,million metric tons,2024-03-01
+2025-11-01,CXTCCO2,Carbon Dioxide Emissions from Coal,51.98253,million metric tons,2024-03-01
+2025-10-01,CXTCCO2,Carbon Dioxide Emissions from Coal,52.09686,million metric tons,2024-03-01
+2025-09-01,CXTCCO2,Carbon Dioxide Emissions from Coal,63.8444,million metric tons,2024-03-01
+2025-08-01,CXTCCO2,Carbon Dioxide Emissions from Coal,81.74192,million metric tons,2024-03-01
+2025-07-01,CXTCCO2,Carbon Dioxide Emissions from Coal,82.52769,million metric tons,2024-03-01
+2025-06-01,CXTCCO2,Carbon Dioxide Emissions from Coal,64.74633,million metric tons,2024-03-01
+2025-05-01,CXTCCO2,Carbon Dioxide Emissions from Coal,47.4019,million metric tons,2024-03-01
+2025-04-01,CXTCCO2,Carbon Dioxide Emissions from Coal,36.29704,million metric tons,2024-03-01
+2025-03-01,CXTCCO2,Carbon Dioxide Emissions from Coal,48.58327,million metric tons,2024-03-01
+2025-02-01,CXTCCO2,Carbon Dioxide Emissions from Coal,50.06793,million metric tons,2024-03-01
+2025-01-01,CXTCCO2,Carbon Dioxide Emissions from Coal,75.74699,million metric tons,2024-03-01
+2024-12-01,CXTCCO2,Carbon Dioxide Emissions from Coal,61.54328,million metric tons,2024-03-01
+2024-11-01,CXTCCO2,Carbon Dioxide Emissions from Coal,55.43614,million metric tons,2024-03-01
+2024-10-01,CXTCCO2,Carbon Dioxide Emissions from Coal,55.46008,million metric tons,2024-03-01
+2024-09-01,CXTCCO2,Carbon Dioxide Emissions from Coal,64.42763,million metric tons,2024-03-01
+2024-08-01,CXTCCO2,Carbon Dioxide Emissions from Coal,80.37065,million metric tons,2024-03-01
+2024-07-01,CXTCCO2,Carbon Dioxide Emissions from Coal,79.50766,million metric tons,2024-03-01
+2024-06-01,CXTCCO2,Carbon Dioxide Emissions from Coal,66.63336,million metric tons,2024-03-01
+2024-05-01,CXTCCO2,Carbon Dioxide Emissions from Coal,49.15068,million metric tons,2024-03-01
+2024-04-01,CXTCCO2,Carbon Dioxide Emissions from Coal,39.59561,million metric tons,2024-03-01
+2024-03-01,CXTCCO2,Carbon Dioxide Emissions from Coal,46.74241,million metric tons,2024-03-01
+2024-02-01,CXTCCO2,Carbon Dioxide Emissions from Coal,52.1828,million metric tons,2024-03-01
+2024-01-01,CXTCCO2,Carbon Dioxide Emissions from Coal,84.69111,million metric tons,2024-03-01
+2023-12-01,CXTCCO2,Carbon Dioxide Emissions from Coal,63.86259,million metric tons,2024-03-01
+2023-11-01,CXTCCO2,Carbon Dioxide Emissions from Coal,60.51454155,million metric tons,2024-03-01
+2023-10-01,CXTCCO2,Carbon Dioxide Emissions from Coal,60.86763247,million metric tons,2024-03-01
+2023-09-01,CXTCCO2,Carbon Dioxide Emissions from Coal,68.21148133,million metric tons,2024-03-01
+2023-08-01,CXTCCO2,Carbon Dioxide Emissions from Coal,85.7780629,million metric tons,2024-03-01
+2023-07-01,CXTCCO2,Carbon Dioxide Emissions from Coal,86.60733067,million metric tons,2024-03-01
+2023-06-01,CXTCCO2,Carbon Dioxide Emissions from Coal,67.06832369,million metric tons,2024-03-01
+2023-05-01,CXTCCO2,Carbon Dioxide Emissions from Coal,52.8976843,million metric tons,2024-03-01
+2023-04-01,CXTCCO2,Carbon Dioxide Emissions from Coal,48.02756182,million metric tons,2024-03-01
+2023-03-01,CXTCCO2,Carbon Dioxide Emissions from Coal,59.33367591,million metric tons,2024-03-01
+2023-02-01,CXTCCO2,Carbon Dioxide Emissions from Coal,55.82688386,million metric tons,2024-03-01
+2023-01-01,CXTCCO2,Carbon Dioxide Emissions from Coal,71.46893803,million metric tons,2024-03-01
+2022-12-01,CXTCCO2,Carbon Dioxide Emissions from Coal,82.4922412,million metric tons,2024-03-01
+2022-11-01,CXTCCO2,Carbon Dioxide Emissions from Coal,65.83598688,million metric tons,2024-03-01
+2022-10-01,CXTCCO2,Carbon Dioxide Emissions from Coal,64.20146701,million metric tons,2024-03-01
+2022-09-01,CXTCCO2,Carbon Dioxide Emissions from Coal,74.33795324,million metric tons,2024-03-01
+2022-08-01,CXTCCO2,Carbon Dioxide Emissions from Coal,94.4467517,million metric tons,2024-03-01
+2022-07-01,CXTCCO2,Carbon Dioxide Emissions from Coal,96.40537795,million metric tons,2024-03-01
+2022-06-01,CXTCCO2,Carbon Dioxide Emissions from Coal,82.58922027,million metric tons,2024-03-01
+2022-05-01,CXTCCO2,Carbon Dioxide Emissions from Coal,70.27197852,million metric tons,2024-03-01
+2022-04-01,CXTCCO2,Carbon Dioxide Emissions from Coal,63.01682548,million metric tons,2024-03-01
+2022-03-01,CXTCCO2,Carbon Dioxide Emissions from Coal,69.75230503,million metric tons,2024-03-01
+2022-02-01,CXTCCO2,Carbon Dioxide Emissions from Coal,79.78961814,million metric tons,2024-03-01
+2022-01-01,CXTCCO2,Carbon Dioxide Emissions from Coal,95.50970851,million metric tons,2024-03-01
+2021-12-01,CXTCCO2,Carbon Dioxide Emissions from Coal,70.34013333,million metric tons,2024-03-01
+2021-11-01,CXTCCO2,Carbon Dioxide Emissions from Coal,67.39821303,million metric tons,2024-03-01
+2021-10-01,CXTCCO2,Carbon Dioxide Emissions from Coal,72.69959624,million metric tons,2024-03-01
+2021-09-01,CXTCCO2,Carbon Dioxide Emissions from Coal,87.81591826,million metric tons,2024-03-01
+2021-08-01,CXTCCO2,Carbon Dioxide Emissions from Coal,109.6265574,million metric tons,2024-03-01
+2021-07-01,CXTCCO2,Carbon Dioxide Emissions from Coal,110.080076,million metric tons,2024-03-01
+2021-06-01,CXTCCO2,Carbon Dioxide Emissions from Coal,94.43267485,million metric tons,2024-03-01
+2021-05-01,CXTCCO2,Carbon Dioxide Emissions from Coal,72.40177777,million metric tons,2024-03-01
+2021-04-01,CXTCCO2,Carbon Dioxide Emissions from Coal,62.06064689,million metric tons,2024-03-01
+2021-03-01,CXTCCO2,Carbon Dioxide Emissions from Coal,71.0939733,million metric tons,2024-03-01
+2021-02-01,CXTCCO2,Carbon Dioxide Emissions from Coal,94.58882154,million metric tons,2024-03-01
+2021-01-01,CXTCCO2,Carbon Dioxide Emissions from Coal,90.11224482,million metric tons,2024-03-01
+2020-12-01,CXTCCO2,Carbon Dioxide Emissions from Coal,86.49491237,million metric tons,2024-03-01
+2020-11-01,CXTCCO2,Carbon Dioxide Emissions from Coal,69.54351507,million metric tons,2024-03-01
+2020-10-01,CXTCCO2,Carbon Dioxide Emissions from Coal,68.75305651,million metric tons,2024-03-01
+2020-09-01,CXTCCO2,Carbon Dioxide Emissions from Coal,76.73735976,million metric tons,2024-03-01
+2020-08-01,CXTCCO2,Carbon Dioxide Emissions from Coal,98.06606369,million metric tons,2024-03-01
+2020-07-01,CXTCCO2,Carbon Dioxide Emissions from Coal,96.69096651,million metric tons,2024-03-01
+2020-06-01,CXTCCO2,Carbon Dioxide Emissions from Coal,73.19410077,million metric tons,2024-03-01
+2020-05-01,CXTCCO2,Carbon Dioxide Emissions from Coal,54.95149801,million metric tons,2024-03-01
+2020-04-01,CXTCCO2,Carbon Dioxide Emissions from Coal,49.48141287,million metric tons,2024-03-01
+2020-03-01,CXTCCO2,Carbon Dioxide Emissions from Coal,60.7384851,million metric tons,2024-03-01
+2020-02-01,CXTCCO2,Carbon Dioxide Emissions from Coal,66.45299289,million metric tons,2024-03-01
+2020-01-01,CXTCCO2,Carbon Dioxide Emissions from Coal,75.09109066,million metric tons,2024-03-01
+2019-12-01,CXTCCO2,Carbon Dioxide Emissions from Coal,81.89901357,million metric tons,2024-03-01
+2019-11-01,CXTCCO2,Carbon Dioxide Emissions from Coal,84.25907903,million metric tons,2024-03-01
+2019-10-01,CXTCCO2,Carbon Dioxide Emissions from Coal,76.44925645,million metric tons,2024-03-01
+2019-09-01,CXTCCO2,Carbon Dioxide Emissions from Coal,93.71902219,million metric tons,2024-03-01
+2019-08-01,CXTCCO2,Carbon Dioxide Emissions from Coal,103.2816658,million metric tons,2024-03-01
+2019-07-01,CXTCCO2,Carbon Dioxide Emissions from Coal,109.5241446,million metric tons,2024-03-01
+2019-06-01,CXTCCO2,Carbon Dioxide Emissions from Coal,88.73411532,million metric tons,2024-03-01
+2019-05-01,CXTCCO2,Carbon Dioxide Emissions from Coal,81.18737698,million metric tons,2024-03-01
+2019-04-01,CXTCCO2,Carbon Dioxide Emissions from Coal,68.85617006,million metric tons,2024-03-01
+2019-03-01,CXTCCO2,Carbon Dioxide Emissions from Coal,89.00060328,million metric tons,2024-03-01
+2019-02-01,CXTCCO2,Carbon Dioxide Emissions from Coal,90.4243926,million metric tons,2024-03-01
+2019-01-01,CXTCCO2,Carbon Dioxide Emissions from Coal,110.1850414,million metric tons,2024-03-01
+2018-12-01,CXTCCO2,Carbon Dioxide Emissions from Coal,110.3179536,million metric tons,2024-03-01
+2018-11-01,CXTCCO2,Carbon Dioxide Emissions from Coal,102.9971307,million metric tons,2024-03-01
+2018-10-01,CXTCCO2,Carbon Dioxide Emissions from Coal,97.08188581,million metric tons,2024-03-01
+2018-09-01,CXTCCO2,Carbon Dioxide Emissions from Coal,106.8232342,million metric tons,2024-03-01
+2018-08-01,CXTCCO2,Carbon Dioxide Emissions from Coal,124.5578552,million metric tons,2024-03-01
+2018-07-01,CXTCCO2,Carbon Dioxide Emissions from Coal,124.6774725,million metric tons,2024-03-01
+2018-06-01,CXTCCO2,Carbon Dioxide Emissions from Coal,110.4779379,million metric tons,2024-03-01
+2018-05-01,CXTCCO2,Carbon Dioxide Emissions from Coal,94.87653923,million metric tons,2024-03-01
+2018-04-01,CXTCCO2,Carbon Dioxide Emissions from Coal,82.48093733,million metric tons,2024-03-01
+2018-03-01,CXTCCO2,Carbon Dioxide Emissions from Coal,89.84297287,million metric tons,2024-03-01
+2018-02-01,CXTCCO2,Carbon Dioxide Emissions from Coal,91.88900594,million metric tons,2024-03-01
+2018-01-01,CXTCCO2,Carbon Dioxide Emissions from Coal,126.5324838,million metric tons,2024-03-01
+2017-12-01,CXTCCO2,Carbon Dioxide Emissions from Coal,115.7172107,million metric tons,2024-03-01
+2017-11-01,CXTCCO2,Carbon Dioxide Emissions from Coal,101.8045253,million metric tons,2024-03-01
+2017-10-01,CXTCCO2,Carbon Dioxide Emissions from Coal,100.0025803,million metric tons,2024-03-01
+2017-09-01,CXTCCO2,Carbon Dioxide Emissions from Coal,108.5900203,million metric tons,2024-03-01
+2017-08-01,CXTCCO2,Carbon Dioxide Emissions from Coal,128.798535,million metric tons,2024-03-01
+2017-07-01,CXTCCO2,Carbon Dioxide Emissions from Coal,136.2629493,million metric tons,2024-03-01
+2017-06-01,CXTCCO2,Carbon Dioxide Emissions from Coal,115.8470236,million metric tons,2024-03-01
+2017-05-01,CXTCCO2,Carbon Dioxide Emissions from Coal,101.7332505,million metric tons,2024-03-01
+2017-04-01,CXTCCO2,Carbon Dioxide Emissions from Coal,89.6371209,million metric tons,2024-03-01
+2017-03-01,CXTCCO2,Carbon Dioxide Emissions from Coal,98.2796352,million metric tons,2024-03-01
+2017-02-01,CXTCCO2,Carbon Dioxide Emissions from Coal,96.5490751,million metric tons,2024-03-01
+2017-01-01,CXTCCO2,Carbon Dioxide Emissions from Coal,124.730062,million metric tons,2024-03-01
+2016-12-01,CXTCCO2,Carbon Dioxide Emissions from Coal,128.6156206,million metric tons,2024-03-01
+2016-11-01,CXTCCO2,Carbon Dioxide Emissions from Coal,97.17919004,million metric tons,2024-03-01
+2016-10-01,CXTCCO2,Carbon Dioxide Emissions from Coal,109.1292596,million metric tons,2024-03-01
+2016-09-01,CXTCCO2,Carbon Dioxide Emissions from Coal,123.3099591,million metric tons,2024-03-01
+2016-08-01,CXTCCO2,Carbon Dioxide Emissions from Coal,144.3962043,million metric tons,2024-03-01
+2016-07-01,CXTCCO2,Carbon Dioxide Emissions from Coal,145.2911137,million metric tons,2024-03-01
+2016-06-01,CXTCCO2,Carbon Dioxide Emissions from Coal,125.2602218,million metric tons,2024-03-01
+2016-05-01,CXTCCO2,Carbon Dioxide Emissions from Coal,91.81318175,million metric tons,2024-03-01
+2016-04-01,CXTCCO2,Carbon Dioxide Emissions from Coal,80.83166865,million metric tons,2024-03-01
+2016-03-01,CXTCCO2,Carbon Dioxide Emissions from Coal,83.21853703,million metric tons,2024-03-01
+2016-02-01,CXTCCO2,Carbon Dioxide Emissions from Coal,102.6494876,million metric tons,2024-03-01
+2016-01-01,CXTCCO2,Carbon Dioxide Emissions from Coal,123.5058195,million metric tons,2024-03-01
+2015-12-01,CXTCCO2,Carbon Dioxide Emissions from Coal,102.2614672,million metric tons,2024-03-01
+2015-11-01,CXTCCO2,Carbon Dioxide Emissions from Coal,99.69556533,million metric tons,2024-03-01
+2015-10-01,CXTCCO2,Carbon Dioxide Emissions from Coal,108.5815755,million metric tons,2024-03-01
+2015-09-01,CXTCCO2,Carbon Dioxide Emissions from Coal,128.7718472,million metric tons,2024-03-01
+2015-08-01,CXTCCO2,Carbon Dioxide Emissions from Coal,145.6299715,million metric tons,2024-03-01
+2015-07-01,CXTCCO2,Carbon Dioxide Emissions from Coal,151.0127943,million metric tons,2024-03-01
+2015-06-01,CXTCCO2,Carbon Dioxide Emissions from Coal,136.8385159,million metric tons,2024-03-01
+2015-05-01,CXTCCO2,Carbon Dioxide Emissions from Coal,114.9828213,million metric tons,2024-03-01
+2015-04-01,CXTCCO2,Carbon Dioxide Emissions from Coal,98.99572762,million metric tons,2024-03-01
+2015-03-01,CXTCCO2,Carbon Dioxide Emissions from Coal,118.2511861,million metric tons,2024-03-01
+2015-02-01,CXTCCO2,Carbon Dioxide Emissions from Coal,134.1739755,million metric tons,2024-03-01
+2015-01-01,CXTCCO2,Carbon Dioxide Emissions from Coal,142.7024736,million metric tons,2024-03-01
+2014-12-01,CXTCCO2,Carbon Dioxide Emissions from Coal,137.1411698,million metric tons,2024-03-01
+2014-11-01,CXTCCO2,Carbon Dioxide Emissions from Coal,131.1669893,million metric tons,2024-03-01
+2014-10-01,CXTCCO2,Carbon Dioxide Emissions from Coal,124.4117491,million metric tons,2024-03-01
+2014-09-01,CXTCCO2,Carbon Dioxide Emissions from Coal,138.6587119,million metric tons,2024-03-01
+2014-08-01,CXTCCO2,Carbon Dioxide Emissions from Coal,160.9164803,million metric tons,2024-03-01
+2014-07-01,CXTCCO2,Carbon Dioxide Emissions from Coal,161.8608677,million metric tons,2024-03-01
+2014-06-01,CXTCCO2,Carbon Dioxide Emissions from Coal,148.4066846,million metric tons,2024-03-01
+2014-05-01,CXTCCO2,Carbon Dioxide Emissions from Coal,129.2853062,million metric tons,2024-03-01
+2014-04-01,CXTCCO2,Carbon Dioxide Emissions from Coal,118.3019554,million metric tons,2024-03-01
+2014-03-01,CXTCCO2,Carbon Dioxide Emissions from Coal,145.135757,million metric tons,2024-03-01
+2014-02-01,CXTCCO2,Carbon Dioxide Emissions from Coal,152.089369,million metric tons,2024-03-01
+2014-01-01,CXTCCO2,Carbon Dioxide Emissions from Coal,165.9920546,million metric tons,2024-03-01
+2013-12-01,CXTCCO2,Carbon Dioxide Emissions from Coal,153.6958934,million metric tons,2024-03-01
+2013-11-01,CXTCCO2,Carbon Dioxide Emissions from Coal,132.7475312,million metric tons,2024-03-01
+2013-10-01,CXTCCO2,Carbon Dioxide Emissions from Coal,133.7054242,million metric tons,2024-03-01
+2013-09-01,CXTCCO2,Carbon Dioxide Emissions from Coal,144.8110129,million metric tons,2024-03-01
+2013-08-01,CXTCCO2,Carbon Dioxide Emissions from Coal,161.6517203,million metric tons,2024-03-01
+2013-07-01,CXTCCO2,Carbon Dioxide Emissions from Coal,163.6582954,million metric tons,2024-03-01
+2013-06-01,CXTCCO2,Carbon Dioxide Emissions from Coal,148.6665829,million metric tons,2024-03-01
+2013-05-01,CXTCCO2,Carbon Dioxide Emissions from Coal,130.2756989,million metric tons,2024-03-01
+2013-04-01,CXTCCO2,Carbon Dioxide Emissions from Coal,122.8458044,million metric tons,2024-03-01
+2013-03-01,CXTCCO2,Carbon Dioxide Emissions from Coal,140.9885843,million metric tons,2024-03-01
+2013-02-01,CXTCCO2,Carbon Dioxide Emissions from Coal,134.9769163,million metric tons,2024-03-01
+2013-01-01,CXTCCO2,Carbon Dioxide Emissions from Coal,149.8210799,million metric tons,2024-03-01
+2012-12-01,CXTCCO2,Carbon Dioxide Emissions from Coal,146.6906276,million metric tons,2024-03-01
+2012-11-01,CXTCCO2,Carbon Dioxide Emissions from Coal,140.0712729,million metric tons,2024-03-01
+2012-10-01,CXTCCO2,Carbon Dioxide Emissions from Coal,133.4391839,million metric tons,2024-03-01
+2012-09-01,CXTCCO2,Carbon Dioxide Emissions from Coal,138.5068583,million metric tons,2024-03-01
+2012-08-01,CXTCCO2,Carbon Dioxide Emissions from Coal,163.5135541,million metric tons,2024-03-01
+2012-07-01,CXTCCO2,Carbon Dioxide Emissions from Coal,170.1381652,million metric tons,2024-03-01
+2012-06-01,CXTCCO2,Carbon Dioxide Emissions from Coal,142.666389,million metric tons,2024-03-01
+2012-05-01,CXTCCO2,Carbon Dioxide Emissions from Coal,127.0764263,million metric tons,2024-03-01
+2012-04-01,CXTCCO2,Carbon Dioxide Emissions from Coal,107.2157562,million metric tons,2024-03-01
+2012-03-01,CXTCCO2,Carbon Dioxide Emissions from Coal,118.3340687,million metric tons,2024-03-01
+2012-02-01,CXTCCO2,Carbon Dioxide Emissions from Coal,127.8040175,million metric tons,2024-03-01
+2012-01-01,CXTCCO2,Carbon Dioxide Emissions from Coal,142.4169563,million metric tons,2024-03-01
+2011-12-01,CXTCCO2,Carbon Dioxide Emissions from Coal,148.7294829,million metric tons,2024-03-01
+2011-11-01,CXTCCO2,Carbon Dioxide Emissions from Coal,135.8917434,million metric tons,2024-03-01
+2011-10-01,CXTCCO2,Carbon Dioxide Emissions from Coal,140.7715666,million metric tons,2024-03-01
+2011-09-01,CXTCCO2,Carbon Dioxide Emissions from Coal,153.9766537,million metric tons,2024-03-01
+2011-08-01,CXTCCO2,Carbon Dioxide Emissions from Coal,182.8658693,million metric tons,2024-03-01
+2011-07-01,CXTCCO2,Carbon Dioxide Emissions from Coal,185.7292046,million metric tons,2024-03-01
+2011-06-01,CXTCCO2,Carbon Dioxide Emissions from Coal,167.5700925,million metric tons,2024-03-01
+2011-05-01,CXTCCO2,Carbon Dioxide Emissions from Coal,148.1328968,million metric tons,2024-03-01
+2011-04-01,CXTCCO2,Carbon Dioxide Emissions from Coal,135.651858,million metric tons,2024-03-01
+2011-03-01,CXTCCO2,Carbon Dioxide Emissions from Coal,147.6485164,million metric tons,2024-03-01
+2011-02-01,CXTCCO2,Carbon Dioxide Emissions from Coal,148.8445916,million metric tons,2024-03-01
+2011-01-01,CXTCCO2,Carbon Dioxide Emissions from Coal,179.7885777,million metric tons,2024-03-01
+2010-12-01,CXTCCO2,Carbon Dioxide Emissions from Coal,178.5769409,million metric tons,2024-03-01
+2010-11-01,CXTCCO2,Carbon Dioxide Emissions from Coal,148.6538153,million metric tons,2024-03-01
+2010-10-01,CXTCCO2,Carbon Dioxide Emissions from Coal,145.0959112,million metric tons,2024-03-01
+2010-09-01,CXTCCO2,Carbon Dioxide Emissions from Coal,161.8169115,million metric tons,2024-03-01
+2010-08-01,CXTCCO2,Carbon Dioxide Emissions from Coal,190.1351607,million metric tons,2024-03-01
+2010-07-01,CXTCCO2,Carbon Dioxide Emissions from Coal,190.3137804,million metric tons,2024-03-01
+2010-06-01,CXTCCO2,Carbon Dioxide Emissions from Coal,176.1555293,million metric tons,2024-03-01
+2010-05-01,CXTCCO2,Carbon Dioxide Emissions from Coal,154.8784894,million metric tons,2024-03-01
+2010-04-01,CXTCCO2,Carbon Dioxide Emissions from Coal,138.2489111,million metric tons,2024-03-01
+2010-03-01,CXTCCO2,Carbon Dioxide Emissions from Coal,156.6232914,million metric tons,2024-03-01
+2010-02-01,CXTCCO2,Carbon Dioxide Emissions from Coal,163.3741558,million metric tons,2024-03-01
+2010-01-01,CXTCCO2,Carbon Dioxide Emissions from Coal,182.0656754,million metric tons,2024-03-01
+2025-12-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,429.644,million metric tons,2024-03-01
+2025-11-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,384.4958,million metric tons,2024-03-01
+2025-10-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,375.2667,million metric tons,2024-03-01
+2025-09-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,373.0751,million metric tons,2024-03-01
+2025-08-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,419.1346,million metric tons,2024-03-01
+2025-07-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,416.7564,million metric tons,2024-03-01
+2025-06-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,380.4416,million metric tons,2024-03-01
+2025-05-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,364.0995,million metric tons,2024-03-01
+2025-04-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,349.5003,million metric tons,2024-03-01
+2025-03-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,397.2607,million metric tons,2024-03-01
+2025-02-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,384.4785,million metric tons,2024-03-01
+2025-01-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,454.3396,million metric tons,2024-03-01
+2024-12-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,432.276,million metric tons,2024-03-01
+2024-11-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,389.0353,million metric tons,2024-03-01
+2024-10-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,379.2036,million metric tons,2024-03-01
+2024-09-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,374.8433,million metric tons,2024-03-01
+2024-08-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,420.7527,million metric tons,2024-03-01
+2024-07-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,416.7428,million metric tons,2024-03-01
+2024-06-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,382.3443,million metric tons,2024-03-01
+2024-05-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,368.4897,million metric tons,2024-03-01
+2024-04-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,354.8089,million metric tons,2024-03-01
+2024-03-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,390.6272,million metric tons,2024-03-01
+2024-02-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,394.2171,million metric tons,2024-03-01
+2024-01-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,475.1107,million metric tons,2024-03-01
+2023-12-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,433.2603,million metric tons,2024-03-01
+2023-11-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,403.27632095,million metric tons,2024-03-01
+2023-10-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,386.81675457,million metric tons,2024-03-01
+2023-09-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,380.38981453,million metric tons,2024-03-01
+2023-08-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,428.92215,million metric tons,2024-03-01
+2023-07-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,417.46921127,million metric tons,2024-03-01
+2023-06-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,381.56864019,million metric tons,2024-03-01
+2023-05-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,368.8657579,million metric tons,2024-03-01
+2023-04-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,363.00257652,million metric tons,2024-03-01
+2023-03-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,415.93294851,million metric tons,2024-03-01
+2023-02-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,387.24118986,million metric tons,2024-03-01
+2023-01-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,432.08548363,million metric tons,2024-03-01
+2022-12-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,451.540111,million metric tons,2024-03-01
+2022-11-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,402.93553128,million metric tons,2024-03-01
+2022-10-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,381.43620841,million metric tons,2024-03-01
+2022-09-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,384.63987334,million metric tons,2024-03-01
+2022-08-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,427.0117536,million metric tons,2024-03-01
+2022-07-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,424.26525935,million metric tons,2024-03-01
+2022-06-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,394.55803267,million metric tons,2024-03-01
+2022-05-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,380.59419222,million metric tons,2024-03-01
+2022-04-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,372.31409078,million metric tons,2024-03-01
+2022-03-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,415.99966663,million metric tons,2024-03-01
+2022-02-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,419.88839364,million metric tons,2024-03-01
+2022-01-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,475.07370081,million metric tons,2024-03-01
+2021-12-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,429.06364913,million metric tons,2024-03-01
+2021-11-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,403.30713853,million metric tons,2024-03-01
+2021-10-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,388.17423414,million metric tons,2024-03-01
+2021-09-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,388.78486876,million metric tons,2024-03-01
+2021-08-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,436.942373,million metric tons,2024-03-01
+2021-07-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,430.8790646,million metric tons,2024-03-01
+2021-06-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,403.96407065,million metric tons,2024-03-01
+2021-05-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,376.45155777,million metric tons,2024-03-01
+2021-04-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,368.00147409,million metric tons,2024-03-01
+2021-03-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,399.8509002,million metric tons,2024-03-01
+2021-02-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,419.59899414,million metric tons,2024-03-01
+2021-01-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,448.57526182,million metric tons,2024-03-01
+2020-12-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,435.71167707,million metric tons,2024-03-01
+2020-11-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,371.97770517,million metric tons,2024-03-01
+2020-10-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,370.46157101,million metric tons,2024-03-01
+2020-09-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,363.33306056,million metric tons,2024-03-01
+2020-08-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,405.20471339,million metric tons,2024-03-01
+2020-07-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,403.09578681,million metric tons,2024-03-01
+2020-06-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,347.22089427,million metric tons,2024-03-01
+2020-05-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,316.82394791,million metric tons,2024-03-01
+2020-04-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,304.69696127,million metric tons,2024-03-01
+2020-03-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,386.9204074,million metric tons,2024-03-01
+2020-02-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,417.59985379,million metric tons,2024-03-01
+2020-01-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,449.67141416,million metric tons,2024-03-01
+2019-12-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,454.33580637,million metric tons,2024-03-01
+2019-11-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,431.81372503,million metric tons,2024-03-01
+2019-10-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,403.54280895,million metric tons,2024-03-01
+2019-09-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,402.78928439,million metric tons,2024-03-01
+2019-08-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,442.8345034,million metric tons,2024-03-01
+2019-07-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,441.5025719,million metric tons,2024-03-01
+2019-06-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,400.96236022,million metric tons,2024-03-01
+2019-05-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,398.05603608,million metric tons,2024-03-01
+2019-04-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,382.21498306,million metric tons,2024-03-01
+2019-03-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,447.50360688,million metric tons,2024-03-01
+2019-02-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,431.8195512,million metric tons,2024-03-01
+2019-01-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,498.6647244,million metric tons,2024-03-01
+2018-12-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,471.8059546,million metric tons,2024-03-01
+2018-11-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,447.0953568,million metric tons,2024-03-01
+2018-10-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,425.00308261,million metric tons,2024-03-01
+2018-09-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,413.3059671,million metric tons,2024-03-01
+2018-08-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,458.2723944,million metric tons,2024-03-01
+2018-07-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,452.8801322,million metric tons,2024-03-01
+2018-06-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,419.6615528,million metric tons,2024-03-01
+2018-05-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,405.73281063,million metric tons,2024-03-01
+2018-04-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,402.01434313,million metric tons,2024-03-01
+2018-03-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,445.96588197,million metric tons,2024-03-01
+2018-02-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,413.91227914,million metric tons,2024-03-01
+2018-01-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,511.1368244,million metric tons,2024-03-01
+2017-12-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,485.2227011,million metric tons,2024-03-01
+2017-11-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,424.9157869,million metric tons,2024-03-01
+2017-10-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,406.9585109,million metric tons,2024-03-01
+2017-09-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,401.8769027,million metric tons,2024-03-01
+2017-08-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,443.3497081,million metric tons,2024-03-01
+2017-07-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,450.3878126,million metric tons,2024-03-01
+2017-06-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,414.8786446,million metric tons,2024-03-01
+2017-05-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,403.3853909,million metric tons,2024-03-01
+2017-04-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,382.5346485,million metric tons,2024-03-01
+2017-03-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,434.7700577,million metric tons,2024-03-01
+2017-02-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,395.8887683,million metric tons,2024-03-01
+2017-01-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,476.2638581,million metric tons,2024-03-01
+2016-12-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,485.1752875,million metric tons,2024-03-01
+2016-11-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,405.00891024,million metric tons,2024-03-01
+2016-10-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,407.9951946,million metric tons,2024-03-01
+2016-09-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,417.3819268,million metric tons,2024-03-01
+2016-08-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,465.6142078,million metric tons,2024-03-01
+2016-07-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,458.0342037,million metric tons,2024-03-01
+2016-06-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,423.8588871,million metric tons,2024-03-01
+2016-05-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,389.14145625,million metric tons,2024-03-01
+2016-04-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,381.64472925,million metric tons,2024-03-01
+2016-03-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,408.91810703,million metric tons,2024-03-01
+2016-02-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,432.7362586,million metric tons,2024-03-01
+2016-01-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,481.8847965,million metric tons,2024-03-01
+2015-12-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,437.190176,million metric tons,2024-03-01
+2015-11-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,405.19751123,million metric tons,2024-03-01
+2015-10-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,408.8200849,million metric tons,2024-03-01
+2015-09-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,417.6303648,million metric tons,2024-03-01
+2015-08-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,453.8546769,million metric tons,2024-03-01
+2015-07-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,462.7048505,million metric tons,2024-03-01
+2015-06-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,430.1581356,million metric tons,2024-03-01
+2015-05-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,408.5939086,million metric tons,2024-03-01
+2015-04-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,395.03538952,million metric tons,2024-03-01
+2015-03-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,454.7550121,million metric tons,2024-03-01
+2015-02-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,471.2592797,million metric tons,2024-03-01
+2015-01-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,505.5108747,million metric tons,2024-03-01
+2014-12-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,475.8683095,million metric tons,2024-03-01
+2014-11-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,446.0800005,million metric tons,2024-03-01
+2014-10-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,424.4956141,million metric tons,2024-03-01
+2014-09-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,421.16995987,million metric tons,2024-03-01
+2014-08-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,456.4761286,million metric tons,2024-03-01
+2014-07-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,455.8606873,million metric tons,2024-03-01
+2014-06-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,425.30362393,million metric tons,2024-03-01
+2014-05-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,415.08235698,million metric tons,2024-03-01
+2014-04-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,409.0282367,million metric tons,2024-03-01
+2014-03-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,468.6348059,million metric tons,2024-03-01
+2014-02-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,472.5527584,million metric tons,2024-03-01
+2014-01-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,531.9261386,million metric tons,2024-03-01
+2013-12-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,498.377316,million metric tons,2024-03-01
+2013-11-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,445.2153353,million metric tons,2024-03-01
+2013-10-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,423.8911957,million metric tons,2024-03-01
+2013-09-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,423.89592989,million metric tons,2024-03-01
+2013-08-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,455.2300975,million metric tons,2024-03-01
+2013-07-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,458.3856757,million metric tons,2024-03-01
+2013-06-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,423.39693879,million metric tons,2024-03-01
+2013-05-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,413.17152982,million metric tons,2024-03-01
+2013-04-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,408.5486632,million metric tons,2024-03-01
+2013-03-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,462.878196,million metric tons,2024-03-01
+2013-02-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,441.273134,million metric tons,2024-03-01
+2013-01-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,493.2738137,million metric tons,2024-03-01
+2012-12-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,463.2180293,million metric tons,2024-03-01
+2012-11-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,437.7337289,million metric tons,2024-03-01
+2012-10-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,421.9575275,million metric tons,2024-03-01
+2012-09-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,410.44663495,million metric tons,2024-03-01
+2012-08-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,462.8007769,million metric tons,2024-03-01
+2012-07-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,466.4972515,million metric tons,2024-03-01
+2012-06-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,426.5478465,million metric tons,2024-03-01
+2012-05-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,413.7039646,million metric tons,2024-03-01
+2012-04-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,389.7490245,million metric tons,2024-03-01
+2012-03-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,416.3911046,million metric tons,2024-03-01
+2012-02-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,439.1923378,million metric tons,2024-03-01
+2012-01-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,476.2484165,million metric tons,2024-03-01
+2011-12-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,474.0462958,million metric tons,2024-03-01
+2011-11-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,431.533803,million metric tons,2024-03-01
+2011-10-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,423.90026266,million metric tons,2024-03-01
+2011-09-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,427.35059698,million metric tons,2024-03-01
+2011-08-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,479.282463,million metric tons,2024-03-01
+2011-07-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,475.2063438,million metric tons,2024-03-01
+2011-06-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,444.17603487,million metric tons,2024-03-01
+2011-05-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,424.51833009,million metric tons,2024-03-01
+2011-04-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,417.54109552,million metric tons,2024-03-01
+2011-03-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,463.567676,million metric tons,2024-03-01
+2011-02-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,453.5720702,million metric tons,2024-03-01
+2011-01-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,528.279264,million metric tons,2024-03-01
+2010-12-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,526.5961533,million metric tons,2024-03-01
+2010-11-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,443.0802732,million metric tons,2024-03-01
+2010-10-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,426.20965175,million metric tons,2024-03-01
+2010-09-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,440.83219408,million metric tons,2024-03-01
+2010-08-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,489.6807339,million metric tons,2024-03-01
+2010-07-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,483.47228097,million metric tons,2024-03-01
+2010-06-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,456.43318301,million metric tons,2024-03-01
+2010-05-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,434.62875702,million metric tons,2024-03-01
+2010-04-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,419.49481094,million metric tons,2024-03-01
+2010-03-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,468.0587671,million metric tons,2024-03-01
+2010-02-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,470.5468666,million metric tons,2024-03-01
+2010-01-01,FFTCCO2,Carbon Dioxide Emissions from Fossil Fuels,523.2263985,million metric tons,2024-03-01
+2025-12-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,179.2916,million metric tons,2024-03-01
+2025-11-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,149.073,million metric tons,2024-03-01
+2025-10-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,131.6327,million metric tons,2024-03-01
+2025-09-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,125.9496,million metric tons,2024-03-01
+2025-08-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,142.2874,million metric tons,2024-03-01
+2025-07-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,142.9115,million metric tons,2024-03-01
+2025-06-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,127.6653,million metric tons,2024-03-01
+2025-05-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,124.05,million metric tons,2024-03-01
+2025-04-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,127.8365,million metric tons,2024-03-01
+2025-03-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,155.2453,million metric tons,2024-03-01
+2025-02-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,162.3583,million metric tons,2024-03-01
+2025-01-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,190.2028,million metric tons,2024-03-01
+2024-12-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,178.3885,million metric tons,2024-03-01
+2024-11-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,149.4146,million metric tons,2024-03-01
+2024-10-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,132.131,million metric tons,2024-03-01
+2024-09-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,127.7532,million metric tons,2024-03-01
+2024-08-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,144.1524,million metric tons,2024-03-01
+2024-07-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,146.1598,million metric tons,2024-03-01
+2024-06-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,128.631,million metric tons,2024-03-01
+2024-05-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,125.8432,million metric tons,2024-03-01
+2024-04-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,129.4178,million metric tons,2024-03-01
+2024-03-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,153.8592,million metric tons,2024-03-01
+2024-02-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,159.409,million metric tons,2024-03-01
+2024-01-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,197.4958,million metric tons,2024-03-01
+2023-12-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,175.442,million metric tons,2024-03-01
+2023-11-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,152.6610934,million metric tons,2024-03-01
+2023-10-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,131.7375594,million metric tons,2024-03-01
+2023-09-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,127.840627,million metric tons,2024-03-01
+2023-08-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,144.4085682,million metric tons,2024-03-01
+2023-07-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,143.917644,million metric tons,2024-03-01
+2023-06-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,127.1783154,million metric tons,2024-03-01
+2023-05-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,124.8225122,million metric tons,2024-03-01
+2023-04-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,130.5695097,million metric tons,2024-03-01
+2023-03-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,162.7096889,million metric tons,2024-03-01
+2023-02-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,159.4403512,million metric tons,2024-03-01
+2023-01-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,178.6527397,million metric tons,2024-03-01
+2022-12-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,182.7259284,million metric tons,2024-03-01
+2022-11-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,149.400149,million metric tons,2024-03-01
+2022-10-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,127.2174014,million metric tons,2024-03-01
+2022-09-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,123.5083693,million metric tons,2024-03-01
+2022-08-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,138.3769439,million metric tons,2024-03-01
+2022-07-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,139.6987995,million metric tons,2024-03-01
+2022-06-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,124.8282206,million metric tons,2024-03-01
+2022-05-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,120.564435,million metric tons,2024-03-01
+2022-04-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,126.9465785,million metric tons,2024-03-01
+2022-03-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,150.0123956,million metric tons,2024-03-01
+2022-02-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,164.9649891,million metric tons,2024-03-01
+2022-01-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,193.8992646,million metric tons,2024-03-01
+2021-12-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,162.7566905,million metric tons,2024-03-01
+2021-11-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,145.1157572,million metric tons,2024-03-01
+2021-10-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,121.8466654,million metric tons,2024-03-01
+2021-09-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,115.3025416,million metric tons,2024-03-01
+2021-08-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,131.5507727,million metric tons,2024-03-01
+2021-07-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,130.5453938,million metric tons,2024-03-01
+2021-06-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,121.009153,million metric tons,2024-03-01
+2021-05-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,114.0824534,million metric tons,2024-03-01
+2021-04-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,122.5748123,million metric tons,2024-03-01
+2021-03-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,142.74894,million metric tons,2024-03-01
+2021-02-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,167.8755714,million metric tons,2024-03-01
+2021-01-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,180.7111016,million metric tons,2024-03-01
+2020-12-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,172.6678837,million metric tons,2024-03-01
+2020-11-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,132.1356959,million metric tons,2024-03-01
+2020-10-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,125.2177429,million metric tons,2024-03-01
+2020-09-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,116.3325549,million metric tons,2024-03-01
+2020-08-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,129.8709037,million metric tons,2024-03-01
+2020-07-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,133.4229873,million metric tons,2024-03-01
+2020-06-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,115.2289087,million metric tons,2024-03-01
+2020-05-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,112.0501736,million metric tons,2024-03-01
+2020-04-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,122.3246296,million metric tons,2024-03-01
+2020-03-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,147.4595398,million metric tons,2024-03-01
+2020-02-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,165.9473256,million metric tons,2024-03-01
+2020-01-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,180.3425146,million metric tons,2024-03-01
+2019-12-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,171.867471,million metric tons,2024-03-01
+2019-11-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,150.7155231,million metric tons,2024-03-01
+2019-10-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,124.5915106,million metric tons,2024-03-01
+2019-09-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,119.1610343,million metric tons,2024-03-01
+2019-08-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,131.5659825,million metric tons,2024-03-01
+2019-07-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,129.4474972,million metric tons,2024-03-01
+2019-06-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,114.4397049,million metric tons,2024-03-01
+2019-05-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,115.17141,million metric tons,2024-03-01
+2019-04-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,119.502878,million metric tons,2024-03-01
+2019-03-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,158.6065526,million metric tons,2024-03-01
+2019-02-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,163.7665349,million metric tons,2024-03-01
+2019-01-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,185.7879767,million metric tons,2024-03-01
+2018-12-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,162.1630563,million metric tons,2024-03-01
+2018-11-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,146.6849579,million metric tons,2024-03-01
+2018-10-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,123.1713031,million metric tons,2024-03-01
+2018-09-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,116.1613625,million metric tons,2024-03-01
+2018-08-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,124.7834815,million metric tons,2024-03-01
+2018-07-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,126.8057273,million metric tons,2024-03-01
+2018-06-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,111.1105922,million metric tons,2024-03-01
+2018-05-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,110.6063882,million metric tons,2024-03-01
+2018-04-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,126.7889506,million metric tons,2024-03-01
+2018-03-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,151.1589537,million metric tons,2024-03-01
+2018-02-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,146.5627148,million metric tons,2024-03-01
+2018-01-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,180.9103986,million metric tons,2024-03-01
+2017-12-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,167.4919611,million metric tons,2024-03-01
+2017-11-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,127.7617331,million metric tons,2024-03-01
+2017-10-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,109.9286019,million metric tons,2024-03-01
+2017-09-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,103.8948782,million metric tons,2024-03-01
+2017-08-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,113.379219,million metric tons,2024-03-01
+2017-07-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,116.0166766,million metric tons,2024-03-01
+2017-06-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,103.3696588,million metric tons,2024-03-01
+2017-05-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,102.3585024,million metric tons,2024-03-01
+2017-04-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,104.5885899,million metric tons,2024-03-01
+2017-03-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,136.9061519,million metric tons,2024-03-01
+2017-02-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,126.9872865,million metric tons,2024-03-01
+2017-01-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,158.281348,million metric tons,2024-03-01
+2016-12-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,155.867028,million metric tons,2024-03-01
+2016-11-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,117.1679101,million metric tons,2024-03-01
+2016-10-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,104.3276057,million metric tons,2024-03-01
+2016-09-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,105.5704712,million metric tons,2024-03-01
+2016-08-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,119.7925015,million metric tons,2024-03-01
+2016-07-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,118.6170127,million metric tons,2024-03-01
+2016-06-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,108.4896187,million metric tons,2024-03-01
+2016-05-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,106.5547188,million metric tons,2024-03-01
+2016-04-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,113.0522491,million metric tons,2024-03-01
+2016-03-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,127.9364823,million metric tons,2024-03-01
+2016-02-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,144.2274025,million metric tons,2024-03-01
+2016-01-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,168.2484597,million metric tons,2024-03-01
+2015-12-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,140.618837,million metric tons,2024-03-01
+2015-11-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,122.0720571,million metric tons,2024-03-01
+2015-10-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,107.7222604,million metric tons,2024-03-01
+2015-09-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,103.0593228,million metric tons,2024-03-01
+2015-08-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,111.3199982,million metric tons,2024-03-01
+2015-07-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,112.1543565,million metric tons,2024-03-01
+2015-06-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,102.9907498,million metric tons,2024-03-01
+2015-05-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,100.6438619,million metric tons,2024-03-01
+2015-04-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,108.8707596,million metric tons,2024-03-01
+2015-03-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,140.8042309,million metric tons,2024-03-01
+2015-02-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,159.1668214,million metric tons,2024-03-01
+2015-01-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,169.4612378,million metric tons,2024-03-01
+2014-12-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,145.0357831,million metric tons,2024-03-01
+2014-11-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,127.5006765,million metric tons,2024-03-01
+2014-10-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,103.2283776,million metric tons,2024-03-01
+2014-09-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,97.59803977,million metric tons,2024-03-01
+2014-08-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,104.3133388,million metric tons,2024-03-01
+2014-07-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,101.4816691,million metric tons,2024-03-01
+2014-06-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,94.11973543,million metric tons,2024-03-01
+2014-05-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,97.63954248,million metric tons,2024-03-01
+2014-04-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,105.9083438,million metric tons,2024-03-01
+2014-03-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,138.4397565,million metric tons,2024-03-01
+2014-02-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,148.5362968,million metric tons,2024-03-01
+2014-01-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,173.7348867,million metric tons,2024-03-01
+2013-12-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,157.5963837,million metric tons,2024-03-01
+2013-11-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,124.7916189,million metric tons,2024-03-01
+2013-10-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,100.3249517,million metric tons,2024-03-01
+2013-09-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,94.95280039,million metric tons,2024-03-01
+2013-08-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,103.6453839,million metric tons,2024-03-01
+2013-07-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,103.6160848,million metric tons,2024-03-01
+2013-06-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,93.67064899,million metric tons,2024-03-01
+2013-05-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,94.13753242,million metric tons,2024-03-01
+2013-04-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,105.8527558,million metric tons,2024-03-01
+2013-03-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,135.917572,million metric tons,2024-03-01
+2013-02-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,138.5060657,million metric tons,2024-03-01
+2013-01-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,155.3681691,million metric tons,2024-03-01
+2012-12-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,134.6545413,million metric tons,2024-03-01
+2012-11-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,116.4444101,million metric tons,2024-03-01
+2012-10-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,101.9454306,million metric tons,2024-03-01
+2012-09-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,96.89023735,million metric tons,2024-03-01
+2012-08-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,107.8085611,million metric tons,2024-03-01
+2012-07-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,111.1398345,million metric tons,2024-03-01
+2012-06-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,100.2340717,million metric tons,2024-03-01
+2012-05-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,100.5046701,million metric tons,2024-03-01
+2012-04-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,104.823086,million metric tons,2024-03-01
+2012-03-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,114.2613291,million metric tons,2024-03-01
+2012-02-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,134.529756,million metric tons,2024-03-01
+2012-01-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,148.325155,million metric tons,2024-03-01
+2011-12-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,136.4805712,million metric tons,2024-03-01
+2011-11-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,108.89751,million metric tons,2024-03-01
+2011-10-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,93.33961376,million metric tons,2024-03-01
+2011-09-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,88.58875788,million metric tons,2024-03-01
+2011-08-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,101.3895646,million metric tons,2024-03-01
+2011-07-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,101.3413162,million metric tons,2024-03-01
+2011-06-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,88.70699257,million metric tons,2024-03-01
+2011-05-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,89.19095589,million metric tons,2024-03-01
+2011-04-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,97.73631262,million metric tons,2024-03-01
+2011-03-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,119.6348204,million metric tons,2024-03-01
+2011-02-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,131.7435507,million metric tons,2024-03-01
+2011-01-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,155.2780607,million metric tons,2024-03-01
+2010-12-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,145.9419848,million metric tons,2024-03-01
+2010-11-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,105.8376616,million metric tons,2024-03-01
+2010-10-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,89.14196595,million metric tons,2024-03-01
+2010-09-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,87.68786068,million metric tons,2024-03-01
+2010-08-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,100.7879242,million metric tons,2024-03-01
+2010-07-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,97.90737097,million metric tons,2024-03-01
+2010-06-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,88.35767821,million metric tons,2024-03-01
+2010-05-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,86.56422042,million metric tons,2024-03-01
+2010-04-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,90.63660374,million metric tons,2024-03-01
+2010-03-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,115.0161236,million metric tons,2024-03-01
+2010-02-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,133.4014984,million metric tons,2024-03-01
+2010-01-01,NGTCCO2,Carbon Dioxide Emissions from Natural Gas,151.157286,million metric tons,2024-03-01
+2025-12-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,193.6466,million metric tons,2024-03-01
+2025-11-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,183.4402,million metric tons,2024-03-01
+2025-10-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,191.5371,million metric tons,2024-03-01
+2025-09-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,183.281,million metric tons,2024-03-01
+2025-08-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,195.1053,million metric tons,2024-03-01
+2025-07-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,191.3172,million metric tons,2024-03-01
+2025-06-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,188.0299,million metric tons,2024-03-01
+2025-05-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,192.6476,million metric tons,2024-03-01
+2025-04-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,185.3667,million metric tons,2024-03-01
+2025-03-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,193.4321,million metric tons,2024-03-01
+2025-02-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,172.0522,million metric tons,2024-03-01
+2025-01-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,188.3898,million metric tons,2024-03-01
+2024-12-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,192.3442,million metric tons,2024-03-01
+2024-11-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,184.1846,million metric tons,2024-03-01
+2024-10-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,191.6125,million metric tons,2024-03-01
+2024-09-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,182.6625,million metric tons,2024-03-01
+2024-08-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,196.2296,million metric tons,2024-03-01
+2024-07-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,191.0753,million metric tons,2024-03-01
+2024-06-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,187.08,million metric tons,2024-03-01
+2024-05-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,193.4958,million metric tons,2024-03-01
+2024-04-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,185.7954,million metric tons,2024-03-01
+2024-03-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,190.0256,million metric tons,2024-03-01
+2024-02-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,182.6253,million metric tons,2024-03-01
+2024-01-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,192.9238,million metric tons,2024-03-01
+2023-12-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,193.9557,million metric tons,2024-03-01
+2023-11-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,190.100686,million metric tons,2024-03-01
+2023-10-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,194.2115627,million metric tons,2024-03-01
+2023-09-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,184.3377062,million metric tons,2024-03-01
+2023-08-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,198.7355189,million metric tons,2024-03-01
+2023-07-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,186.9442366,million metric tons,2024-03-01
+2023-06-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,187.3220011,million metric tons,2024-03-01
+2023-05-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,191.1455614,million metric tons,2024-03-01
+2023-04-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,184.405505,million metric tons,2024-03-01
+2023-03-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,193.8895837,million metric tons,2024-03-01
+2023-02-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,171.9739548,million metric tons,2024-03-01
+2023-01-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,181.9638059,million metric tons,2024-03-01
+2022-12-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,186.3219414,million metric tons,2024-03-01
+2022-11-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,187.6993954,million metric tons,2024-03-01
+2022-10-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,190.01734,million metric tons,2024-03-01
+2022-09-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,186.7935508,million metric tons,2024-03-01
+2022-08-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,194.188058,million metric tons,2024-03-01
+2022-07-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,188.1610819,million metric tons,2024-03-01
+2022-06-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,187.1405918,million metric tons,2024-03-01
+2022-05-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,189.7577787,million metric tons,2024-03-01
+2022-04-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,182.3506868,million metric tons,2024-03-01
+2022-03-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,196.234966,million metric tons,2024-03-01
+2022-02-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,175.1337864,million metric tons,2024-03-01
+2022-01-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,185.6647277,million metric tons,2024-03-01
+2021-12-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,195.9668253,million metric tons,2024-03-01
+2021-11-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,190.7931683,million metric tons,2024-03-01
+2021-10-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,193.6279725,million metric tons,2024-03-01
+2021-09-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,185.6664089,million metric tons,2024-03-01
+2021-08-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,195.7650429,million metric tons,2024-03-01
+2021-07-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,190.2535948,million metric tons,2024-03-01
+2021-06-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,188.5222428,million metric tons,2024-03-01
+2021-05-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,189.9673266,million metric tons,2024-03-01
+2021-04-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,183.3660149,million metric tons,2024-03-01
+2021-03-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,186.0079869,million metric tons,2024-03-01
+2021-02-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,157.1346012,million metric tons,2024-03-01
+2021-01-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,177.7519154,million metric tons,2024-03-01
+2020-12-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,176.548881,million metric tons,2024-03-01
+2020-11-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,170.2984942,million metric tons,2024-03-01
+2020-10-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,176.4907716,million metric tons,2024-03-01
+2020-09-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,170.2631459,million metric tons,2024-03-01
+2020-08-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,177.267746,million metric tons,2024-03-01
+2020-07-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,172.981833,million metric tons,2024-03-01
+2020-06-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,158.7978848,million metric tons,2024-03-01
+2020-05-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,149.8222763,million metric tons,2024-03-01
+2020-04-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,132.8909188,million metric tons,2024-03-01
+2020-03-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,178.7223825,million metric tons,2024-03-01
+2020-02-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,185.1995353,million metric tons,2024-03-01
+2020-01-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,194.2378089,million metric tons,2024-03-01
+2019-12-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,200.5693218,million metric tons,2024-03-01
+2019-11-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,196.8391229,million metric tons,2024-03-01
+2019-10-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,202.5020419,million metric tons,2024-03-01
+2019-09-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,189.9092279,million metric tons,2024-03-01
+2019-08-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,207.9868551,million metric tons,2024-03-01
+2019-07-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,202.5309301,million metric tons,2024-03-01
+2019-06-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,197.78854,million metric tons,2024-03-01
+2019-05-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,201.6972491,million metric tons,2024-03-01
+2019-04-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,193.855935,million metric tons,2024-03-01
+2019-03-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,199.896451,million metric tons,2024-03-01
+2019-02-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,177.6286237,million metric tons,2024-03-01
+2019-01-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,202.6917063,million metric tons,2024-03-01
+2018-12-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,199.3249447,million metric tons,2024-03-01
+2018-11-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,197.4132682,million metric tons,2024-03-01
+2018-10-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,204.7498937,million metric tons,2024-03-01
+2018-09-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,190.3213704,million metric tons,2024-03-01
+2018-08-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,208.9310577,million metric tons,2024-03-01
+2018-07-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,201.3969324,million metric tons,2024-03-01
+2018-06-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,198.0730227,million metric tons,2024-03-01
+2018-05-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,200.2498832,million metric tons,2024-03-01
+2018-04-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,192.7444552,million metric tons,2024-03-01
+2018-03-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,204.9639554,million metric tons,2024-03-01
+2018-02-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,175.4605584,million metric tons,2024-03-01
+2018-01-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,203.693942,million metric tons,2024-03-01
+2017-12-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,202.0135293,million metric tons,2024-03-01
+2017-11-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,195.3495285,million metric tons,2024-03-01
+2017-10-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,197.0273287,million metric tons,2024-03-01
+2017-09-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,189.3920042,million metric tons,2024-03-01
+2017-08-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,201.1719541,million metric tons,2024-03-01
+2017-07-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,198.1081867,million metric tons,2024-03-01
+2017-06-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,195.6619622,million metric tons,2024-03-01
+2017-05-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,199.293638,million metric tons,2024-03-01
+2017-04-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,188.3089377,million metric tons,2024-03-01
+2017-03-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,199.5842706,million metric tons,2024-03-01
+2017-02-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,172.3524067,million metric tons,2024-03-01
+2017-01-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,193.2524481,million metric tons,2024-03-01
+2016-12-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,200.6926389,million metric tons,2024-03-01
+2016-11-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,190.6618101,million metric tons,2024-03-01
+2016-10-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,194.5383293,million metric tons,2024-03-01
+2016-09-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,188.5014965,million metric tons,2024-03-01
+2016-08-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,201.425502,million metric tons,2024-03-01
+2016-07-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,194.1260773,million metric tons,2024-03-01
+2016-06-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,190.1090466,million metric tons,2024-03-01
+2016-05-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,190.7735557,million metric tons,2024-03-01
+2016-04-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,187.7608115,million metric tons,2024-03-01
+2016-03-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,197.7630877,million metric tons,2024-03-01
+2016-02-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,185.8593685,million metric tons,2024-03-01
+2016-01-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,190.1305173,million metric tons,2024-03-01
+2015-12-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,194.3098718,million metric tons,2024-03-01
+2015-11-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,183.4298888,million metric tons,2024-03-01
+2015-10-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,192.516249,million metric tons,2024-03-01
+2015-09-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,185.7991948,million metric tons,2024-03-01
+2015-08-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,196.9047072,million metric tons,2024-03-01
+2015-07-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,199.5376997,million metric tons,2024-03-01
+2015-06-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,190.3288699,million metric tons,2024-03-01
+2015-05-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,192.9672254,million metric tons,2024-03-01
+2015-04-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,187.1689023,million metric tons,2024-03-01
+2015-03-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,195.6995951,million metric tons,2024-03-01
+2015-02-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,177.9184828,million metric tons,2024-03-01
+2015-01-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,193.3471633,million metric tons,2024-03-01
+2014-12-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,193.6913566,million metric tons,2024-03-01
+2014-11-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,187.4123347,million metric tons,2024-03-01
+2014-10-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,196.8554874,million metric tons,2024-03-01
+2014-09-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,184.9132082,million metric tons,2024-03-01
+2014-08-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,191.2463095,million metric tons,2024-03-01
+2014-07-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,192.5181505,million metric tons,2024-03-01
+2014-06-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,182.7772039,million metric tons,2024-03-01
+2014-05-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,188.1575083,million metric tons,2024-03-01
+2014-04-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,184.8179375,million metric tons,2024-03-01
+2014-03-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,185.0592924,million metric tons,2024-03-01
+2014-02-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,171.9270926,million metric tons,2024-03-01
+2014-01-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,192.1991973,million metric tons,2024-03-01
+2013-12-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,187.0850389,million metric tons,2024-03-01
+2013-11-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,187.6761852,million metric tons,2024-03-01
+2013-10-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,189.8608198,million metric tons,2024-03-01
+2013-09-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,184.1321166,million metric tons,2024-03-01
+2013-08-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,189.9329933,million metric tons,2024-03-01
+2013-07-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,191.1112955,million metric tons,2024-03-01
+2013-06-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,181.0597069,million metric tons,2024-03-01
+2013-05-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,188.7582985,million metric tons,2024-03-01
+2013-04-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,179.850103,million metric tons,2024-03-01
+2013-03-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,185.9720397,million metric tons,2024-03-01
+2013-02-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,167.790152,million metric tons,2024-03-01
+2013-01-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,188.0845647,million metric tons,2024-03-01
+2012-12-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,181.8728604,million metric tons,2024-03-01
+2012-11-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,181.2180459,million metric tons,2024-03-01
+2012-10-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,186.572913,million metric tons,2024-03-01
+2012-09-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,175.0495393,million metric tons,2024-03-01
+2012-08-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,191.4786617,million metric tons,2024-03-01
+2012-07-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,185.2192518,million metric tons,2024-03-01
+2012-06-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,183.6473858,million metric tons,2024-03-01
+2012-05-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,186.1228682,million metric tons,2024-03-01
+2012-04-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,177.7101823,million metric tons,2024-03-01
+2012-03-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,183.7957068,million metric tons,2024-03-01
+2012-02-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,176.8585643,million metric tons,2024-03-01
+2012-01-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,185.5063052,million metric tons,2024-03-01
+2011-12-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,188.8362417,million metric tons,2024-03-01
+2011-11-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,186.7445496,million metric tons,2024-03-01
+2011-10-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,189.7890823,million metric tons,2024-03-01
+2011-09-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,184.7851854,million metric tons,2024-03-01
+2011-08-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,195.0270291,million metric tons,2024-03-01
+2011-07-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,188.135823,million metric tons,2024-03-01
+2011-06-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,187.8989498,million metric tons,2024-03-01
+2011-05-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,187.1944774,million metric tons,2024-03-01
+2011-04-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,184.1529249,million metric tons,2024-03-01
+2011-03-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,196.2843392,million metric tons,2024-03-01
+2011-02-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,172.9839279,million metric tons,2024-03-01
+2011-01-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,193.2126256,million metric tons,2024-03-01
+2010-12-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,202.0772276,million metric tons,2024-03-01
+2010-11-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,188.5887963,million metric tons,2024-03-01
+2010-10-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,191.9717746,million metric tons,2024-03-01
+2010-09-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,191.3274219,million metric tons,2024-03-01
+2010-08-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,198.757649,million metric tons,2024-03-01
+2010-07-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,195.2511296,million metric tons,2024-03-01
+2010-06-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,191.9199755,million metric tons,2024-03-01
+2010-05-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,193.1860472,million metric tons,2024-03-01
+2010-04-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,190.6092961,million metric tons,2024-03-01
+2010-03-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,196.4193521,million metric tons,2024-03-01
+2010-02-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,173.7712124,million metric tons,2024-03-01
+2010-01-01,PATCCO2,Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels,190.0034371,million metric tons,2024-03-01

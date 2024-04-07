@@ -1,1 +1,3 @@
-The purpose of this repository is to track changes in EIA Short Term Energy Outlook forecasts and to provide users with the ability to view 
+# eia-steo
+
+functions.ipynb is the updated functions notebook with some visuals

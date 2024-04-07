@@ -1,3 +1,14 @@
-# eia-steo
+# Energy Information Administration (EIA) Short-Term Energy Outlook (STEO) Tracker
 
-functions.ipynb is the updated functions notebook with some visuals
+### Purpose
+The purpose of this repository is to provide a process by which anyone can track the following: 
+- Changes in STEO forecasts by topic.
+- The most current STEO forecast released.
+
+### Resources
+[EIA Short-Term Energy Outlook Open Data](https://www.eia.gov/opendata/browser/steo)
+
+### Python Packages Used
+- Pandas
+- Seaborn
+
